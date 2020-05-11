@@ -2,19 +2,16 @@
 # Site settings
 title: "Service Innovation Lab"
 description: >
-  The Service Innovation Lab is an All-of-Government lab in Aotearoa New Zealand,
-  hosting and enabling collaboration across agencies.
-  We research, design, and develop ways to
-  improve people’s experiences
+  The Service Innovation Lab is an All-of-Government lab in Aotearoa New Zealand,hosting and enabling collaboration across agencies. We research, design, and develop ways to improve people’s experiences
   when they interact with government.
-baseurl: ""  # the subpath of your site, e.g. /blog
+baseurl: "/staging-site"  # the subpath of your site, e.g. /blog
 permalink: pretty
 url: "https://serviceinnovationlab.github.io/"  # the base hostname & protocol for your sites
 localhost: "localhost:4000"
 env: "production"
 logo: /assets/img/SIL-Logo-Animation_white.gif
 tag_dir: tags
-github_repo: https://github.com/ServiceInnovationLab/serviceinnovationlab.github.io
+github_repo: https://github.com/ServiceInnovationLab/staging-site
 background-image: url('')
 related_posts: 3
 
