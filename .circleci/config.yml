@@ -121,7 +121,7 @@ jobs:
       - image: circleci/ruby:2.6.3-node
     environment:
       DIST_FOLDER: '_site'
-      PUBLISH_BRANCH: 'master'
+      PUBLISH_BRANCH: 'gh-pages'
       REMOTE: origin
     steps:
       - checkout
@@ -187,9 +187,9 @@ workflows:
             - rubydeps
           filters:
             branches:
+              - gh-pages
               ignore:
                 - master
-                - gh-pages
       - markdownlint:
           requires:
             - nodejsdeps
