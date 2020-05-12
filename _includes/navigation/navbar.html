@@ -2,9 +2,9 @@
   {% for item in include.nav_items %}
     <li>
       {% if item.permalink %}
-        {% assign item_link = item.permalink | relative_url %}
+        {% assign item_link = item.permalink | prepend: site.url | relative_url %}
       {% else %}
-        {% assign item_link = item.text | slugify | hash_link | relative_url %}
+        {% assign item_link = item.text | slugify | hash_link | prepend: site.url | relative_url %}
       {% endif %}
 
       {% if item.multiple_permalinks %}
