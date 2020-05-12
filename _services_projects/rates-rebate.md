@@ -12,7 +12,7 @@ github_repo:
     - "[Rates Rebate-backend](https://github.com/ServiceInnovationLab/pancake-backend)"
 media:
 report:
-    - "[Rates Rebate - The story from discovery to alpha](/2018/11/30/Rates-Rebate/)"
-    - "[Rates Rebate Beta Research Report](/2019/07/30/Rates-Rebate-Beta-Research-Report/)"
-    - "[Rates Rebate Recommendations Report](/2019/08/02/Rates-Rebates-Recommendations-Report/)"
+    - "[Rates Rebate - The story from discovery to alpha](/staging-site/2018/11/30/Rates-Rebate/)"
+    - "[Rates Rebate Beta Research Report](/staging-site/2019/07/30/Rates-Rebate-Beta-Research-Report/)"
+    - "[Rates Rebate Recommendations Report](/staging-site/2019/08/02/Rates-Rebates-Recommendations-Report/)"
 ---

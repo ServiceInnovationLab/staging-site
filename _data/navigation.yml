@@ -1,36 +1,36 @@
 ---
 navbar:
   - text: About
-    permalink: /about/
+    permalink: /staging-site/about/
   - text: Expertise
-    permalink: /expertise/
+    permalink: /staging-site/expertise/
   - text: Projects
-    permalink: /projects/
+    permalink: /staging-site/projects/
     multiple_permalinks:
-      - /projects/:path/
+      - /staging-site/projects/:path/
   - text: Tools
-    permalink: /tools/
+    permalink: /staging-site/tools/
   - text: Reports
-    permalink: /blog/
+    permalink: /staging-site/blog/
   - text: Team
-    permalink: /team/
+    permalink: /staging-site/team/
   - text: Contact
-    permalink: /contact/
+    permalink: /staging-site/contact/
 
 drawer:
   - text: About
-    permalink: /about/
+    permalink: /staging-site/about/
   - text: Expertise
-    permalink: /expertise/
+    permalink: /staging-site/expertise/
   - text: Projects
-    permalink: /projects/
+    permalink: /staging-site/projects/
     multiple_permalinks:
-      - /projects/:path/
+      - /staging-site/projects/:path/
   - text: Tools
-    permalink: /tools/
+    permalink: /staging-site/tools/
   - text: Reports
-    permalink: /blog/
+    permalink: /staging-site/blog/
   - text: Team
-    permalink: /team/
+    permalink: /staging-site/team/
   - text: Contact
-    permalink: /contact/
+    permalink: /staging-site/contact/

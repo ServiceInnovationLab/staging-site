@@ -27,9 +27,7 @@ h2 {
     <div class="nz-section-bottom">
       <div class="nz-flex nz-flex-wrap">
         {% assign projects_list = site | find_collection: 'services_projects' | weighted_sort: 'project_weight', 'title' %}
-          console.log({{ projects_list }}1
         {% for project in projects_list %}
-          console.log({{ project }}2
           {% include card.html
            image_src=project.image
            image_alt=project.image_accessibility

@@ -6,7 +6,7 @@ permalink: /projects/20-year-emtech-landscape/
 excerpt: The next 20 years of emerging tech is vast, this landscape provides you with a visualisation of what to expect in the future.
 image: /assets/img/projects/20yr-emtech-landscape-image.png
 image_accessibility: Image showing the 20 year landscape. Click on this to view the blogpost and a detailed view of the landscape.
-media: "[20 Year EmTech Landscape](/assets/media/20-Year-Emtech-Landscape/Emerging-Technology-20Year-Landscape.pdf)"
+media: "[20 Year EmTech Landscape](/staging-site/assets/media/20-Year-Emtech-Landscape/Emerging-Technology-20Year-Landscape.pdf)"
 resources:
 ---
 <br/>
@@ -20,7 +20,7 @@ The diagram displays a time scale of “Current”, “0 to 5 years”, “5 to 
 
 It is worth noting that this landscape projects details up to the use and release of Quantum Computing as the possibilities of the technology being ubiquitously used, will more than likely change the entire landscape.
 
-[![20 Year Emerging Technology Landscape](/assets/media/20-Year-Emtech-Landscape/20yr-emtech-landscape.png)](/assets/media/20-Year-Emtech-Landscape/20yr-emtech-landscape.png)
+[![20 Year Emerging Technology Landscape](/staging-site/assets/media/20-Year-Emtech-Landscape/20yr-emtech-landscape.png)](/assets/media/20-Year-Emtech-Landscape/20yr-emtech-landscape.png)
 [Detailed description of the 20 Year Emerging Technology Landscape](#Go-to-DetailedDescription)
 
 ### How the Landscape was constructed
