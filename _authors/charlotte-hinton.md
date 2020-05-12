@@ -3,7 +3,7 @@ name: charlotte-hinton
 first_name: Charlotte
 last_name: Hinton
 full_name: Charlotte Hinton
-image: "/assets/img/team/charlotte-square.jpg"
+image: "../assets/img/team/charlotte-square.jpg"
 active: false
 github: CharlotteHinton
 published: true

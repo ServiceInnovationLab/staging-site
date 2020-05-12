@@ -4,7 +4,7 @@ first_name: Merrin
 last_name: MacLeod
 full_name: Merrin Macleod
 role: Software Engineer
-image: "/assets/img/team/merrin.jpg"
+image: "../assets/img/team/merrin.jpg"
 active: true
 published: true
 github: mermop

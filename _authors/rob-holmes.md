@@ -4,7 +4,7 @@ first_name: Rob
 last_name: Holmes
 full_name: Rob Holmes
 role: Senior Product Owner
-image: "/assets/img/team/rob-square.jpg"
+image: "../assets/img/team/rob-square.jpg"
 active: false
 github: robholmesnz
 published: true

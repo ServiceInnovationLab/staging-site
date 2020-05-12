@@ -3,7 +3,7 @@ name: darryl-carpenter
 first_name: Darryl
 last_name: Carpenter
 full_name: Darryl Carpenter
-image: "/assets/img/team/darryl.jpg"
+image: "../assets/img/team/darryl.jpg"
 active: true
 published: true
 thinking: "How can I lead better and how can I enable & support other leaders to lead better."
