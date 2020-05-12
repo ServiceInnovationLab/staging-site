@@ -9,6 +9,6 @@ image_accessibility: Becoming an adult.
 media:
 resources:
 report:
-  - "[Service Innovation Lab - Shaping government services around entry to adulthood](/2019/06/12/Becoming-An-Adult/)"
-  - "[Service Innovation Lab - Using Kumu to share our research](/2019/07/10/Using-Kumu-To-Share-Our-Research/)"
+  - "[Service Innovation Lab - Shaping government services around entry to adulthood](/staging-site/2019/06/12/Becoming-An-Adult/)"
+  - "[Service Innovation Lab - Using Kumu to share our research](/staging-site/2019/07/10/Using-Kumu-To-Share-Our-Research/)"
 ---
