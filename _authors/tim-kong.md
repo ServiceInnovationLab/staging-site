@@ -3,7 +3,7 @@ name: tim-kong
 first_name: Tim
 last_name: Kong
 full_name: Tim Kong
-image: "/assets/img/team/tim.jpg"
+image: "../assets/img/team/tim.jpg"
 active: false
 published: true
 github: timoslimo

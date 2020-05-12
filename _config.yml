@@ -9,7 +9,7 @@ description: >
   when they interact with government.
 baseurl: "/staging-site"  # the subpath of your site, e.g. /blog
 permalink: pretty
-url: "https://serviceinnovationlab.github.io/"  # the base hostname & protocol for your sites
+url: "https://serviceinnovationlab.github.io"  # the base hostname & protocol for your sites
 localhost: "localhost:4000"
 env: "production"
 logo: /assets/img/SIL-Logo-Animation_white.gif

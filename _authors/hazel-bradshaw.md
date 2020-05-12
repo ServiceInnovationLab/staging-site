@@ -4,7 +4,7 @@ first_name: Hazel
 last_name: Bradshaw
 full_name: Hazel Bradshaw
 role: Emerging Technologies Lead
-image: "/assets/img/team/hazel.jpg"
+image: "../assets/img/team/hazel.jpg"
 active: false
 github: Driedfrog
 thinking: Emerging technologies and environmental-centred design.
