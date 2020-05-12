@@ -137,7 +137,7 @@ jobs:
           command: npm install
       - add_ssh_keys:
           fingerprints:
-            - "eb:35:35:3f:6f:f5:45:2e:e3:16:15:33:02:02:81:ea"
+            - "77:96:94:c6:fd:9a:b0:4f:e6:a3:3d:9b:04:41:b4:59"
       - run:
           name: Building static site
           command: bundle exec jekyll build
