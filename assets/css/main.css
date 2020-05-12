@@ -3571,7 +3571,7 @@ figcaption {
   padding-top: 0.9375rem; }
 
 .background-image-homepage {
-  background-image: url("/assets/img/homepagebg_blue.png");
+  background-image: url("../../assets/img/homepagebg_blue.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center; }
