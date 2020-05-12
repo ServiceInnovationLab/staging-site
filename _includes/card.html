@@ -1,4 +1,4 @@
-{% assign card_link = include.link | prepend: site.baseurl %}
+{% assign card_link = include.link | absolute_url %}
 
 {% assign columns = include.columns | default: 3 %}
 
