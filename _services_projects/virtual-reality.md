@@ -15,7 +15,6 @@ resources:
 quote:
 ---
 
-##HEADING 2
+## HEADING 2
 
 image
-
