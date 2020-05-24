@@ -28,39 +28,11 @@ $(function() {
     },
   );
 
-  // Mailchimp
-  var $form = $('#contact-form'),
-    $newsletter = $('#newsletter'),
-    $newsletterSuccess = $('#newsletter-success'),
-    $newsletterEmail = $('#newsletter-email');
-
-  var defaultNewsletterText = $newsletter.text();
-
-  var newsletterForm = {
-    response: function() {
-      var email = $newsletterEmail.val();
-      $('#newsletter-response').text(email);
-      $form.hide();
-      $newsletterSuccess.show();
-    },
-    reset: function(argument) {
-      $newsletter.text(defaultNewsletterText);
-      $newsletterEmail.val('');
-      $form.show();
-      $newsletterSuccess.hide();
-      $newsletterEmail.focus();
-    },
-  };
-
   function callbackFunction(resp) {
     if (resp.result === 'success') {
       newsletterForm.response();
     }
   }
-
-  $('#button-reset').on('click', function() {
-    newsletterForm.reset();
-  });
 
   $('.search-interface').on('submit', function() {
     $('#search-loading').show();
