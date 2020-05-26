@@ -6,10 +6,31 @@ title: Home
 
 <section class="nz-grid-full nz-flex">
   <div class="hero" role="main">
-    <div class="vertical" role="main">
-      <h1 class="heading">Welcome to<br />The Service Innovation Lab</h1>
-      <a class="btn btn-primary btn-lg" role="button" href="{{ site.baseurl }}/tools">Toolkit</a>
-    </div>
-    </body>
+    <!-- <div class="vertical" role="main"> -->
+      <div class="nz-grid">
+        <h1 class="main-heading">People Centered Innovation</h1>
+        <!-- <a class="btn btn-primary btn-lg" role="button" href="{{ site.baseurl }}/tools">Toolkit</a> -->
+        <h2 class="secondary-heading">Our Public Sector Innovation Stories</h1>
+        <section class="nz-section">
+          <!-- <div class="nz-section-bottom"> -->
+            <div class="nz-flex nz-flex-wrap">
+              {% assign stories_list = site | find_collection: 'stories' | weighted_sort: 'story_weight', 'title' %}
+              {% for story in stories_list %}
+                {% include card.html
+                 image_src=story.image
+                 image_alt=story.image_accessibility
+                 image_icon=story.image_icon
+                 agency=story.agency
+                 tagline=story.title
+                 description=story.excerpt
+                 link=story.permalink
+                %}
+              {% endfor %}
+            </div>
+          <!-- </div> -->
+        </section>
+        <h2 class="secondary-heading">Our Approach</h1>
+      </div>
+    <!-- </div> -->
   </div>
 </section>

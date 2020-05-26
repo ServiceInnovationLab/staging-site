@@ -51,6 +51,9 @@ collections:
   devPeerReviewWorkflow:
     output: true
     permalink: /devPeerReviewWorkflow/:path/
+  stories:
+    output: true
+    permalink: /stories/:path/
 
 defaults:
   - scope:
