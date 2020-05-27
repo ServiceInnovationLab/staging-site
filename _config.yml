@@ -99,7 +99,7 @@ defaults:
       layout: primary
   - scope:
       path: "_stories"
-    values: 
+    values:
       layout: stories-page
 
 frontmatter_tests:
