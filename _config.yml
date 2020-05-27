@@ -97,6 +97,10 @@ defaults:
       path: "devPeerReviewWorkflow"
     values:
       layout: primary
+  - scope:
+      path: "_stories"
+    values: 
+      layout: stories-page
 
 frontmatter_tests:
   path: "tests/schema"
