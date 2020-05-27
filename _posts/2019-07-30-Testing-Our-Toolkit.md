@@ -7,6 +7,7 @@ tags:
   - open source
   - tech
 excerpt: ""
+type: blogpost
 ---
 
 ## Tests we run
