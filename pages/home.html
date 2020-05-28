@@ -3,13 +3,37 @@ permalink: /
 layout: home
 title: Home
 ---
+<style>
+  .landing-text{
+    height: 170px;
+    width: 300px;
+    border: 2px dotted rgb(96, 139, 168);
+    color: white;
+    font-weight: bold;
+  }
+
+  .vertical {
+    padding: 5rem 0 10rem 0;
+  }
+</style>
+
 
 <section class="nz-grid-full nz-flex">
   <div class="hero" role="main">
     <!-- <div class="vertical" role="main"> -->
+      <div class="vertical" role="main">
+        <h1 class="heading">Welcome to<br />The Service Innovation Lab</h1>
+        <a class="btn btn-primary btn-lg" role="button" href="{{ site.baseurl }}/tools">Toolkit</a>
+      </div>
       <div class="nz-grid">
         <h1 class="main-heading">People Centered Innovation</h1>
         <!-- <a class="btn btn-primary btn-lg" role="button" href="{{ site.baseurl }}/tools">Toolkit</a> -->
+        <section class="nz-section">
+          <div class="nz-flex nz-flex-wrap nz-flex-home">
+            <div class="landing-text"><p>the quick brown fox jumped over the lazy dogthe quick brown fox jumped over the lazy dogthe quick brown fox jumped over the lazy dogthe quick brown fox jumped over the lazy dog</p></div>
+            <div class="landing-text"><p>the quick brown fox jumped over the lazy dogthe quick brown fox jumped over the lazy dogthe quick brown fox jumped over the lazy dog</p></div>
+          </div>
+        </section>
         <h2 class="secondary-heading">Our Public Sector Innovation Stories</h1>
         <section class="nz-section">
           <!-- <div class="nz-section-bottom"> -->
@@ -28,6 +52,7 @@ title: Home
               {% endfor %}
             </div>
           <!-- </div> -->
+          <a href="{{ site.baseurl }}/stories" style="color: white; font-weight: bold; text-decoration: none">More stories...</a>
         </section>
         <h2 class="secondary-heading">Our Approach</h1>
       </div>
