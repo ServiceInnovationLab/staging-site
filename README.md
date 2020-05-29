@@ -98,21 +98,21 @@ lead: This is a new page.
 
 ```yaml
 ---
-agency: SIL
-title: New Project
-subtitle: Creating a new project.
-permalink: /projects/new-project/
-excerpt: Information for creating a new project.
-image: /assets/img/projects/new-project.png
-image_accessibility: New project.
-expiration_date: YYYY-MM-DD
-redirect_to: https://www.serviceinnovationlab.github.io/
-project_url: "[New Project](https://www.serviceinnovationlab.github.io/projects/new-project/)"
-external_url: https://github.com/ServiceInnovationLab/
-external_link_title: Github
+agency: Agency Name
+title: Project Title
+subtitle: Text that you want to appear under the BACKGROUND heading on Project Page.
+permalink: /projects/projectname/
+excerpt: Text that you want to appear in the Project Card's description.
+image: /assets/img/projects/projectname.png
+image_accessibility: Alt text for image.
+external_url: "[Project repo](url)"
+external_link_title: External link name
 media:
+  - "[]()"
+  - "[]()"
 resources:
-quote:
+  - "[]()"
+  - "[]()"
 ---
 ```
 
