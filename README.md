@@ -105,8 +105,8 @@ permalink: /projects/projectname/
 excerpt: Text that you want to appear in the Project Card's description.
 image: /assets/img/projects/projectname.png
 image_accessibility: Alt text for image.
-external_url: "[Project repo](url)"
-external_link_title: External link name
+external_url: "[External url text](url)"
+external_link_title: External link title
 media:
   - "[]()"
   - "[]()"
