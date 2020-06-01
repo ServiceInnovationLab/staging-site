@@ -28,7 +28,7 @@ In this case to enable policy-makers to get a greater sense of empathy for the p
 
 ### What happened:
 
-The rise in online communication has seen a shift in socially acceptable behaviour as a result of the anonymity and the ‘safety’ of a screen between people. Politeness is often being replaced with confrontation and at the extreme end there is "[snowflakes](https://en.wikipedia.org/wiki/Snowflake_(slang))" , "[flamewars](https://en.wikipedia.org/wiki/Flaming_(Internet))" , "[doxing](https://en.wikipedia.org/wiki/Doxing)"  and industrialised outrage.
+The rise in online communication has seen a shift in socially acceptable behaviour as a result of the anonymity and the ‘safety’ of a screen between people. Politeness is often being replaced with confrontation and at the extreme end there is "[snowflakes](https://en.wikipedia.org/wiki/Snowflake_(slang))" , "[flamewars](https://en.wikipedia.org/wiki/Flaming_(Internet))" , "[doxing](https://en.wikipedia.org/wiki/Doxing)"  and industrialised outrage. 
 
 The project focussed on the cause-and-effect chains of online hate speech. It developed a VR tool called the Online Social Norms VR , an experience that gives a sense of how the public service may begin to use near-future technologies as a research strategy to inform policy development for complex social issues.
 
