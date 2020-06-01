@@ -23,7 +23,7 @@ github_repo:
 ### What is it?
 Imagine if government legislation didn’t have to be written and interpreted by people who all view things a little differently. What if legislation – or rules, as it is more broadly known, could be written in machine-readable code that ensures critical information is totally unambiguous. In other words,  writing new rules in plain language for humans, while simultaneously describing them in html code for machines.
 
-Better still, what if the wording was drafted by a multidisciplinary team to better capture what the government really intended when passing a new law or law change?
+Better still, what if the wording was drafted by a multidisciplinary team to better capture what the government really intended when passing a new law or law change? 
 
 This basically describes Legislation as Code and Better Rules. Note the two are not always used together - Legislation as Code can exist without the Better Rules process.
 
