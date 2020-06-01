@@ -43,7 +43,7 @@ The rebate is calculated by the cost of the rates, applicant’s income and numb
 ### The aim
 The Service Innovation Working Group (SIWG) approved an initiative to explore design and delivery of a proactive service with the goal of delivering an automated service. That is, automatically giving people an entitlement or benefit without them having to apply for it.
 
-Rates Rebates was identified as a suitable candidate for this approach.
+Rates Rebates was identified as a suitable candidate for this approach. 
 
 ### Timeline
 
