@@ -21,7 +21,7 @@ report:
 
 ---
 
-How deeper exploration of an issue, employing cross-agency teams – along with alternative lenses – resulted in a total turnaround in understanding the key influencer in the property rental experience.
+How deeper exploration of an issue, employing cross-agency teams – along with alternative lenses – resulted in a total turnaround in understanding the key influencer in the property rental experience. 
 ### What happened:
 
 The Service Innovation Working Group SIWG authorised a small cross-agency team to explore ‘Renting a Property’ as a life event from a holistic, all-of-government perspective. This life event was chosen because renting had increased from 23% in 1991 to 33% in 2016.  Many rentals don’t support their occupants well when compared with owner-occupied houses:
