@@ -4,7 +4,7 @@ title: Better Rules and Legislation as Code
 subtitle: A significant opportunity for true digital transformation.
 permalink: /projects/rules_as_code/
 excerpt: A significant opportunity for true digital transformation.
-image: /assets/img/projects/rules-as-code.png
+image: /assets/img/projects/legislation-as-code.png
 image_accessibility: Alt text for image.
 external_url: "[Project repo](url)"
 external_link_title: Rules as Code
