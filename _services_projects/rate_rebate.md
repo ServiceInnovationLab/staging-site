@@ -1,4 +1,3 @@
-```
 ---
 agency: Service Innovation Lab
 title: Rates Rebate – moving toward automated delivery of financial entitlements
@@ -28,7 +27,7 @@ Many low income-earners who own their home are entitled to a refund on their rat
 
 Further progress now awaits a decision from the agency that is the custodian of the Rates Rebates process as to whether to move this into BAU.
 
-### What is the Rates Rebate Scheme?
+### What is the Rates Rebate Scheme
 
 A Rates Rebate is a subsidy of up to $640 a year for low-income homeowners on the cost of their residential rates. The subsidy is delivered by local councils and administered by central Government – Department of Internal Affairs.
 
@@ -41,6 +40,7 @@ The rebate is calculated by the cost of the rates, applicant’s income and numb
 * Service Innovation Lab team
 
 ### The aim
+
 The Service Innovation Working Group (SIWG) approved an initiative to explore design and delivery of a proactive service with the goal of delivering an automated service. That is, automatically giving people an entitlement or benefit without them having to apply for it.
 
 Rates Rebates was identified as a suitable candidate for this approach.
@@ -50,16 +50,16 @@ Rates Rebates was identified as a suitable candidate for this approach.
 Many people do not apply for a Rates Rebate for a range of reasons, so the starting point was to explore why, by identifying the system barriers.
 
 The Discovery phase involved a three-week sprint in Sept 2017 and saw DIA, councils from Tauranga, Auckland and Wellington, the Ministry for Social Development, Inland Revenue, Assurity Consulting and the Lab team mapping an end-to-end service and user journey. The team interviewed stakeholders and explored methods of service delivery.
- 
+
 The Alpha phase in mid-2018 used the many system-level opportunities uncovered in the Discovery to improve the experience for both applicants and councils. A minimum viable product (MVP) was developed and trialled by Auckland Council and Tauranga City Council - with progress closely watched by numerous other councils.
- 
+
 The MVP was tested with real people, allowing local ratepayers to determine eligibility and apply for a rebate through a digital process. This tested if the alpha could successfully:
- 
+
 1. Provide an online application that could increase the uptake of the Rates Rebate
 2. Decrease the cost of processing applications for DIA and councils
 3. Improve customer experience and satisfaction levels
 4. Improve the ability to digitally deliver this and other services to councils.
- 
+
 ### What was learned
 
 Applicant insights:
@@ -69,16 +69,16 @@ Applicant insights:
 * People still had to go to council offices to verify their information
 * Some people reluctant at having to apply for an entitlement
 * Some lacked trust in digital technology and government
- 
-### System and process insights:
- 
+
+### System and process insights
+
 * Process is inefficient
 * Costly for councils
 * Peak times hard to staff and manage
 * Council service centre support is critical to success of applications
 * Information and IT systems inconsistent between councils
 * Barriers caused by prescriptive legislation  
- 
+
 The Beta trial in mid-2019 was run by members from DIA’s Service Delivery and Operations team, Government Information Services, and the Service Innovation Lab.In particular, the beta was designed to:
 
 1. Increase uptake of the Rates Rebate
@@ -99,36 +99,41 @@ The Service Innovation Lab invited three councils (Tauranga City Council, Hutt C
 * Applicants didn’t know if entitled to a rebate until form was completed – a calculator was introduced to ascertain this at the start of the process.
 * During the beta, content changes based on Search Engine Optimisation (SEO) research made the content more findable in Google and simplified the user journey.
 * The statutory declaration remains the single biggest barrier preventing large scale adoption of an online application process (as well as a significant barrier to those applying on paper). * Removing the statutory declaration removes the requirement to visit a council to submit an application.This is the last barrier to becoming fully digital. The team sought a legislative change to have this removed and this looks likely to happen in 2020.
- 
+
 ### Lessons for others
+
 Research generated will be useful for other projects working with older people.
 The work provides an example for other government initiatives considering going online with their application forms. It proved that eliminating the need for paper forms and paper-based evidence significantly reduces material and human resource costs.
 
 ### What could have been done better
+
 In hindsight, one thing that could have been managed differently was to invest at the start in building relationships to ensure firmer buy-in from an eventual owner of the ‘product’ to secure continuance to BAU.
 
 ### Where to from here
+
 Recommendation and decision by DIA as to whether to commit to a roadmap for delivery that could include engaging with more councils, more user testing and research, more development or full development.
- 
+
 DIA as custodian of the Rates Rebates process will ultimately make a decision based on the work done and their own priorities whether to continue development to full production.
- 
-### Awards 
+
+### Awards
+
 The Lab’s work on Rates Rebate was recognised at the 2018 Open Source Awards.
 
-### Testimonials:
+### Testimonials
+
 Tauranga City Council’s Manager of Revenue, Jimmy Taylor:
 *“I was buzzing after yesterday’s conference call. You, and Karyn and the DIA inno(vation) team, have achieved big wins in this phase already. Awesome…Not needing proof or collecting unnecessary information is huge for us, and presumably the back office in the rebate team. ….I love that you are implementing transformational change rather than plastering over the cracks.”*
 
 Feedback from people involved in the Alpha:
-*“I would do it online next time”*
-- Pilot applicant
 
-*“I didn’t know government things could be like this”*
-- User testing
- 
-*“I’m partially blind, so if things are on a computer I can zoom in and read them”*
-- First applicant on Tauranga pilot
+* Pilot applicant
 
+> *“I would do it online next time”*
 
-```
+* User testing
 
+> “I didn’t know government things could be like this”*
+
+* First applicant on Tauranga pilot
+
+> “I’m partially blind, so if things are on a computer I can zoom in and read them”*
