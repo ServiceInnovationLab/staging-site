@@ -4,7 +4,7 @@ title: Whetūrangitia
 subtitle: A service design success story. How the Lab’s ‘facilitative/scoping approach’ was used as a catalyst, leading to a solution for a problem long ago identified by several agencies as important, but which no single agency had been able to own or address.
 permalink: /projects/wheturangitia/
 excerpt: Coming together to ‘own’ a problem with tikanga Māori central to the solution
-image: /assets/img/projects/heturangitia.png
+image: /assets/img/projects/wheturangitia.png
 image_accessibility:
 project_url:
 github_repo:
