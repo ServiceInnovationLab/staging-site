@@ -12,10 +12,10 @@ navbar:
     permalink: /tools/
   - text: Reports
     permalink: /blog/
-  - text: Team
-    permalink: /team/
-  - text: Contact
-    permalink: /contact/
+  # - text: Team
+  #   permalink: /team/
+  # - text: Contact
+  #   permalink: /contact/
 
 drawer:
   - text: About
@@ -30,7 +30,7 @@ drawer:
     permalink: /tools/
   - text: Reports
     permalink: /blog/
-  - text: Team
-    permalink: /team/
-  - text: Contact
-    permalink: /contact/
+  # - text: Team
+  #   permalink: /team/
+  # - text: Contact
+  #   permalink: /contact/
