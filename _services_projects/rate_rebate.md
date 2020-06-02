@@ -9,11 +9,7 @@ image_accessibility: iPad showing a screen of the Rates Rebate form.
 external_url: "[Project repo](url)"
 external_link_title: Rates Rebate – moving toward automated delivery of financial entitlements
 media:
-  - "[]()"
-  - "[]()"
 resources:
-  - "[]()"
-  - "[]()"
 report:
   - "[Rates Rebate - The story from discovery to alpha](/staging-site/2018/11/30/Rates-Rebate/)"
   - "[Rates Rebate Beta Research Report](/staging-site/2019/07/30/Rates-Rebate-Beta-Research-Report/)"

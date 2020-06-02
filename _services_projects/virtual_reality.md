@@ -10,7 +10,6 @@ external_url: "[Project repo](url)"
 external_link_title: Could VR be used to inform policy development
 media:
   - "[YouTube - Online Social Norms VR](https://www.youtube.com/watch?v=pUIPbUMwqHg)"
-  - "[]()"
 resources:
   - "[leading digital governments](https://leadingdigitalgovs.org/)"
   - "[VR Tools - Exploring Online Social Norms](https://serviceinnovationlab.github.io/projects/vr-experience/)"
