@@ -9,11 +9,8 @@ image_accessibility: A row of houses.
 external_url: "[Project repo](url)"
 external_link_title: Renting a property
 media:
-  - "[]()"
-  - "[]()"
 resources:
   - "[Kāinga](https://www.digital.govt.nz/blog/kainga-and-renting-a-property/)"
-  - "[]()"
 report:
   - "[Understanding how better relationships support better rentals](/staging-site/2019/01/28/renting-a-property-understanding-how-better-relationships-support-better-rentals)"
   - "[Renting a property continuing our-discovery](/staging-site/2019/01/30/renting-a-property-continuing-our-discovery)"
