@@ -33,7 +33,7 @@ A Rates Rebate is a subsidy of up to $640 a year for low-income homeowners on th
 
 The rebate is calculated by the cost of the rates, applicant’s income and number of dependants. Every year, people apply by filling out a long, complex paper-based form, providing proof of income and getting their application witnessed by an authorised person.
 
-### Who was involved?
+### Who was involved
 
 * From NZ’s 78 local councils: Tauranga City Council and to a lesser extent, councils from Hamilton, Wellington, Kapiti, Auckland and Wellington.
 * Department of Internal Affairs
