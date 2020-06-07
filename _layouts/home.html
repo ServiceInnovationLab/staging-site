@@ -40,6 +40,9 @@
       {{ content }}
     </div>
 
+    <div>
+      {% include image-grid.html %}
+    </div>
     {% include navigation.html drawer=true %}
 
     {% include javascript.html %}
@@ -51,7 +54,7 @@
         document.documentElement.style.setProperty('--vh', `${vh}px`);
       });
     </script>
-        {% jekyll_pages_api_search_load %}
+    {% jekyll_pages_api_search_load %}
     {% include page-footer.html %}
   </body>
 </html>
