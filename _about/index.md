@@ -5,9 +5,9 @@ layout: primary
 lead: Service Innovation Lab
 subnav_items:
   - text: Our story
-    permalink: /about/#Story
-  - text: Approach
-    permalink: /about/#Purpose
+    permalink: /about/#our-story
+  - text: Purpose
+    permalink: /about/#purpose
   - text: History
     permalink: /about/#history
 ---
@@ -27,11 +27,11 @@ They were provided support and skills to build tools such as financial calculato
 
 Internationally significant work on Legislation as Code and Better Rules was undertaken early in the Lab.
 
-Staff sought to honour Te Tiriti o Waitangi. Many took weekly te reo lessons, learnt their pepeha, waiata and became more familiar with Tikanga Maōri. All visitors or manuhiri, were welcomed with a whakatau. One Discovery that explored renting a property spun into a second - examining the concept of kainga: ‘property’ for Māori is a significantly different cultural concept. 
+Staff sought to honour Te Tiriti o Waitangi. Many took weekly te reo lessons, learnt their pepeha, waiata and became more familiar with Tikanga Maōri. All visitors or manuhiri, were welcomed with a whakatau. One Discovery that explored renting a property spun into a second - examining the concept of kainga: ‘property’ for Māori is a significantly different cultural concept.
 
 The Lab’s work was innovative and experimental. That meant sometimes it went up blind alleys and other times discovered precious nuggets it wasn’t even searching for. 
 
-When the physical facility closed as part of a broader move, the work ended or was transitioned to various agencies to continue. The team packaged up its body of work into this Toolkit. They created guides and templates, along with an attempt to articulate the valuable ‘Lab Approach’ developed over time. This approach drew international interest, with visitors from Asia, Canada, the UK, USA, Australia, Saudi Arabia and the United Arab Emirates. 
+When the physical facility closed as part of a broader move, the work ended or was transitioned to various agencies to continue. The team packaged up its body of work into this Toolkit. They created guides and templates, along with an attempt to articulate the valuable ‘Lab Approach’ developed over time. This approach drew international interest, with visitors from Asia, Canada, the UK, USA, Australia, Saudi Arabia and the United Arab Emirates.
 
 In the end, the team says its biggest lesson from everything that went well, was that this happened when effort was focused right at the start on establishing enduring relationships and then building trust – something Māori would capture in the saying he tangata he tangata he tangata; it is about the people, the people, the people.
 
@@ -41,12 +41,10 @@ To the many who shared their mahi and wisdom, past team members - passionate ind
 
 Everything in the Service Innovation Toolkit is available under a Creative Commons licence. Feel free to read and run with the ideas, adapt the tools, learn from the successes, lessons and mistakes. If you are interested in starting similar work, here is a head-start.
 
-
 *Māku te ra e tō ana;
 Kei a koe te urunga ake o te rā
 Let mine be the setting sun;
 Yours is the dawning of a new day*
-
 
 ### Purpose
 
