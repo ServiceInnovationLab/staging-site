@@ -18,7 +18,7 @@ Government agencies working together and really listening to people – from the
 
 From 2016 to mid-2020, a unique all-of-government team explored how it could encourage agencies to start working more this way. Digital change was presenting a more efficient channel both to join-up and deliver government services.
 
-The Service Innovation Team comprised service designers, software developers and skilled support staff, whose diverse work was overseen by senior officials from across government. 
+The Service Innovation Team comprised service designers, software developers and skilled support staff, whose diverse work was overseen by senior officials from across government.
 The Team collaborated with other agencies, private partners and community groups. They made a point of listening to citizens to understand their ‘pain points’ when using, or trying to use, government’s often overly-complex services.
 
 Work took place in a neutral space no single agency owned, known simply as ‘the Lab’. Here, people from other agencies could step away from business-as-usual mindsets and were encouraged to work and think differently. The hope was they would share what they’d learnt, to build capability within their own agencies.
@@ -29,7 +29,7 @@ Internationally significant work on Legislation as Code and Better Rules was und
 
 Staff sought to honour Te Tiriti o Waitangi. Many took weekly te reo lessons, learnt their pepeha, waiata and became more familiar with Tikanga Maōri. All visitors or manuhiri, were welcomed with a whakatau. One Discovery that explored renting a property spun into a second - examining the concept of kainga: ‘property’ for Māori is a significantly different cultural concept.
 
-The Lab’s work was innovative and experimental. That meant sometimes it went up blind alleys and other times discovered precious nuggets it wasn’t even searching for. 
+The Lab’s work was innovative and experimental. That meant sometimes it went up blind alleys and other times discovered precious nuggets it wasn’t even searching for.
 
 When the physical facility closed as part of a broader move, the work ended or was transitioned to various agencies to continue. The team packaged up its body of work into this Toolkit. They created guides and templates, along with an attempt to articulate the valuable ‘Lab Approach’ developed over time. This approach drew international interest, with visitors from Asia, Canada, the UK, USA, Australia, Saudi Arabia and the United Arab Emirates.
 
