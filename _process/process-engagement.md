@@ -56,7 +56,7 @@ resources:
 ##### Strategic context
 
 * Not all opportunities are equal - where does the work fit?
-* How might new opportunities align and connect with existing work? 
+* How might new opportunities align and connect with existing work?
 * Is there anyone on in the lab’s governance environment who might champion/support the work?
 
 ##### Lean against the problem
