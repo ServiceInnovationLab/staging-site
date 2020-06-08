@@ -170,6 +170,11 @@
   </url>
   
   <url>
+    <loc>/staging-site/process/</loc>
+    
+  </url>
+  
+  <url>
     <loc>/staging-site/projects/</loc>
     
   </url>
@@ -298,6 +303,8 @@
     <loc>/staging-site/blog/page/3/</loc>
     
   </url>
+  
+  
   
   
   
