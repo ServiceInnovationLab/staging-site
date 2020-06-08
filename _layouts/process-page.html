@@ -6,8 +6,8 @@ header_border: true
 {% assign matching_posts = page | match_posts | sort:'date' | reverse %}
 
 {% include breadcrumb.html
-  parent_permalink='/projects/'
-  parent_title='Projects'
+  parent_permalink='/process/'
+  parent_title='Process'
 %}
 
 {% include base.html %}
@@ -46,15 +46,6 @@ header_border: true
     %}
     <aside class="nz-grid nz-section nz-grid-reversed-right nz-width-one-third section-info section-info-gray">
       <ul>
-        {% if page.quote %}
-          <blockquote>
-            <p>&ldquo;{{ page.quote }}&rdquo;</p>
-            {% if page.quote_source %}
-              <cite>{{ page.quote_source | prepend: '– ' | markdownify }}</cite>
-            {% endif %}
-          </blockquote>
-        {% endif %}
-
         {% if page.agency %}
         <li class="section-info-list-item">
           <div class="section-info-header">Agency partner</div>
@@ -104,12 +95,6 @@ header_border: true
             {% endfor %}
           </ul>
         {% endif %}
-
-        {% if page.learn_more %}
-          <li class="section-info-list-item">
-            <a class="nz-button" href="{{ page.learn_more }}">Learn more</a>
-          </li>
-        {% endif %}
       </ul>
     </aside>
     {% endif %}
@@ -122,7 +107,7 @@ header_border: true
       </section>
     </div>
   </div>
-  {% if matching_posts.size > 0 %}
+  <!-- {% if matching_posts.size > 0 %}
   <div class="background-gray">
     <div class="nz-section post-border">
       <section class="nz-grid posts_feature">
@@ -145,5 +130,5 @@ header_border: true
       </section>
     </div>
   </div>
-  {% endif %}
+  {% endif %} -->
 </section>

@@ -51,6 +51,9 @@ collections:
   devPeerReviewWorkflow:
     output: true
     permalink: /devPeerReviewWorkflow/:path/
+  process:
+    output: true
+    permalink: /process/:path/
 
 defaults:
   - scope:
@@ -94,6 +97,10 @@ defaults:
       path: "devPeerReviewWorkflow"
     values:
       layout: primary
+  - scope:
+      path: "_process"
+    values:
+      layout: process-page
 
 frontmatter_tests:
   path: "tests/schema"
