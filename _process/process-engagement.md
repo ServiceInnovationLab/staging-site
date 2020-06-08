@@ -1,7 +1,7 @@
 ---
 agency: Service Innovation Lab
 title: Engagement phase
-subtitle: The engagement phase...  
+subtitle: 
 permalink: /process/process-engagement/
 excerpt:
 image: #/assets/img/process/process-intro.png
@@ -13,6 +13,11 @@ resources:
   - "[Lab workflow model](/staging-site/process-tools/Workflow model v2.pdf)"
   - "[Project diary](/staging-site/process-tools/LEARNING Template - Project diary(1).docx)"
   - "[Quality Assurance Pathway](/staging-site/process-tools/Quality Assurance Pathway(1).xlsx)"
+  
+ Other process phases:
+  - "[Pre-discovery and commissioning](/staging-site/process-tools/Workflow model v2.pdf)"
+  - "[Discovery](/staging-site/process-tools/Workflow model v2.pdf)"
+  - "[Alpha and Beta testing](/staging-site/process-tools/Workflow model v2.pdf)"
 ---
 
 <div>
@@ -43,21 +48,21 @@ resources:
 * Exploratory workshops
 * Early horizon scanning
 
-#### Reflections from lab team
+#### Key lab team reflections for the engagement phase
 
 ##### Importance of a relational approach
 
 * Positive relationships foster honesty and trust
-* Time investing here creates the foundations for the rest of the work
-* It means listening, not telling, and respecting people's mana.
+* Time invested here establishes foundations for the rest of the work
+* It means listening, not telling, and respecting people's mana
 * Key to creating a culture of collaboration
-* Seek to hold more opportunities that work capacity
 
-##### Strategic context
+##### Strategic context and work programme
 
 * Not all opportunities are equal - where does the work fit?
 * How might new opportunities align and connect with existing work?
 * Is there anyone on in the lab’s governance environment who might champion/support the work?
+* Seek to hold more opportunities that work capacity
 
 ##### Lean against the problem
 
