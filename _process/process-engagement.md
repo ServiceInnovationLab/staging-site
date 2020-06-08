@@ -62,7 +62,7 @@ resources:
 * Not all opportunities are equal - where does the work fit?
 * How might new opportunities align and connect with existing work?
 * Is there anyone on in the lab’s governance environment who might champion/support the work?
-* Seek to hold more opportunities that work capacity
+* Seek to hold more opportunities that work capacity 
 
 ##### Lean against the problem
 
