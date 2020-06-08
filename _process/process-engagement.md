@@ -16,7 +16,7 @@ resources:
 ---
 
 <div>
-  <img src="../../assets/img/process/process-engagement.png" class="process-img">
+  <img src="../../assets/img/process/process-engagement.png" class="process-img" alt="Engagement icon">
 </div>
 
 ### 1. Engagement phase
