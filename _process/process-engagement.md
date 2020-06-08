@@ -1,28 +1,23 @@
 ---
 agency: Service Innovation Lab
 title: Engagement phase
-subtitle: 
+subtitle:
 permalink: /process/process-engagement/
 excerpt:
-image: /assets/img/process/process-intro.png
+image: /assets/img/process/process-engagement.png
 image_accessibility: visual illustration of the lab’s process
 external_url: "[Project repo](url)"
 external_link_title: External link name
 media:
 resources:
   - "[Lab workflow model](/staging-site/process-tools/Workflow model v2.pdf)"
-  - "[Project diary](/staging-site/process-tools/LEARNING Template - Project diary(1).docx)"
-  - "[Quality Assurance Pathway](/staging-site/process-tools/Quality Assurance Pathway(1).xlsx)"
-  
- Other process phases:
+  - "[Project diary](/staging-site/process-tools/LEARNING Template - Project diary.docx)"
+  - "[Quality Assurance Pathway](/staging-site/process-tools/Quality Assurance Pathway.xlsx)"
+other_process_phases:
   - "[Pre-discovery and commissioning](/staging-site/process-tools/Workflow model v2.pdf)"
   - "[Discovery](/staging-site/process-tools/Workflow model v2.pdf)"
   - "[Alpha and Beta testing](/staging-site/process-tools/Workflow model v2.pdf)"
 ---
-
-<div>
-  <img src="../../assets/img/process/process-engagement.png" class="process-img" alt="Engagement icon">
-</div>
 
 ### 1. Engagement phase
 
