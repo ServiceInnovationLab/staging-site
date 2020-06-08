@@ -18,6 +18,7 @@ h2 {
 <div class="nz-grid">
     <div class="nz-width-two-thirds">
       <h2 tabindex="0">Process</h2>
+      <p>ENTER TEXT HERE</p>
     </div>
 </div>
 
