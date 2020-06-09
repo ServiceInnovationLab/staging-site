@@ -3580,10 +3580,6 @@ figcaption {
   height: 55px;
   width: 200px; }
 
-.process-img {
-  width: 300px;
-  height: 300px; }
-
 .posts_feature > ul {
   margin-top: 0;
   margin-bottom: 0;
@@ -4208,6 +4204,17 @@ time {
   .card-image-svg svg polygon,
   .card-image-svg svg polyline {
     stroke: #223cc6; }
+
+.card-image-bg-process {
+  background-color: #f1f1f1;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200px;
+  display: block;
+  margin: auto;
+  padding: 0;
+  width: 50%; }
 
 .form-checkboxes {
   margin-bottom: 3rem; }
