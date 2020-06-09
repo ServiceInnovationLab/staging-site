@@ -15,30 +15,38 @@ h2 {
 </style>
 
 <section class="nz-section background-gray">
-<div class="nz-grid">
+  <div class="nz-grid">
     <div class="nz-width-two-thirds">
       <h2 tabindex="0">Process</h2>
+      <p>As a design and development lab working across government agencies the Lab’s overarching approach focuses on:
+        <ul>
+          <li>Shared problems requiring cross-agency collaboration</li>
+          <li>A focus on discovery and experiment</li>
+          <li>Commitment to implement and deliver results</li>
+          <li>Capturing and sharing learning</li>
+        </ul>
+      The team have developed a process that supports early engagement and exploration before committing to in depth project work. We have found it an effective way to create the conditions for collaboration and understand the authorising environment.</p>
     </div>
-</div>
+  </div>
 
-<div class="nz-grid">
-  <section class="nz-section">
-    <div class="nz-section-bottom">
-      <div class="nz-flex nz-flex-wrap">
-        {% assign process_list = site | find_collection: 'process' | weighted_sort: 'process_weight', 'title' %}
-        {% for process in process_list %}
-          {% include card.html
-           image_src=process.image
-           image_alt=process.image_accessibility
-           image_icon=process.image_icon
-           agency=process.agency
-           tagline=process.title
-           description=process.excerpt
-           link=process.permalink
-          %}
-        {% endfor %}
+  <div class="nz-grid">
+    <section class="nz-section">
+      <div class="nz-section-bottom">
+        <div class="nz-flex nz-flex-wrap">
+          {% assign process_list = site | find_collection: 'process' | weighted_sort: 'process_weight', 'title' %}
+          {% for process in process_list %}
+            {% include card-process.html
+            image_src=process.image
+            image_alt=process.image_accessibility
+            image_icon=process.image_icon
+            agency=process.agency
+            tagline=process.title
+            description=process.excerpt
+            link=process.permalink
+            %}
+          {% endfor %}
+        </div>
       </div>
-    </div>
-  </section>
-</div>
+    </section>
+  </div>
 </section>

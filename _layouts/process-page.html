@@ -26,7 +26,7 @@ header_border: true
       </div>
       {% if page.image %}
         <div class="nz-width-one-half template-banner"
-          style="background-image: url('{{ base }}{{ page.image }}');"
+          style="background-image: url('{{ base }}{{ page.image }}'); background-repeat: no-repeat; background-position: center"
           role="img"
           title="{{ page.image_accessibility }}">
         </div>
@@ -42,7 +42,8 @@ header_border: true
           page.report or
           page.media or
           page.github_repo or
-          page.resources
+          page.resources or
+          page.other_process_phases
     %}
     <aside class="nz-grid nz-section nz-grid-reversed-right nz-width-one-third section-info section-info-gray">
       <ul>
@@ -95,6 +96,17 @@ header_border: true
             {% endfor %}
           </ul>
         {% endif %}
+
+        {% if page.other_process_phases.size > 0 %}
+        <li class="section-info-list-item">
+          <div class="section-info-header">Other process phases</div>
+          <ul class="{% unless page.other_process_phases.size > 1 %}nz-unstyled-list{% endunless %}">
+            {% for other_p in page.other_process_phases %}
+              <li>{{ other_p | markdownify }}</li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+
       </ul>
     </aside>
     {% endif %}
