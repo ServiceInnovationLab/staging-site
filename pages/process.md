@@ -18,7 +18,14 @@ h2 {
 <div class="nz-grid">
     <div class="nz-width-two-thirds">
       <h2 tabindex="0">Process</h2>
-      <p>This is teh Lab's process</p>
+      <p>As a design and development lab working across government agencies the Lab’s overarching approach focuses on:
+        <ul>
+          <li>Shared problems requiring cross-agency collaboration</li>
+          <li>A focus on discovery and experiment</li>
+          <li>Commitment to implement and deliver results</li>
+          <li>Capturing and sharing learning</li>
+      </ul>
+      The team have developed a process that supports early engagement and exploration before committing to in depth project work. We have found it an effective way to create the conditions for collaboration and understand the authorising environment.</p>
     </div>
 </div>
 
