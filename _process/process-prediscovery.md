@@ -2,7 +2,7 @@
 agency: Service Innovation Lab
 title: Pre-discovery phase
 subtitle:
-permalink: /process/process-pre-discovery/
+permalink: /process/process-prediscovery/
 excerpt:
 image: /assets/img/process/process-prediscovery-bg.png
 image_accessibility: icon for discovery process
@@ -12,9 +12,9 @@ media:
 resources:
   - "[Pre-discovery guide](/staging-site/process-tools/Pre-discovery (aka initiative scoping).pptx)"
   - "[Project inception deck template](/staging-site/process-tools/Inception Deck template.pptx)"
-  - "[Guide for decision making quality](/staging-site/process-tools/02 PRE_DISCOVERY Copy of Decision Quality)"
-  - "[Commissioning - statement of work template](/staging-site/process-tools/02 COMMISSIONING Template - Statement of Work.docx)"
-  - "[Commissioning - lean canvas template](/staging-site/process-tools/02 COMMISSIONING Template - Lean Canvas.docx)"
+  - "[Guide for decision making quality](/staging-site/process-tools/PRE_DISCOVERY - Decision Quality)"
+  - "[Commissioning - statement of work template](/staging-site/process-tools/COMMISSIONING Template - Statement of Work.docx)"
+  - "[Commissioning - lean canvas template](/staging-site/process-tools/COMMISSIONING Template - Lean Canvas.docx)"
   - "[Project diary](/staging-site/process-tools/LEARNING Template - Project diary.docx)"
 other_process_phases:
   - "[Engagement](/staging-site/_process/process_engagement.md)"
@@ -26,16 +26,15 @@ other_process_phases:
 
 #### Purpose
 
-This phase seeks to gather just enough information to describe in a concise way a potential initiative, for the purpose of making a decision to commit (ie funding, sponsorship, resources). AS part of the lab’s operating model, this pre-discovery work was often resourced by the lab prior to seeking project funding from comissionsers. 
+This phase seeks to gather just enough information to describe in a concise way a potential initiative, for the purpose of making a decision to commit (ie funding, sponsorship, resources). AS part of the lab’s operating model, this pre-discovery work was often resourced by the lab prior to seeking project funding from comissionsers.
 
-This time and focus helped make an informed decision about the nature of the opportunity, the readiness of the agencies and to better understand the resources requirements that may be required. Our experience highlighted all this information is key when seeking support from commissioners and sponsors. 
+This time and focus helped make an informed decision about the nature of the opportunity, the readiness of the agencies and to better understand the resources requirements that may be required. Our experience highlighted all this information is key when seeking support from commissioners and sponsors.
 
 Mini-design sprint - getting close to the work
-gathering just enough information to frame in a concise way a potential initiative, 
-Will inform funding, sponsorship, resources). 
+gathering just enough information to frame in a concise way a potential initiative,
+Will inform funding, sponsorship, resources).
 
-AS part of the lab’s operating model, this pre-discovery work was often resourced by the lab prior to seeking project funding from comissionsers. 
-
+AS part of the lab’s operating model, this pre-discovery work was often resourced by the lab prior to seeking project funding from comissionsers.
 
 #### Features
 
@@ -46,7 +45,6 @@ AS part of the lab’s operating model, this pre-discovery work was often resour
 * Buy-in and resources required
 * Project team (inc lab staff) formed
 
-
 #### Activities / outputs
 
 * Mini-design sprint or workshops
@@ -55,12 +53,11 @@ AS part of the lab’s operating model, this pre-discovery work was often resour
 * Early horizon scanning
 * Inception deck document
 
-
 #### Key lab team reflections for this phase
 
 ##### Develop a clear intent and scope, but hold it lightly
 
-* Initial discovery work should support the development of a clear intent statement 
+* Initial discovery work should support the development of a clear intent statement
 * ...but leave space to adapt and iterate in response to learning gain from subsequent phases
 
 ##### Starting thinking about value and resources
@@ -74,5 +71,3 @@ AS part of the lab’s operating model, this pre-discovery work was often resour
 * Seek to understand the authorising environment, don't assume it exists
 * Take time to engage and frame the work with sponsors - not matter how good the idea their support will be crucial
 * A lack of ownership at this stage creates a significant risk to implementation later
-
-
