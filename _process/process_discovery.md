@@ -24,18 +24,20 @@ other_process_phases:
 
 #### In brief
 
-* Research discovery - focuses on in-depth research into the subject matter. It is particularly important to help better understand complex issues such as a ‘Life Event’. 
+* Research discovery - focuses on in-depth research into the subject matter. It is particularly important to help better understand complex issues such as a ‘Life Event’.
 * Design discovery - typically follows research discovery and focuses on creating and developing prototypes and concepts. These may be new products / services / approaches  or  adapted versions of ideas identified through the ‘Research Discovery’ phase.
 
 ### Research discovery
+
 A research discovery is a substantial piece of research investigation and evidencing. It is applicable to complex issues that fall within but are not limited to, a ‘Life Event’.
 
 * Action: in-depth research into the subject matter. Capability uplift of an external team (where applicable), co-design, collaboration and outreach. Embed evidencecial design rigor, apply quantitative and qualitative research and evidencing.
-* Deliverable: A research discovery document with findings and next steps actions. Reports of all the evidence and findings. Suggestion on areas to develop further through a Design Discovery
-* Outcome: At the end of this discovery. Time will be taken to drawn up a ‘Project Roadmap’. The roadmap builds on the project scope document and details all the operational requirements to meet the outcomes defined and agreed in from the research discovery. 
+* Deliverable: A research discovery document with findings and next steps actions. Reports of all the evidence and findings. Suggestion on areas to develop further through a Design Discovery.
+* Outcome: At the end of this discovery. Time will be taken to drawn up a ‘Project Roadmap’. The roadmap builds on the project scope document and details all the operational requirements to meet the outcomes defined and agreed in from the research discovery.
 
 ### Design discovery
-A design discovery focuses developing and testing possible solutions. It addresses the feasibility, capability and usability of a testable product or service. It can be a standalone product / service or a product / service that has emerged from work undertaken in the Research Discovery phase. 
+
+A design discovery focuses developing and testing possible solutions. It addresses the feasibility, capability and usability of a testable product or service. It can be a standalone product / service or a product / service that has emerged from work undertaken in the Research Discovery phase.
 A Design Discovery has four distinct stages:
 
 1 - Design scope
@@ -44,14 +46,14 @@ A Design Discovery has four distinct stages:
 4 - Solution Validation
 
 For a product / service to be designed and built within the Lab it must pass through the four design stages. A stage-gate acts a failsafe at the end of each stage where a design is assessed before further progress is committed to. User experience design and research testing is extensively required at each point.
-Action: 
+Action:
 
 * Design scope -  Suggested concepts are scoped for design feasibility
 * Problem Definition - An evidenced problem is defined that can be designed for
 * Problem Validation - Is the design problem meeting the wider project needs?
 * Solution Validation - what are the design solutions, use testing to validate them
 
-Deliverables: 
+Deliverables:
 1. Design scope -  A design brief for the design team to work from
 2. Problem Definition - Design Problem or Problem Statements
 3. Problem Validation - Evidencing of the design approach to meet the problem space (UX research)
@@ -92,19 +94,16 @@ Outcome: On conclusion of a design Discovery a clear design approach has been fo
 * Lean against the problem - avoid the trap of rushing to solutionize too soon
 * Take time to understand the problem and the system that holds it
 
-
 ##### Design discovery work can include new and existing ideas
 
 * How will users be involved in the design discovery work? If not, why not?
-* Don't discount adopting and adapting ideas from elsewhere - creative reponses don't always need to be new 
+* Don't discount adopting and adapting ideas from elsewhere - creative reponses don't always need to be new
 * How might ideas from the discovery phase leverage existing work
 * If the work is likely to involved developers try to involved them during the design phase
 * Design discovery (building to learn with users) can deliver as much useful insight as the research phase
-
 
 ##### Keep people engage in the deep work
 
 * Tell the story of the work as you go - share your successes and when things don't go right
 * Share emerging learning with sponsors and wider groups of people involved in the work
 * Close the loop and seek feedback from the people involved in discovery phase - make it reciprocal
-
