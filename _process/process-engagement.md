@@ -4,8 +4,8 @@ title: Engagement phase
 subtitle:
 permalink: /process/process-engagement/
 excerpt:
-image: /assets/img/process/process-engagement.png
-image_accessibility: visual illustration of the lab’s process
+image: /assets/img/process/process-engagement-bg.png
+image_accessibility: Visual illustration of the lab’s process
 external_url: "[Project repo](url)"
 external_link_title: External link name
 media:

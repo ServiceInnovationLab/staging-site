@@ -134,3 +134,15 @@ $card-image-height: 200px;
     }
   }
 }
+
+.card-image-bg-process {
+  background-color: $color-gray-lightest;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: $card-image-height;
+  display: block;
+  margin: auto;
+  padding: 0;
+  width: 50%;
+}

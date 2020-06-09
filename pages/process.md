@@ -35,7 +35,7 @@ h2 {
         <div class="nz-flex nz-flex-wrap">
           {% assign process_list = site | find_collection: 'process' | weighted_sort: 'process_weight', 'title' %}
           {% for process in process_list %}
-            {% include card.html
+            {% include card-process.html
             image_src=process.image
             image_alt=process.image_accessibility
             image_icon=process.image_icon
