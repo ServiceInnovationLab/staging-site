@@ -4,23 +4,51 @@ permalink: /about/
 layout: primary
 lead: Service Innovation Lab
 subnav_items:
+  - text: Our story
+    permalink: /about/#our-story
   - text: Purpose
     permalink: /about/#purpose
-  - text: Approach
-    permalink: /about/#approach
   - text: History
     permalink: /about/#history
 ---
 
-## Purpose
+## Our story
 
-We are an all-of-government lab, within the Aotearoa New Zealand government, focused on cross agency design and development to experiment, drive and enable the systemic change of government to improve people’s experiences when they interact with government.
+Government agencies working together and really listening to people – from the vulnerable to the tech-savvy –  to redesign their services to better meet the needs of all New Zealanders. A pipedream?
 
-### Goals
+From 2016 to mid-2020, a unique all-of-government team explored how it could encourage agencies to start working more this way. Digital change was presenting a more efficient channel both to join-up and deliver government services.
 
-We do the tricky technical work to make it easy for you.
+The Service Innovation Team comprised service designers, software developers and skilled support staff, whose diverse work was overseen by senior officials from across government.
+The Team collaborated with other agencies, private partners and community groups. They made a point of listening to citizens to understand their ‘pain points’ when using, or trying to use, government’s often overly-complex services.
 
-__We have been setup to:__
+Work took place in a neutral space no single agency owned, known simply as ‘the Lab’. Here, people from other agencies could step away from business-as-usual mindsets and were encouraged to work and think differently. The hope was they would share what they’d learnt, to build capability within their own agencies.
+
+They were provided support and skills to build tools such as financial calculators, develop award-winning open-source code and re-usable componentry, run hui that invited ‘different voices to the table’, collaborated on a VR tool for policy-makers and a consent-based information-sharing prototype. They tested and refined ways to make it easier for people to get  financial benefits they’re entitled to, such as a Rates Rebate and Community Services Card.
+
+Internationally significant work on Legislation as Code and Better Rules was undertaken early in the Lab.
+
+Staff sought to honour Te Tiriti o Waitangi. Many took weekly te reo lessons, learnt their pepeha, waiata and became more familiar with Tikanga Maōri. All visitors or manuhiri, were welcomed with a whakatau. One Discovery that explored renting a property spun into a second - examining the concept of kainga: ‘property’ for Māori is a significantly different cultural concept.
+
+The Lab’s work was innovative and experimental. That meant sometimes it went up blind alleys and other times discovered precious nuggets it wasn’t even searching for.
+
+When the physical facility closed as part of a broader move, the work ended or was transitioned to various agencies to continue. The team packaged up its body of work into this Toolkit. They created guides and templates, along with an attempt to articulate the valuable ‘Lab Approach’ developed over time. This approach drew international interest, with visitors from Asia, Canada, the UK, USA, Australia, Saudi Arabia and the United Arab Emirates.
+
+In the end, the team says its biggest lesson from everything that went well, was that this happened when effort was focused right at the start on establishing enduring relationships and then building trust – something Māori would capture in the saying he tangata he tangata he tangata; it is about the people, the people, the people.
+
+Thank You, Haere rā  
+
+To the many who shared their mahi and wisdom, past team members - passionate individuals committed to supporting their agency colleagues and other New Zealanders, visitors, blog post readers, followers and friends - a heart-felt thank you and farewell.
+
+Everything in the Service Innovation Toolkit is available under a Creative Commons licence. Feel free to read and run with the ideas, adapt the tools, learn from the successes, lessons and mistakes. If you are interested in starting similar work, here is a head-start.
+
+*Māku te ra e tō ana;
+Kei a koe te urunga ake o te rā
+Let mine be the setting sun;
+Yours is the dawning of a new day*
+
+### Purpose
+
+__We were  setup to:__
 
 - Grow the ecosystem of services built with government components
 - Reduce barriers to building better digital services
@@ -31,7 +59,7 @@ __We have been setup to:__
 
 ### Work Programme
 
-The Service Innovation Work Programme outlines what we do. It comprises initiatives that usually fall outside the remit, capability or budget of a single agency. These initiatives are prioritised by the Service Innovation Reference Group and fall into the following streams:
+Our work programme included initiatives that usually fall outside the remit, capability or budget of a single agency. These initiatives were prioritised by the Service Innovation Reference Group and fall into the following streams:
 
 1. **Integrated services** - *Delivering joined-up government services (agencies, NGOs, private sector) where it makes sense.*
 
@@ -43,25 +71,9 @@ The Service Innovation Work Programme outlines what we do. It comprises initiati
 
 5. **Digital Identity** - *Supporting customer online identity.*
 
-All the initiatives we work on are service delivery focused. They either help people interact with government directly or indirectly by improving the behind the scenes processes and infrastructure to enable a better experience for those who deliver them and receive them. This indirect work is part of our goal of opening up government services and data so it can be reused safely by other parts of local and central government but private sector and NGO service providers. We call this Government as a Platform.
+All the initiatives we worked on are service delivery focused. They either helped people interact with government directly or indirectly by improving the behind the scenes processes and infrastructure to enable a better experience for those who deliver them and receive them. This indirect work is part of our goal of opening up government services and data so it can be reused safely by other parts of local and central government but private sector and NGO service providers. We call this Government as a Platform.
 
 __Basically it’s about ensuring people’s government experiences are easy, equitable and empathetic. Whether directly or through their own trusted channel or service provider.__
-
-### [The Service Innovation Lab 2017-18 FY Work Program Report](/2018/07/01/Lab-Report/)
-
------
-
-## Approach
-
-We are an interdisciplinary team with backgrounds in agile, design, policy and technology. We use evidence based decision making and design thinking to transform government service experiences.
-
-We work in the open to prevent problem shifting and duplication and increase the sharing, reuse and adaptation of tools and approaches.
-
-By partnering with other agencies, not for profits, private organisations and other governments we can understand the whole service system to identify and test the best ways to create lasting change. While we have a digital focus we ensure people’s needs are considered first as we collaboratively work on creating customer centric services regardless of agency channel preferences.
-
-Our approach aims to reduce risk and increase the impact of innovation across government and do this through delivery.
-
-There are two ways to work with us - in partnership with the lab team to help deliver the work programme or by using the collaborative and workshop spaces.
 
 -----
 
