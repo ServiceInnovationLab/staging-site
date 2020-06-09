@@ -54,6 +54,7 @@ Action:
 * Solution Validation - what are the design solutions, use testing to validate them
 
 Deliverables:
+
 1. Design scope -  A design brief for the design team to work from
 2. Problem Definition - Design Problem or Problem Statements
 3. Problem Validation - Evidencing of the design approach to meet the problem space (UX research)
@@ -81,14 +82,12 @@ Outcome: On conclusion of a design Discovery a clear design approach has been fo
 * Developing concepts, prototypes leading to a Minimum Viable Product (MVP)
 * Options / recommendations report
 
-
 #### Key lab team reflections for this phase
-
 
 ##### Research discovery doesn't mean starting from first base
 
 * Explore and build on existing research and evidence
-* People may have told their story already - don't assume fresh user research is the best starting point 
+* People may have told their story already - don't assume fresh user research is the best starting point
 * How well does your research team relfection the population groups you're working with?
 * Practice based evidence can be just as valuable as evidence based practice
 * Lean against the problem - avoid the trap of rushing to solutionize too soon
