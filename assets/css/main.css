@@ -2907,7 +2907,8 @@ p ~ .pquote:not(.pquote-single) blockquote {
 header[role="banner"] {
   position: fixed;
   width: 100%;
-  background-color: white; }
+  background-color: white;
+  z-index: 2; }
   header[role="banner"] ul {
     margin-top: 0;
     margin-bottom: 0;
@@ -3580,7 +3581,10 @@ figcaption {
   padding-top: 0.9375rem; }
 
 .background-image-homepage {
-  background-image: url("../../assets/img/homepagebg_blue.png"); }
+  background-image: url("../../assets/img/homepagebg_blue.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center; }
 
 .govt-logo {
   height: 55px;
