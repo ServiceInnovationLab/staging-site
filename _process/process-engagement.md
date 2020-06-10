@@ -17,12 +17,6 @@ other_process_phases:
   - "[Pre-discovery and commissioning](/staging-site/process-tools/Workflow model v2.pdf)"
   - "[Discovery](/staging-site/process-tools/Workflow model v2.pdf)"
   - "[Alpha and Beta testing](/staging-site/process-tools/Workflow model v2.pdf)"
-resources_research:
-  - "[Lab workflow model](/staging-site/process-tools/Workflow model v2.pdf)"
-  - "[Project diary](/staging-site/process-tools/LEARNING Template - Project diary.docx)"
-resources_design:
-  - "[Lab workflow model](/staging-site/process-tools/Workflow model v2.pdf)"
-  - "[Project diary](/staging-site/process-tools/LEARNING Template - Project diary.docx)"
 ---
 
 ### 1. Engagement phase
