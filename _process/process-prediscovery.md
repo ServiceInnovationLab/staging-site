@@ -11,11 +11,11 @@ external_link_title: External link name
 media:
 resources:
   - "[Pre-discovery guide](/staging-site/process-tools/Pre-discovery (aka initiative scoping).pptx)"
-  - "[Project inception deck template](/staging-site/process-tools/Inception Deck template.pptx)"
-  - "[Guide for decision making quality](/staging-site/process-tools/PRE_DISCOVERY - Decision Quality)"
-  - "[Commissioning - statement of work template](/staging-site/process-tools/COMMISSIONING Template - Statement of Work.docx)"
-  - "[Commissioning - lean canvas template](/staging-site/process-tools/COMMISSIONING Template - Lean Canvas.docx)"
-  - "[Project diary](/staging-site/process-tools/LEARNING Template - Project diary.docx)"
+  - "[Project inception deck template](/staging-site/process-tools/Inception Deck - Template.pptx)"
+  - "[Guide for decision making quality](/staging-site/process-tools/PRE_DISCOVERY - Decision Quality.docx)"
+  - "[Commissioning - statement of work template](/staging-site/process-tools/Statement of Work - Template.docx)"
+  - "[Commissioning - lean canvas template](/staging-site/process-tools/Lean Canvas - Template.docx)"
+  - "[Project diary](/staging-site/process-tools/Project diary - Template.docx)"
 other_process_phases:
   - "[Engagement](/staging-site/_process/process_engagement.md)"
   - "[Discovery](/staging-site/process-tools/Workflow model v2.pdf)"
