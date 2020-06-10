@@ -10,7 +10,7 @@ navbar:
     permalink: /projects/
     multiple_permalinks:
       - /projects/:path/
-  - text: Tools
+  - text: Process and Tools
     permalink: /tools/
   - text: Reports
     permalink: /blog/
@@ -26,7 +26,7 @@ drawer:
     permalink: /projects/
     multiple_permalinks:
       - /projects/:path/
-  - text: Tools
+  - text: Process and Tools
     permalink: /tools/
   - text: Reports
     permalink: /blog/
