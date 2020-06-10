@@ -12,7 +12,7 @@ media:
 resources:
   - "[Pre-discovery guide](/staging-site/process-tools/Pre-discovery (aka initiative scoping).pptx)"
   - "[Project inception deck template](/staging-site/process-tools/Inception Deck - Template.pptx)"
-  - "[Guide for decision making quality](/staging-site/process-tools/PRE_DISCOVERY - Decision Quality)"
+  - "[Guide for decision making quality](/staging-site/process-tools/PRE_DISCOVERY - Decision Quality.docx)"
   - "[Commissioning - statement of work template](/staging-site/process-tools/Statement of Work - Template.docx)"
   - "[Commissioning - lean canvas template](/staging-site/process-tools/Lean Canvas - Template.docx)"
   - "[Project diary](/staging-site/process-tools/Project diary - Template.docx)"
