@@ -19,12 +19,12 @@ resources_research:
   - "[Key questions before you start](/staging-site/process-tools/Design discovery - Key questions.docx)"
   - "[Research report template](/staging-site/process-tools/Discovery Report - Template.docx)"
   - "[Personas template](/staging-site/process-tools/DI User Persona - Template.docx)"
-  - "[Empathy map template](/staging-site/process-tools/Empathy Map - Template.pdf)
-  - "[Introdution to user research](/staging-site/process-tools/Intro to User Research.pptx)
+  - "[Empathy map template](/staging-site/process-tools/Empathy Map - Template.pdf)"
+  - "[Introdution to user research](/staging-site/process-tools/Intro to User Research.pptx)"
   - "[Research consent form](/staging-site/process-tools/Research Consent Form.docx)"
   - "[Interview insights template](/staging-site/process-tools/Interview Insights - Template.pptx)"
-  - "[Interview report template](/staging-site/process-tools/Interview Report - Template.docx)
-  - "[Research Discovery Guide - Template.docx](/staging-site/process-tools/Research Discovery Guide - Template.docx)
+  - "[Interview report template](/staging-site/process-tools/Interview Report - Template.docx)"
+  - "[Research Discovery Guide - Template.docx](/staging-site/process-tools/Research Discovery Guide - Template.docx)"
 resources_design:
   - "[Design brief template](/staging-site/process-tools/Lab Design Brief 2 pager.docx)"
   - "[Logic map - template](/staging-site/process-tools/Logic Map - Template.docx)"
