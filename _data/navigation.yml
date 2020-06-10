@@ -5,7 +5,7 @@ navbar:
   - text: Approach
     permalink: /approach/
   - text: Insights
-    permalink: /insights/ 
+    permalink: /insights/
   - text: Projects
     permalink: /projects/
     multiple_permalinks:
