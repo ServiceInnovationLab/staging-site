@@ -120,6 +120,11 @@
   </url>
   
   <url>
+    <loc>/staging-site/approach/</loc>
+    
+  </url>
+  
+  <url>
     <loc>/staging-site/author/</loc>
     
   </url>
@@ -166,6 +171,11 @@
   
   <url>
     <loc>/staging-site/blog/</loc>
+    
+  </url>
+  
+  <url>
+    <loc>/staging-site/insights/</loc>
     
   </url>
   
@@ -303,6 +313,8 @@
     <loc>/staging-site/blog/page/3/</loc>
     
   </url>
+  
+  
   
   
   
