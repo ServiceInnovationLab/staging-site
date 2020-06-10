@@ -1,23 +1,35 @@
 ---
 agency: Service Innovation Lab
 title: Discovery phase
-subtitle:
+subtitle: This phases focuses on divergent and convergent research and design work.
 permalink: /process/process-discovery/
 excerpt:
-image: /assets/img/process/process-engagement-bg.png
+image: /assets/img/process/process-discover-bg.png
 image_accessibility: Visual illustration of the lab’s process
 external_url: "[Project repo](url)"
 external_link_title: External link name
 media:
 resources:
-  - "[Lab workflow model](/staging-site/process-tools/Workflow model v2.pdf)"
-  - "[Project diary](/staging-site/process-tools/Project diary - Template.docx)"
-  - "[Quality Assurance Pathway](/staging-site/process-tools/Quality Assurance Pathway.xlsx)"
+  - "[Discovery phase guide](/staging-site/process-tools/ 	Discovery phase - Guide.docx)"
 other_process_phases:
-  - "[Engagement](/staging-site/process-tools/Workflow model v2.pdf)"
   - "[Pre-discovery and commissioning](/staging-site/process-tools/Workflow model v2.pdf)"
   - "[Discovery](/staging-site/process-tools/Workflow model v2.pdf)"
   - "[Alpha and Beta testing](/staging-site/process-tools/Workflow model v2.pdf)"
+resources_research:
+  - "[Key questions before you start](/staging-site/process-tools/Design discovery - Key questions.docx)"
+  - "[Research report template](/staging-site/process-tools/Discovery Report - Template.docx)"
+  - "[Personas template](/staging-site/process-tools/DI User Persona - Template.docx)"
+  - "[Empathy map template](/staging-site/process-tools/Empathy Map - Template.pdf)
+  - "[Introdution to user research](/staging-site/process-tools/Intro to User Research.pptx)
+  - "[Research consent form](/staging-site/process-tools/Research Consent Form.docx)"
+  - "[Interview insights template](/staging-site/process-tools/Interview Insights - Template.pptx)"
+  - "[Interview report template](/staging-site/process-tools/Interview Report - Template.docx)
+  - "[Research Discovery Guide - Template.docx](/staging-site/process-tools/Research Discovery Guide - Template.docx)
+resources_design:
+  - "[Design brief template](/staging-site/process-tools/Lab Design Brief 2 pager.docx)"
+  - "[Logic map - template](/staging-site/process-tools/Logic Map - Template.docx)"
+  - "[Value proposition canvas](/staging-site/process-tools/Value Proposition Canvas.pdf)"
+  - "[User Observation Activity template](/staging-site/process-tools/User Observation Activity - Template.docx)"
 ---
 
 ### Discovery phase
