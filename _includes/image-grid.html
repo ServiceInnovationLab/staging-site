@@ -1,187 +1,38 @@
-<style>
-.child-page-listing {
-  padding: 20px;
-  width: 700px;
-  margin: auto;
-  font-family: sans-serif;
-  background: #f2f2f2;
-}
-
-.grid-img {
-  width: 100%; /* need to overwrite inline dimensions */
-  height: auto;
-}
-
-.grid-heading {
-  margin: 0 0 .5em;
-}
-
-.grid-container {
-  display: grid;
-  /* grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); */
-  grid-template-columns: auto auto auto;
-  grid-gap: 1em;
-}
-
-.item--1 {
-  grid-column: 1/2;
-  grid-row: 1/3;
-}
-
-.item--2 {
-  grid-column: 2/4;
-  grid-row: 1/2;
-}
-
-.item--3 {
-  grid-column: 2/3;
-  grid-row: 2/3;
-}
-
-.item--4 {
-  grid-column: 3/4;
-  grid-row: 2/3;
-}
-
-.item--5 {
-  grid-column: 1/3;
-  grid-row: 3/4;
-}
-
-.item--6 {
-  grid-column: 3/4;
-  grid-row: 3/4;
-}
-/* hover styles */
-.location-listing {
-  position: relative;
-}
-
-.location-image {
-  line-height: 0;
-  overflow: hidden;
-}
-
-.location-image .grid-image {
-  filter: blur(0px);
-  transition: filter 0.3s ease-in;
-  transform: scale(1.1);
-}
-
-.location-title {
-  font-size: 1.5em;
-  font-weight: bold;
-  text-decoration: none;
-  z-index: 1;
-  position: absolute;
-  height: 100%;
-  width: 100%;
-  top: 0;
-  left: 0;
-  opacity: 0;
-  transition: opacity .5s;
-  background: rgba(90,0,10,0.4);
-  color: white;
-  
-  /* position the text in t’ middle*/
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.location-subtitle {
-  font-size: 1em;
-  font-weight: bold;
-  text-decoration: none;
-  z-index: 1;
-  position: absolute;
-  height: 100%;
-  width: 100%;
-  top: 0;
-  left: 0;
-  opacity: 0;
-  transition: opacity .5s;
-  background: rgba(90,0,10,0.4);
-  color: white;
-  
-  /* position the text in t’ middle*/
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.location-listing:hover .location-title {
-  opacity: 1;
-}
-
-.location-listing:hover .location-image .grid-image {
-  filter: blur(2px);
-}
-
-/* for touch screen devices */
-@media (hover: none) { 
-  .location-title {
-    opacity: 1;
-  }
-  .location-image .grid-image {
-    filter: blur(2px);
-  }
-}
-
-@media only screen and (max-width: 600px) {
-  .location-title {
-    font-size: 0.5em;
-  }
-  .location-subtitle {
-    font-size: .3em;
-  }
-}
-@media only screen and (min-width: 601px) and (max-width: 768px) {
-  .location-title {
-    font-size: 1em;
-  }
-  
-  .location-subtitle {
-    font-size: .75em;
-  }
-}
-</style>
-
 <div class="child-page-listing">
   <h2 class="grid-heading">Our Locations</h2>
   <div class="grid-container">
     <article id="3685" class="location-listing item--1">
-      <a class="location-title item--1" href="{{ site.baseurl }}/about">Francisco</a>
+      <a class="location-title item--1" href="{{ site.baseurl }}/about">About</a>
       <div class="location-image">
         <img class="grid-image" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/210284/san-fransisco-768x432.jpg" alt="san francisco">
       </div>
     </article>
     <article id="3688" class="location-listing item--2">
-      <a class="location-title" href="{{ site.baseurl }}/process">London</a>
+      <a class="location-title" href="{{ site.baseurl }}/approach">Approach</a>
       <div class="location-image item--2">
         <img class="grid-image" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/210284/london-768x432.jpg" alt="london">
       </div>
     </article>
     <article id="3691" class="location-listing item--3">
-      <a class="location-title" href="{{ site.baseurl }}/projects">New York</a>
+      <a class="location-title" href="{{ site.baseurl }}/insights">Insights</a>
       <div class="location-image item--3">
         <img class="grid-image" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/210284/new-york-768x432.jpg" alt="new york">
       </div>
     </article>
     <article id="3694" class="location-listing item--4">
-      <a class="location-title" href="{{ site.baseurl }}/tools">Cape Town</a>
+      <a class="location-title" href="{{ site.baseurl }}/projects">Projects</a>
       <div class="location-image item--4">
         <img class="grid-image" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/210284/cape-town-768x432.jpg" alt="cape town">
       </div>
     </article>
     <article id="3697" class="location-listing item--5">
-      <a class="location-title" href="{{ site.baseurl }}/blog">Beijing</a>
+      <a class="location-title" href="{{ site.baseurl }}/tools">Processes & Tools</a>
       <div class="location-image item--5">
         <img class="grid-image" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/210284/beijing-768x432.jpg" alt="beijing">
       </div>
     </article>
     <article id="3700" class="location-listing item--6">
-      <a class="location-title" href="{{ site.baseurl }}/projects">Paris</a>
+      <a class="location-title" href="{{ site.baseurl }}/blog">Blogs</a>
       <div class="location-image item--6">
         <img class="grid-image" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/210284/paris-768x432.jpg" alt="paris">
       </div>
