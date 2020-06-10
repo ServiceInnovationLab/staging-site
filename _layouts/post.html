@@ -3,11 +3,13 @@ layout: default
 ---
 
 <div class="nz-grid">
-  <a class="back-blog link-arrow-left" href="{{ site.baseurl }}/blog/">
-    {% include svg/icons/arrow-left.svg %}
-    <span class="nz-sr-only">Back to</span>
-    Reports
-  </a>
+  <div class="back-nav">
+    <a class="back-blog link-arrow-left" href="{{ site.baseurl }}/blog/">
+      {% include svg/icons/arrow-left.svg %}
+      <span class="nz-sr-only">Back to</span>
+      Reports
+    </a>
+  </div>
   <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
     <header class="post-header">
       <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>

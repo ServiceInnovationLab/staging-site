@@ -14,7 +14,7 @@
   font-size: 18px;
   width: 90px;
 
-  @media screen and (max-width: $medium-screen) {
+  @media only screen and (max-width: $medium-screen) {
     display: block;
     width: 75%;
     text-align: center;
