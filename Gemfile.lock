@@ -1,3 +1,11 @@
+GIT
+  remote: https://github.com/18F/jekyll_pages_api.git
+  revision: b6de4f6f5e69226840d237133e1928a7ab1508b0
+  specs:
+    jekyll_pages_api (0.1.6)
+      htmlentities (~> 4.3)
+      jekyll (>= 2.0, < 4.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -98,9 +106,6 @@ GEM
     jekyll_oembed (0.0.3)
       jekyll (~> 3)
       ruby-oembed (~> 0)
-    jekyll_pages_api (0.1.6)
-      htmlentities (~> 4.3)
-      jekyll (>= 2.0, < 4.0)
     jekyll_pages_api_search (0.5.0)
       jekyll_pages_api (~> 0.1.4)
       sass (~> 3.4)
@@ -228,7 +233,7 @@ DEPENDENCIES
   jekyll-watch (~> 2.2.0)
   jekyll_frontmatter_tests (~> 0.1.0)
   jekyll_oembed
-  jekyll_pages_api
+  jekyll_pages_api!
   jekyll_pages_api_search (~> 0.5.0)
   jemoji
   parallel

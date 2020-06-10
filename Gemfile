@@ -20,7 +20,7 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll_frontmatter_tests', '~> 0.1.0'
   gem 'jekyll_oembed'
-  gem 'jekyll_pages_api'
+  gem 'jekyll_pages_api', git: 'https://github.com/18F/jekyll_pages_api.git'
   gem 'jekyll_pages_api_search', '~> 0.5.0'
 end
 

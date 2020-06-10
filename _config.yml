@@ -188,4 +188,5 @@ jekyll_pages_api_search:
       boost: 10
     url:
       boost: 5
+    type:
     body:
