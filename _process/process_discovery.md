@@ -11,7 +11,7 @@ external_link_title: External link name
 media:
 resources:
   - "[Lab workflow model](/staging-site/process-tools/Workflow model v2.pdf)"
-  - "[Project diary](/staging-site/process-tools/LEARNING Template - Project diary.docx)"
+  - "[Project diary](/staging-site/process-tools/Project diary - Template.docx)"
   - "[Quality Assurance Pathway](/staging-site/process-tools/Quality Assurance Pathway.xlsx)"
 other_process_phases:
   - "[Engagement](/staging-site/process-tools/Workflow model v2.pdf)"
