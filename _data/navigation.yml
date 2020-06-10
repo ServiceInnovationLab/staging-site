@@ -2,8 +2,10 @@
 navbar:
   - text: About
     permalink: /about/
-  - text: Expertise
-    permalink: /expertise/
+  - text: Approach
+    permalink: /approach/
+  - text: Insights
+    permalink: /insights/
   - text: Projects
     permalink: /projects/
     multiple_permalinks:
@@ -12,16 +14,14 @@ navbar:
     permalink: /tools/
   - text: Reports
     permalink: /blog/
-  - text: Team
-    permalink: /team/
-  - text: Contact
-    permalink: /contact/
 
 drawer:
   - text: About
     permalink: /about/
-  - text: Expertise
-    permalink: /expertise/
+  - text: Approach
+    permalink: /approach/
+  - text: Insights
+    permalink: /insights/
   - text: Projects
     permalink: /projects/
     multiple_permalinks:
@@ -30,7 +30,3 @@ drawer:
     permalink: /tools/
   - text: Reports
     permalink: /blog/
-  - text: Team
-    permalink: /team/
-  - text: Contact
-    permalink: /contact/

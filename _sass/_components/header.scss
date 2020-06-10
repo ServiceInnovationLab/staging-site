@@ -9,6 +9,9 @@
 }
 
 header[role="banner"] {
+  position: fixed;
+  width: 100%;
+  background-color: white;
   ul {
     @include unstyled-list;
 

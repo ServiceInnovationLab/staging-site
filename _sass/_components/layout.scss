@@ -248,6 +248,10 @@
   }
 }
 
+.main-content {
+  padding-top: 6rem;
+}
+
 .content-focus {
   @include margin(0 auto);
   max-width: 64.063rem; // 8 column width at full screen
@@ -300,12 +304,16 @@
 
 .background-image-homepage {
   background-image: url('../../assets/img/homepagebg_blue.png');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+  // background-repeat: no-repeat;
+  // background-size: cover;
+  // background-position: center;
 }
 
 .govt-logo {
   height: 55px;
   width: 200px;
+}
+
+.back-nav {
+  padding-top: 2rem;
 }

@@ -42,9 +42,12 @@ collections:
   services_projects:
     output: true
     permalink: /projects/:path/
-  contact:
+  approach:
     output: false
-    permalink: /contact/:path/
+    permalink: /approach/:path/
+  insights:
+    output: false
+    permalink: /insights/:path/
   styleguide:
     output: true
     permalink: /styleguide/:path/
@@ -68,18 +71,26 @@ defaults:
       path: "_authors"
     values:
       layout: default-profile
-  - scope:
-      path: "_contact"
-    values:
-      layout: primary
-      # include_subnav: true
-      subnav_anchor: /contact/
+  # - scope:
+  #     path: "_contact"
+  #   values:
+  #     layout: primary
+  #     # include_subnav: true
+  #     subnav_anchor: /contact/
   - scope:
       path: "_about"
     values:
       layout: primary
       include_subnav: true
       subnav_anchor: /about/
+  - scope:
+      path: "approach"
+    values:
+      layout: project-page
+  - scope:
+      path: "insights"
+    values:
+      layout: project-page
   - scope:
       path: "_products_projects"
     values:
