@@ -18,9 +18,8 @@ h2 {
   <div class="nz-grid">
     <div class="nz-width-two-thirds">
       <h2 tabindex="0">Process</h2>
-      <p>As a design and development lab working across government agencies the lab developed a process for its work to follow. Similar to  other innotvation process it creates space and time to better undertstand the issues before moving to ideation, development and testing.
-       
-For each of the phases we have provided a summary of its key features, reflections and tips from the lab team and links to a range of the tools and templates. </p>
+      <p>As a design and development lab working across government agencies the lab developed a process for its work to follow. Similar to  other innotvation process it creates space and time to better undertstand the issues before moving to ideation, development and testing.</p>
+      <p>For each of the phases we have provided a summary of its key features, reflections and tips from the lab team and links to a range of the tools and templates.</p>
     </div>
   </div>
 
