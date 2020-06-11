@@ -2958,18 +2958,18 @@ header[role="banner"] {
   .site-logo img {
     width: 4.4rem; }
 
-.site-navbar .beta {
+.site-navbar .toolkit {
   float: left;
   padding-top: 42px;
   position: absolute;
   font-weight: bold;
   font-family: "Noto Sans"; }
   @media (min-width: 320px) and (max-width: 374px) {
-    .site-navbar .beta {
+    .site-navbar .toolkit {
       right: 85px;
       top: -31px; } }
   @media (min-width: 1024px) {
-    .site-navbar .beta {
+    .site-navbar .toolkit {
       padding-left: 2rem;
       padding-top: 42px; } }
 
