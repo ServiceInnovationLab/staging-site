@@ -7,6 +7,7 @@ image: /assets/img/process/process-testing-bg.png
 image_accessibility: Icon for testing process
 external_url: "[Project repo](url)"
 external_link_title: External link name
+process_weight: 1
 media:
 resources:
   - "[Lab workflow model](/staging-site/process-tools/Workflow model v2.pdf)"

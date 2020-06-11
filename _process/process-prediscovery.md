@@ -7,6 +7,7 @@ image: /assets/img/process/process-prediscovery-bg.png
 image_accessibility: icon for discovery process
 external_url: "[Project repo](url)"
 external_link_title: External link name
+process_weight: 4
 media:
 resources:
   - "[Pre-discovery guide](/staging-site/process-tools/Pre-discovery (aka initiative scoping).pptx)"
