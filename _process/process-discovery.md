@@ -7,7 +7,7 @@ image: /assets/img/process/process-discover-bg.png
 image_accessibility: Visual illustration of the lab’s process
 external_url: "[Project repo](url)"
 external_link_title: External link name
-process_weight: 3
+process_weight: 2
 media:
 resources:
   - "[Discovery phase guide](/staging-site/process-tools/Discovery phase - Guide.docx)"
