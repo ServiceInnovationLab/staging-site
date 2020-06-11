@@ -7,7 +7,7 @@ image: /assets/img/process/process-engagement-bg.png
 image_accessibility: Visual illustration of the lab’s process
 external_url: "[Project repo](url)"
 external_link_title: External link name
-process_weight: 2
+process_weight: 4
 media:
 resources:
   - "[Lab workflow model](/staging-site/process-tools/Workflow model v2.pdf)"
