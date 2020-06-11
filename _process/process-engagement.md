@@ -1,5 +1,4 @@
 ---
-agency: Service Innovation Lab
 title: Engagement phase
 subtitle:
 permalink: /process/process-engagement/
