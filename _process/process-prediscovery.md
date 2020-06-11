@@ -1,5 +1,4 @@
 ---
-agency: Service Innovation Lab
 title: Pre-discovery phase
 subtitle:
 permalink: /process/process-prediscovery/

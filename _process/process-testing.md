@@ -1,5 +1,4 @@
 ---
-agency: Service Innovation Lab
 title: Alpha and Beta testing
 subtitle:
 permalink: /process/process-testing/

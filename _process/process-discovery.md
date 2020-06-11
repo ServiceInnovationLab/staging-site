@@ -1,5 +1,4 @@
 ---
-agency: Service Innovation Lab
 title: Discovery phase
 subtitle: This phases focuses on divergent and convergent research and design work.
 permalink: /process/process-discovery/
@@ -10,7 +9,7 @@ external_url: "[Project repo](url)"
 external_link_title: External link name
 media:
 resources:
-  - "[Discovery phase guide](/staging-site/process-tools/ 	Discovery phase - Guide.docx)"
+  - "[Discovery phase guide](/staging-site/process-tools/Discovery phase - Guide.docx)"
 other_process_phases:
   - "[Pre-discovery and commissioning](/staging-site/process-tools/Workflow model v2.pdf)"
   - "[Discovery](/staging-site/process-tools/Workflow model v2.pdf)"
