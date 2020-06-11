@@ -1,6 +1,6 @@
 {% assign card_link = include.link | relative_url %}
 
-{% assign columns = include.columns | default: 3 %}
+{% assign columns = include.columns %}
 
 {% if columns == 2 %}
   {% assign wds_grid_class = 'nz-width-one-half' %}
