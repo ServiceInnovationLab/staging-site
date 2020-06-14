@@ -1,15 +1,13 @@
 ---
 title: About
 permalink: /about/
-layout: primary
-lead: Service Innovation Lab
-subnav_items:
-  - text: Our story
-    permalink: /about/#our-story
-  - text: Purpose
-    permalink: /about/#purpose
-  - text: History
-    permalink: /about/#history
+subtitle: About Page
+excerpt: About Page
+image:
+image_accessibility:
+github_repo:
+report:
+media: "[Embracing Innovation in Government - Global Trends 2019](https://trends.oecd-opsi.org/)"
 ---
 
 ## Our story
