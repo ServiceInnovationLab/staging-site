@@ -1,7 +1,7 @@
 ---
 agency: Service Innovation Lab
 title: Renting a property
-subtitle: Discovery research overturns key assumption on property rental
+subtitle: Research into the relationship dynamics of renting a property and ways they impact the renting experience and can make it better.
 permalink: /projects/renting/
 excerpt: Text that you want to appear in the Project Card's description.
 image: /assets/img/projects/renting-a-property.png
