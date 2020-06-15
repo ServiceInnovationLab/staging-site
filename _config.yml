@@ -45,12 +45,6 @@ collections:
   approach:
     output: false
     permalink: /approach/:path/
-  insights:
-    output: false
-    permalink: /insights/:path/
-  styleguide:
-    output: true
-    permalink: /styleguide/:path/
   devPeerReviewWorkflow:
     output: true
     permalink: /devPeerReviewWorkflow/:path/
@@ -71,24 +65,12 @@ defaults:
       path: "_authors"
     values:
       layout: default-profile
-  # - scope:
-  #     path: "_contact"
-  #   values:
-  #     layout: primary
-  #     # include_subnav: true
-  #     subnav_anchor: /contact/
   - scope:
       path: "_about"
     values:
-      layout: primary
-      include_subnav: true
-      subnav_anchor: /about/
+      layout: about-page
   - scope:
       path: "approach"
-    values:
-      layout: project-page
-  - scope:
-      path: "insights"
     values:
       layout: project-page
   - scope:
@@ -99,11 +81,6 @@ defaults:
       path: "_services_projects"
     values:
       layout: project-page
-  - scope:
-      path: "_styleguide"
-    values:
-      layout: styleguide
-      include_subnav: true
   - scope:
       path: "devPeerReviewWorkflow"
     values:

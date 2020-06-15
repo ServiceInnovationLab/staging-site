@@ -14,6 +14,8 @@ navbar:
     permalink: /tools/
   - text: Reports
     permalink: /blog/
+  - text: Contact
+    permalink: /contact/
 
 drawer:
   - text: About
@@ -30,3 +32,5 @@ drawer:
     permalink: /tools/
   - text: Reports
     permalink: /blog/
+  - text: Contact
+    permalink: /contact/
