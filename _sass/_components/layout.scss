@@ -248,6 +248,11 @@
   }
 }
 
+.main-content {
+  padding-top: 6rem;
+  min-height: 47.5rem;
+}
+
 .content-focus {
   @include margin(0 auto);
   max-width: 64.063rem; // 8 column width at full screen
