@@ -1,5 +1,5 @@
 ---
-title: Tools
+title: Process and Tools
 permalink: /tools/
 layout: primary
 lead: Websites, applications, and strategies that help agencies provide excellent value to the public.
@@ -16,6 +16,34 @@ h2 {
 
 <section class="nz-section background-gray">
   <div class="nz-grid">
+    <div class="nz-width-two-thirds">
+      <h2 tabindex="0">Process</h2>
+      <p>As a design and development lab working across government agencies the lab developed a process for its work to follow. Similar to  other innotvation process it creates space and time to better undertstand the issues before moving to ideation, development and testing.</p>
+      <p>For each of the phases we have provided a summary of its key features, reflections and tips from the lab team and links to a range of the tools and templates.</p>
+    </div>
+  </div>
+
+  <div class="nz-grid">
+    <section class="nz-section">
+      <div class="nz-section-bottom">
+        <div class="nz-flex nz-flex-wrap">
+          {% assign process_list = site | find_collection: 'process' | weighted_sort: 'process_weight', 'title' %}
+          {% for process in process_list %}
+            {% include card-process.html
+            image_src=process.image
+            image_alt=process.image_accessibility
+            image_icon=process.image_icon
+            agency=process.agency
+            tagline=process.title
+            description=process.excerpt
+            link=process.permalink
+            %}
+          {% endfor %}
+        </div>
+      </div>
+    </section>
+  </div>
+    <div class="nz-grid">
       <div class="nz-width-two-thirds">
         <h2> Tools </h2>
         <a href="/staging-site/sil-glossary">Glossary of Terms</a>
