@@ -11,7 +11,7 @@ github_repo:
 report:
 ---
 
-[INSERT GROUP IMAGE]
+[Visitors to the Service Innovatin Lab](staging-site/assets/img/projects/lab-visitors.png)
 
 ### Weaving Māori principles into the Lab
 
@@ -21,7 +21,8 @@ Many of the team were able to recite their pepeha - introduce themselves in Māo
 
 This left an impression on people from other agencies. On some it had quite a profound effect, creating a willingness to learn more, especially when public servants suddenly became aware of just how many of their ‘customers’ were Māori and how little tikanga  featured in service design.
 
-[INSERT LAB VISION IMAGE]
+[![The Lab vision](/staging-site/assets/img/projects/lab-vision.png)](/staging-site/assets/img/projects/lab-vision.png)
+[Larger version of the lab vision](#Go-to-DetailedDescription)
 
 #### Mihi whakatau
 
@@ -32,6 +33,8 @@ The Lab had many domestic and international visitors. Manuhiri were sent informa
 After this came a whaikorero / speeches between the hosts and manuhiri followed by a waiata. Manuhiri responded with their own speech generally in a language they were comfortable with.
 
 A large Vietnamese delegation delighted everyone when they responded with their own welcoming song in Chinese about Ho Chi Minh City - most visitors being too shy to attempt this challenge. Their singing was joyful, bringing both groups closer despite one of the most significant language barriers the team had been faced with from a visiting group.
+
+[Visitors to the Service Innovatin Lab](staging-site/assets/img/projects/visitors2.png)
 
 Once the formal welcome and sharing of kai / food was completed the tour proceeded.
 International visitors are increasingly interested in exchanging ideas and seeing how innovative governments are becoming in delivering their services; they particularly loved the unique cultural experience that came as an integral part of their visit to the Lab.
