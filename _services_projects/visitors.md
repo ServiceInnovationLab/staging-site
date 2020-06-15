@@ -42,10 +42,10 @@ Visitors have included OECD Deputy Secretary General Ulrik Vestergaard Knudsen, 
 
 ### Feedback
 
-*“The Service Innovation Lab is in the business of co-creation in a safe space, so our welcomes are about caring and making people feel connected, welcome and safe.”*
+> “The Service Innovation Lab is in the business of co-creation in a safe space, so our welcomes are about caring and making people feel connected, welcome and safe.”
 
 - Karl McDiarmid, Former Service Innovation General Manager.
 
-*“All the international visitors were really drawn to the ideation and delivery of services across agencies - this really resonated with them.”*
+> “All the international visitors were really drawn to the ideation and delivery of services across agencies - this really resonated with them.”
 
 - Simeon Berry, Commercial Manager B2B, New Zealand Trade and Enterprise
