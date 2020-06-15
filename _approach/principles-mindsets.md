@@ -48,5 +48,5 @@ One of the lab's key roles was to 'enable a culture of experimentation and adapt
 * **Fixed mindset** - Holding a narrow view of ourselves and others reduced our openness to collaborative approaches, new knowledge and think creatively.  
 * **What’s in it for me?** - Territorial / siloed thinking makes collaborative working harder, with win/win opportunities missed.  
 * **Fear of failure** - Can sit at a personal, team and organisational level and foster a tacit and explicit resistance to new ideas.  
-* **Solutionism and perfectionism** - For complex challenges that involve a range of agencies there may not be a single ‘solution’ and the work will be ongoing. 
+* **Solutionism and perfectionism** - For complex challenges that involve a range of agencies there may not be a single ‘solution’ and the work will be ongoing.
 * **Insider / outsider mindsets** - Losing the balance between working with the system that hosts it and offering positive challenge and disruption.
