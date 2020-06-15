@@ -3544,7 +3544,8 @@ figcaption {
     margin-bottom: 0; }
 
 .main-content {
-  padding-top: 6rem; }
+  padding-top: 6rem;
+  min-height: 47.5rem; }
 
 .content-focus {
   margin: 0 auto;
@@ -4653,7 +4654,7 @@ time {
     left: 0%; } }
 .child-page-listing {
   padding: 20px;
-  width: 700px;
+  width: 100%;
   margin: auto;
   font-family: sans-serif;
   background: #f2f2f2; }
