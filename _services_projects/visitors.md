@@ -8,18 +8,17 @@ excerpt: Embracing tikanga Māori in work and welcomes
 image: /assets/img/projects/visitors.png
 image_accessibility: Image of the lab team hosting visitors.
 github_repo:
-report: 
-
+report:
 ---
 
 [INSERT GROUP IMAGE]
- 
+
 ### Weaving Māori principles into the Lab
- 
+
 This saw members weaving into Lab life, the Māori principles of whanaungatanga and manaakitanga - connecting people through shared experiences and creating a safe and welcoming place to work in.
- 
+
 Many of the team were able to recite their pepeha - introduce themselves in Māori and briefly describe the places of significance to them. They learned basic Māori, sang waiata and recited karakia before key meetings.
- 
+
 This left an impression on people from other agencies. On some it had quite a profound effect, creating a willingness to learn more, especially when public servants suddenly became aware of just how many of their ‘customers’ were Māori and how little tikanga  featured in service design.
 
 [INSERT LAB VISION IMAGE]
@@ -32,7 +31,6 @@ The Lab had many domestic and international visitors. Manuhiri were sent informa
 
 After this came a whaikorero / speeches between the hosts and manuhiri followed by a waiata. Manuhiri responded with their own speech generally in a language they were comfortable with.
 
-
 A large Vietnamese delegation delighted everyone when they responded with their own welcoming song in Chinese about Ho Chi Minh City - most visitors being too shy to attempt this challenge. Their singing was joyful, bringing both groups closer despite one of the most significant language barriers the team had been faced with from a visiting group.
 
 Once the formal welcome and sharing of kai / food was completed the tour proceeded.
@@ -42,12 +40,12 @@ Many delegations later tell their host agencies their Lab experience was a highl
 None of this would have been possible without the expertise of a Māori employee Tiopira Piripi who was well rehearsed in tikanga Māori and was a valuable adviser.
 Visitors have included OECD Deputy Secretary General Ulrik Vestergaard Knudsen, D9 Secretariat Jordan Storozuk, New South Wales Government Chief Information and Digital Officer Greg Wells, and delegations from the Pacific, Vietnam, Canada, the United Arab Emirates and Saudi Arabia.
 
-
 ### Feedback
 
-*“The Service Innovation Lab is in the business of co-creation in a safe space, so our welcomes are about caring and making people feel connected, welcome and safe.”* 
- -  Karl McDiarmid, Former Service Innovation General Manager.
- 
-*“All the international visitors were really drawn to the ideation and delivery of services across agencies - this really resonated with them.”*
--  Simeon Berry, Commercial Manager B2B, New Zealand Trade and Enterprise
+*“The Service Innovation Lab is in the business of co-creation in a safe space, so our welcomes are about caring and making people feel connected, welcome and safe.”*
 
+- Karl McDiarmid, Former Service Innovation General Manager.
+
+*“All the international visitors were really drawn to the ideation and delivery of services across agencies - this really resonated with them.”*
+
+- Simeon Berry, Commercial Manager B2B, New Zealand Trade and Enterprise
