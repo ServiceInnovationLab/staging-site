@@ -2921,7 +2921,7 @@ header[role="banner"] {
       background: transparent;
       width: auto; }
       header[role="banner"] ul li a {
-        padding: 2.3rem 2rem;
+        padding: 2.3rem 1.5rem;
         color: #000000;
         font-weight: 700;
         text-decoration: none; }
@@ -2970,7 +2970,6 @@ header[role="banner"] {
       top: -31px; } }
   @media (min-width: 1024px) {
     .site-navbar .toolkit {
-      padding-left: 2rem;
       padding-top: 42px; } }
 
 .menu-btn {
