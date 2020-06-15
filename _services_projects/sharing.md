@@ -9,23 +9,24 @@ image: /assets/img/projects/AoGshowcase2.png
 Image_accessibility: People talking about the lab’s work
 github_repo:
 report:
-media: 
-"[All of Government Innovation Showcase](https://www.digital.govt.nz/showcase/all-of-government-innovation-showcase-december-2019/)"
+media: "[All of Government Innovation Showcase](https://www.digital.govt.nz/showcase/all-of-government-innovation-showcase-december-2019/)"
 ---
 
 ### What Happened
+
 The Lab team became involved in ‘educational’ activities, as the idea of a Government innovation Lab with a focus on building cross-agency collaboration was quite new and unique. A clever visual storyteller, Kim Quirke, designed collateral that was used to tell stories about the Lab’s approach.
 
 ### The All-of-Government Showcase
+
 The day-long, twice-yearly Showcase is co-hosted by the Ministry for Business, Innovation and Employment and the Department of Internal Affairs. Venues have ranged from the Beehive, MBIE and Te Papa, the national museum. Its aim is to get public sector staff who are working on innovative projects, to talk and share ideas - and hopefully explore opportunities for agencies to collaborate.
 
 [Insert fish image]
 
 #### Videos from Showcase
 
-{{ "https://www.youtube.com/watch?v=jJBhzJ_Xf3s&feature=youtu.be" | embed: "On December 3, 2019, Better for Business and the Office of the GCDO proudly presented the All-of-Government innovation showcase at Te Papa" }}
+{{ "https://www.youtube.com/embed/jJBhzJ_Xf3s" | embed: "On December 3, 2019, Better for Business and the Office of the GCDO proudly presented the All-of-Government innovation showcase at Te Papa" }}
 
-{{ "https://www.youtube.com/watch?v=P7UuB5K1n98&t=91s" | embed: "NZ Government’s Service Innovation work programme is a significant player in getting government agencies to collaborate to centre their services around citizen’s needs. Integrated Services Manager Darryl Carpenter describes his team’s work
+{{ "https://www.youtube.com/embed/P7UuB5K1n98" | embed: "NZ Government’s Service Innovation work programme is a significant player in getting government agencies to collaborate to centre their services around citizen’s needs. Integrated Services Manager Darryl Carpenter describes his team’s work
 " }}
 
 ### Techweek
@@ -39,4 +40,3 @@ Though it was not involved every year, DIA-organised Techweek events attracted g
 * A session on Artificial Intelligence and machine learning
 * An Open Lab session demonstrating rapid prototyping for Virtual Reality.
 * The Emerging Tech team shared their work internally within DIA to help staff gain a better understanding of where digital technology was heading and what it looked like for people working in the government sector. Brown Bag sessions were held to explain work underway in the Lab on  Artificial Intelligence and Virtual Reality - photos below.
-
