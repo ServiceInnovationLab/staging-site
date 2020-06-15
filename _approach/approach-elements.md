@@ -10,14 +10,12 @@ external_link_title: External link name
 process_weight: 1
 media:
 resources:
-  - "[]()"
 other_process_phases:
-
 ---
 
 ### Lab elements
 
-A helpful way to understand the Service Innovation Lab is to think about the elements that made up its purpose, how it works and what it focused on. 
+A helpful way to understand the Service Innovation Lab is to think about the elements that made up its purpose, how it works and what it focused on.
 These elements help to frame how the lab is both similar and different to other labs and innovation teams.
 
 [INSERT LAB ELEMENTS IMAGE]
