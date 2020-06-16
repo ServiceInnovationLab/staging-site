@@ -1,7 +1,7 @@
 ---
 agency: Service Innovation Lab
 title: Embracing tikanga Māori in work and welcomes
-subtitle: Exploring the benefits of legislation that is both human and machine readable and what it might take to transition.
+subtitle: Connecting people through shared experiences and creating a safe and welcoming place to work in.
 permalink: /projects/visitors/
 redirect_from: /projects/visitors/
 excerpt: Embracing tikanga Māori in work and welcomes
