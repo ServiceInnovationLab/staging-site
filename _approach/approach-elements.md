@@ -5,9 +5,7 @@ permalink: /approach/elements/
 excerpt:
 image: /assets/img/approach/approach-elements-bg.png
 image_accessibility: icon for discovery process
-external_url: "[Project repo](url)"
-external_link_title: External link name
-process_weight: 1
+approach_weight: 1
 media:
 resources:
 other_process_phases:
