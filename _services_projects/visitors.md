@@ -11,7 +11,7 @@ github_repo:
 report:
 ---
 
-[Visitors to the Service Innovatin Lab](staging-site/assets/img/projects/lab-visitors.png)
+[![Visitors to the Service Innovation Lab](staging-site/assets/img/projects/lab-visitors.png)]
 
 ### Weaving Māori principles into the Lab
 
@@ -21,8 +21,7 @@ Many of the team were able to recite their pepeha - introduce themselves in Māo
 
 This left an impression on people from other agencies. On some it had quite a profound effect, creating a willingness to learn more, especially when public servants suddenly became aware of just how many of their ‘customers’ were Māori and how little tikanga  featured in service design.
 
-[![The Lab vision](/staging-site/assets/img/projects/lab-vision.png)](/staging-site/assets/img/projects/lab-vision.png)
-[Larger version of the lab vision](#Go-to-DetailedDescription)
+[![The Lab vision (Larger version)](/staging-site/assets/img/projects/lab-vision.png)]
 
 #### Mihi whakatau
 
