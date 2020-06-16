@@ -3567,7 +3567,8 @@ figcaption {
 .page-title {
   color: #1c304a;
   font-size: 3.4rem;
-  font-weight: 700; }
+  font-weight: 700;
+  padding-top: 1rem; }
 
 .background-medium h1, .background-medium .h1,
 .background-medium h2,
