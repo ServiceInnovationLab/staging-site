@@ -20,7 +20,7 @@ The diagram displays a time scale of “Current”, “0 to 5 years”, “5 to 
 
 It is worth noting that this landscape projects details up to the use and release of Quantum Computing as the possibilities of the technology being ubiquitously used, will more than likely change the entire landscape.
 
-[![20 Year Emerging Technology Landscape](/staging-site/assets/media/20-Year-Emtech-Landscape/20yr-emtech-landscape.png)]
+[![20 Year Emerging Technology Landscape](/staging-site/assets/media/20-Year-Emtech-Landscape/20yr-emtech-landscape.png)](/staging-site/assets/media/20-Year-Emtech-Landscape/20yr-emtech-landscape.png)
 
 ### How the Landscape was constructed
 

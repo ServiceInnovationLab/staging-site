@@ -16,7 +16,7 @@ report:
   - "[Renting a property continuing our-discovery](/staging-site/2019/01/30/renting-a-property-continuing-our-discovery)"
 ---
 
-[![Discovery using Māori lens overturns key assumption on renting a property](/staging-site/assets/img/projects/kainga.png)]
+[![Discovery using Māori lens overturns key assumption on renting a property](/staging-site/assets/img/projects/kainga.png)](/staging-site/assets/img/projects/kainga.png)
 
 How deeper exploration of an issue, employing cross-agency teams – along with alternative lenses – resulted in a total turnaround in understanding the key influencer in the property rental experience.
 

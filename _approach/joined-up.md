@@ -11,7 +11,7 @@ resources:
 other_process_phases:
 ---
 
-[![Foundations for accelerating joined-up services delivery](/staging-site/assets/img/projects/Joined-up-services-delivery.png)]
+[![Foundations for accelerating joined-up services delivery](/staging-site/assets/img/projects/Joined-up-services-delivery.png)](/staging-site/assets/img/projects/Joined-up-services-delivery.png)
 
 ### The opportunity
 
