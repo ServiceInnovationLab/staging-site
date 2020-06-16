@@ -16,8 +16,7 @@ report:
   - "[Renting a property continuing our-discovery](/staging-site/2019/01/30/renting-a-property-continuing-our-discovery)"
 ---
 
-[![Discovery using Māori lens overturns key assumption on renting a property
-](/staging-site/assets/img/projects/kainga.png)](/assets/media/kainga.png) [Discovery using Māori lens overturns key assumption on renting a property](#Go-to-DetailedDescription)
+[![Discovery using Māori lens overturns key assumption on renting a property](/staging-site/assets/img/projects/kainga.png)]
 
 How deeper exploration of an issue, employing cross-agency teams – along with alternative lenses – resulted in a total turnaround in understanding the key influencer in the property rental experience.
 
@@ -26,7 +25,6 @@ How deeper exploration of an issue, employing cross-agency teams – along with 
 The Renting a Property Discovery was the first life event work where the Lab applied wellbeing frameworks to inform development of potential government services.
 
 The Service Innovation Working Group SIWG authorised a small cross-agency team to explore ‘Renting a Property’ as a life event from a holistic, all-of-government perspective. This life event was chosen because renting had increased from 23% in 1991 to 33% in 2016.  Many rentals don’t support their occupants well when compared with owner-occupied houses:
-
 
 * 31% of rental houses feel damp, compared to 11% of owner- occupied houses
 * 22% of rental homes have no fixed heating sources
@@ -67,16 +65,16 @@ The findings were used by MBIE’s Tenancy Services to inform::
 
 ### Where to from here
 
-The scope of this research was seen as quite narrow; it kept throwing up issues such as housing affordability and lack of housing stock. The research remains available as a foundation for more comprehensive exploration of this topic in future. 
+The scope of this research was seen as quite narrow; it kept throwing up issues such as housing affordability and lack of housing stock. The research remains available as a foundation for more comprehensive exploration of this topic in future.
 
 ### The value of incorporating a Māori cultural lens
 
 The incorporation of a Māori wellbeing lens led to an aligned piece of research into Kainga as home has a far richer significance for Māori. The concept can be linked  to being prepared for when your living circumstances change, given Māori are less likely to own their own home.
- 
+
 Kāinga has transformed as many families / whānau have moved from rural to urban settings, so kāinga for many now would be a 2-3 bedroom home on an urban section. It is also connected to the holistic concept of whānau – family providing shelter, warmth and an opportunity to nurture potential.
- 
+
 Many of the project team were from the agencies involved in administering state housing. It was the kainga work that placed the importance on a home rather than a house, alongside the relationships required for a positive rental experience.
- 
+
 During interviews, using the Māori cultural lens was what led to the discovery that positive relationships between the landlord and tenant had a direct connection to healthier homes, even if the home was unhealthy to start with.
 
 * DIA senior advisor Tiopira Piripi who developed the Kāinga work stream.
