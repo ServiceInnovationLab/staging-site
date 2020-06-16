@@ -8,7 +8,6 @@ image_accessibility: brain icon for mindsets
 approach_weight: 1
 media:
 resources:
-  - "[]()"
 other_process_phases:
 ---
 
