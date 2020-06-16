@@ -15,6 +15,7 @@ media:
 - "[Embracing Innovation in Government - Global Trends 2019](https://trends.oecd-opsi.org/)"
 - "[Open Source Award wins for Service Innovation Lab](https://www.digital.govt.nz/blog/open-source-award-wins-for-service-innovation-lab/)"
 ---
+
 ## Our story
 
 Government agencies working together and really listening to people – from the vulnerable to the tech-savvy – to redesign their services to better meet the needs of all New Zealanders.
@@ -57,7 +58,7 @@ __We were  setup to:__
 - Accelerate development of life event services
 - Change perceptions of government being slow and behind with technology
 - Enable a culture of experimentation and adaptiveness
-- Provide a neutral place not linked to a specific agency, product or service  in order to provide an outside-in ‘joined up’ view of government services.
+- Provide a neutral place not linked to a specific agency, product or service in order to provide an outside-in ‘joined up’ view of government services.
 
 ### Work Programme
 
@@ -77,7 +78,7 @@ In 2013 the Digital Service Council (DSC), comprising eight agencies, was establ
 
 November 2015 a Service Innovation Reference Group (SIRG) was established to provide support to SIWG by detailing of the work programme and initiatives.
 
-February 2017, the Service Innovation Lab (the Lab) was founded with support from the Service Innovation Work Programme Team from Internal Affairs, Assurity Consulting Ltd and direction from the SIRG. Secretariat and management overview is provided by Internal Affairs, which is the Government’s functional lead agency for digital development. 
+February 2017, the Service Innovation Lab (the Lab) was founded with support from the Service Innovation Work Programme Team from Internal Affairs, Assurity Consulting Ltd and direction from the SIRG. Secretariat and management overview is provided by Internal Affairs, which is the Government’s functional lead agency for digital development.
 
 ...and this is where the Service Innovation Lab’s story starts and is detailed across this site.
 
@@ -92,18 +93,20 @@ The Service Innovation Lab  was a 5-month experiment, which ran from February to
 It provided a place where teams  from different agencies, NGOs, private sector and New Zealanders could a physical space conducive to collaboration and experimentation, supported by skilled lean and agile coaches to help teams rapidly evolve their working methods.
 
 #### Features
-* Lab as a space (based inside of government)
-* External expertise (procured)
-* Time-limited
-* Senior Support and mandate 
-* Cross-government focus
-* Prototyping new ways of working across government
+
+- Lab as a space (based inside of government)
+- External expertise (procured)
+- Time-limited
+- Senior Support and mandate
+- Cross-government focus
+- Prototyping new ways of working across government
 
 #### Landscape
-* Established public service reform agenda (Better Public Services)
-* Increased expectation that agencies will collaborate and work in joined-up ways
-* Increased interest in human-centred approaches across government
-* Importance of digital services and digital identity amplified
+
+- Established public service reform agenda (Better Public Services)
+- Increased expectation that agencies will collaborate and work in joined-up ways
+- Increased interest in human-centred approaches across government
+- Importance of digital services and digital identity amplified
 
 ### Phase 2 - Lab as a service (July 2017 to Jun 2018)
 
@@ -114,16 +117,18 @@ It focused on life-events and integrated services with a digital focus. A work p
 A number of key projects  progressed to implementation. Other pieces laid foundations and secured buy-in for further work. Several barriers also began to emerge which were presented to sponsors.
 
 #### Features
-* Increased internal capability and expertise within the lab team (reduced reliance on external expertise)
-* 12-month work programme 
-* Focus on life events and integrated services as catalyst for cross-government working
-* Senior support and resources committed
+
+- Increased internal capability and expertise within the lab team (reduced reliance on external expertise)
+- 12-month work programme 
+- Focus on life events and integrated services as catalyst for cross-government working
+- Senior support and resources committed
 
 #### Landscape
-* General election and change of government - Oct 2017
-* New government’s 100-day plan took priority over lab work for partner agencies
-* Team required to move offices three times in 12 months - once post-earthquake
-* Dedicated lab space established (close to partner agencies)
+
+- General election and change of government - Oct 2017
+- New government’s 100-day plan took priority over lab work for partner agencies
+- Team required to move offices three times in 12 months - once post-earthquake
+- Dedicated lab space established (close to partner agencies)
 
 ### Phase 3 - Lab as a space and a service (Jun 18 - Jun 20)
 
@@ -138,16 +143,18 @@ Work on integrated services continued but some of the barriers to collaboration 
 [insert picture and link to Kim’s poster]
 
 #### Features
-* Lab as a dedicated neutral space (based outside of government) increasingly popular
-* Work supplemented by future-thinking e.g. Emerging Tech workstream
-* Increased profile - lab hosted international visitors (with NZTE)
-* Increased range of expertise in team but also higher turnover of staff
+
+- Lab as a dedicated neutral space (based outside of government) increasingly popular
+- Work supplemented by future-thinking e.g. Emerging Tech workstream
+- Increased profile - lab hosted international visitors (with NZTE)
+- Increased range of expertise in team but also higher turnover of staff
 
 #### Landscape
-* New government priorities around wellbeing and digital became more established
-* Uncertainty about lab funding and future viability
-* Continued demand and interest in human-centred approaches across government
-* Wellington based alternatives emerged as other innovation partners for agencies
+
+- New government priorities around wellbeing and digital became more established
+- Uncertainty about lab funding and future viability
+- Continued demand and interest in human-centred approaches across government
+- Wellington based alternatives emerged as other innovation partners for agencies
 
 ### Phase 4 - Lab close and transition (Oct 19 -  Jun 20)
 
@@ -156,14 +163,15 @@ In late 2019, DIA announced it was closing closethe lab and this would happen  b
 The transition period coincided with the arrival of Covid-19 in early 2020. The wider government response and need to work remotely under level 3 and 4 enabled the lab to help other teams by sharing its experience of agile and digital collaborative practice, while also  continuing to deliver itswork programme.
 
 #### Features
-* Developing of lab toolkit and sharing approach
-* Re-emergence of earlier discovery work
-* Focus on integrated services
-* Cross department support during response to COVID-19
+
+- Developing of lab toolkit and sharing approach
+- Re-emergence of earlier discovery work
+- Focus on integrated services
+- Cross department support during response to COVID-19
 
 #### Landscape
-* Restructure and changes in home agency
-* Managing transition of lab work programme to new host teams
-* Early stages of COVID-19 and preparation for Level 3 and 4
-* Shift to remote working with focus on online collaborative working
 
+- Restructure and changes in home agency
+- Managing transition of lab work programme to new host teams
+- Early stages of COVID-19 and preparation for Level 3 and 4
+- Shift to remote working with focus on online collaborative working
