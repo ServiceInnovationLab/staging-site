@@ -62,7 +62,7 @@ __We were  setup to:__
 
 ### Work Programme
 
-Our work programme included initiatives that usually fall outside the remit, capability or budget of a single agency. 
+Our work programme included initiatives that usually fall outside the remit, capability or budget of a single agency.
 
 All the initiatives we worked on are service delivery focused. They either helped people interact with government directly or indirectly by improving the behind the scenes processes and infrastructure to enable a better experience for those who deliver them and receive them. This indirect work is part of our goal of opening up government services and data so it can be reused safely by other parts of local and central government but private sector and NGO service providers. We call this Government as a Platform.
 
@@ -119,7 +119,7 @@ A number of key projects  progressed to implementation. Other pieces laid founda
 #### Features
 
 - Increased internal capability and expertise within the lab team (reduced reliance on external expertise)
-- 12-month work programme 
+- 12-month work programme
 - Focus on life events and integrated services as catalyst for cross-government working
 - Senior support and resources committed
 
