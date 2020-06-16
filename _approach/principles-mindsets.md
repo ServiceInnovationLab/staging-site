@@ -5,12 +5,9 @@ permalink: /approach/principles-mindsets/
 excerpt:
 image: /assets/img/approach/approach-mindset-bg.png
 image_accessibility: brain icon for mindsets
-external_url: "[Project repo](url)"
-external_link_title: External link name
-process_weight: 1
+approach_weight: 1
 media:
 resources:
-  - "[]()"
 other_process_phases:
 ---
 

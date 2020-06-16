@@ -36,6 +36,9 @@ collections:
   authors:
     output: true
     permalink: /author/:name/
+  insights:
+    output: true
+    permalink: /insights/:path/
   products_projects:
     output: true
     permalink: /projects/:path/
@@ -43,7 +46,7 @@ collections:
     output: true
     permalink: /projects/:path/
   approach:
-    output: false
+    output: true
     permalink: /approach/:path/
   devPeerReviewWorkflow:
     output: true
@@ -70,9 +73,13 @@ defaults:
     values:
       layout: about-page
   - scope:
-      path: "approach"
+      path: "_approach"
     values:
-      layout: project-page
+      layout: approach-page
+  - scope:
+      path: "_insights"
+    values:
+      layout: insights-page
   - scope:
       path: "_products_projects"
     values:
