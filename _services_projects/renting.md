@@ -1,9 +1,9 @@
 ---
-agency: Service Innovation Lab
+agency: Ministry of Business, Innovation and Employment
 title: Renting a property
-subtitle: Research into the relationship dynamics of renting a property and ways they impact the renting experience and can make it better.
+subtitle: Discovery using Māori lens overturns key assumption on renting a property
 permalink: /projects/renting/
-excerpt: Text that you want to appear in the Project Card's description.
+excerpt: How deeper exploration of an issue, employing cross-agency teams – along with alternative lenses – resulted in a total turnaround in understanding the key influencer in the property rental experience.
 image: /assets/img/projects/renting-a-property.png
 image_accessibility: A row of houses.
 external_url: "[Project repo](url)"
@@ -16,9 +16,13 @@ report:
   - "[Renting a property continuing our-discovery](/staging-site/2019/01/30/renting-a-property-continuing-our-discovery)"
 ---
 
+[![Discovery using Māori lens overturns key assumption on renting a property](/staging-site/assets/img/projects/kainga.png)]
+
 How deeper exploration of an issue, employing cross-agency teams – along with alternative lenses – resulted in a total turnaround in understanding the key influencer in the property rental experience.
 
 ### What happened
+
+The Renting a Property Discovery was the first life event work where the Lab applied wellbeing frameworks to inform development of potential government services.
 
 The Service Innovation Working Group SIWG authorised a small cross-agency team to explore ‘Renting a Property’ as a life event from a holistic, all-of-government perspective. This life event was chosen because renting had increased from 23% in 1991 to 33% in 2016.  Many rentals don’t support their occupants well when compared with owner-occupied houses:
 
@@ -28,11 +32,13 @@ The Service Innovation Working Group SIWG authorised a small cross-agency team t
 
 In mid-2018, the team ran a short two-part Discovery that explored landlord-tenant relationships. Their starting point was the hypothesis that a better rental house will result in a better relationship between tenant and landlord. The aim was to find out more about the relationships and the house itself.
 
-This was essentially a fact-finding mission as a foundation for future work. Significant research had already been undertaken. The team built on this by reviewing over 48 documents that provided insights into renting from landlord, property manager and tenant perspectives, and conducted in-depth interviews with 60 stakeholders. It also explored wellbeing frameworks relevant to renting, including the Māori concept of "[Kāinga](https://www.digital.govt.nz/blog/kainga-and-renting-a-property/)".
-Who was involved
+This was essentially a fact-finding mission as a foundation for future work. Significant research had already been undertaken. The team built on this by reviewing over 48 documents that provided insights into renting from landlord, property manager and tenant perspectives, and conducted in-depth interviews with 60 stakeholders.
+
+### Who was involved
 
 * Ministry of Business, Innovation and Employment (MBIE)
 * Housing New Zealand (HNZ)
+* Work and Income NZ (WINZ)
 * Service Innovation Lab
 
 ### What was learned
@@ -63,11 +69,13 @@ The scope of this research was seen as quite narrow; it kept throwing up issues 
 
 ### The value of incorporating a Māori cultural lens
 
-The Renting a Property Discovery described above was the first life event work where the Lab applied wellbeing frameworks to inform development of potential government services.
+The incorporation of a Māori wellbeing lens led to an aligned piece of research into Kainga as home has a far richer significance for Māori. The concept can be linked  to being prepared for when your living circumstances change, given Māori are less likely to own their own home.
 
-The incorporation of a Māori lens led to an aligned piece of research into Kainga; home has a far richer significance for Māori. The word kāinga refers to being prepared for when your living circumstances change.
+Kāinga has transformed as many families / whānau have moved from rural to urban settings, so kāinga for many now would be a 2-3 bedroom home on an urban section. It is also connected to the holistic concept of whānau – family providing shelter, warmth and an opportunity to nurture potential.
 
-Many of the project team were from the agencies involved in state housing.
+Many of the project team were from the agencies involved in administering state housing. It was the kainga work that placed the importance on a home rather than a house, alongside the relationships required for a positive rental experience.
+
+During interviews, using the Māori cultural lens was what led to the discovery that positive relationships between the landlord and tenant had a direct connection to healthier homes, even if the home was unhealthy to start with.
 
 * DIA senior advisor Tiopira Piripi who developed the Kāinga work stream.
 
