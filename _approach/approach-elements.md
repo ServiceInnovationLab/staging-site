@@ -2,10 +2,10 @@
 title: Lab elements
 subtitle:
 permalink: /approach/elements/
-excerpt:
-image: /assets/img/approach/approach-elements-bg.png
+excerpt: A helpful way to understand the lab is looking at the elements that shape it.
+image: /assets/img/approach/appproach-elements-bg.png
 image_accessibility: icon for discovery process
-approach_weight: 1
+approach_weight: 2
 media:
 resources:
 other_process_phases:
@@ -16,7 +16,7 @@ other_process_phases:
 A helpful way to understand the Service Innovation Lab is to think about the elements that made up its purpose, how it works and what it focused on.
 These elements help to frame how the lab is both similar and different to other labs and innovation teams.
 
-[INSERT LAB ELEMENTS IMAGE]
+[![Elements of the lab's approach](/staging-site/assets/img/approach/appproach-elements-bg.png)](/staging-site/assets/img/approach/appproach-elements-bg.png)
 
 * **Located inside government** - Located close to decision-makers, policy and operational teams. Supporting cross-agency working backed by shared funding and governance arrangements.
 
