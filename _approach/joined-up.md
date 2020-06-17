@@ -2,16 +2,14 @@
 Title: Fostering successful joined-up services
 subtitle: Foundations for accelerating joined-up services delivery
 permalink: /approach/joined-up/
-excerpt:
+excerpt: A focus on the authorising environment, a culture of collaboration and delivery, having guided the lab's approach. 
 image: /assets/img/approach/Joined-up-services-delivery.png
 image_accessibility: brain icon for mindsets
-approach_weight: 1
+approach_weight: 3
 media:
 resources:
 other_process_phases:
 ---
-
-[![Foundations for accelerating joined-up services delivery](/staging-site/assets/img/projects/Joined-up-services-delivery.png)](/staging-site/assets/img/projects/Joined-up-services-delivery.png)
 
 ### The opportunity
 
@@ -22,6 +20,8 @@ Questions about how we work beyond our vertical public service accountabilities 
 * How do we quickly deliver better services into the hands of citizens?
 
 Three pillars guided the teams focus in response. Weighting of the three elements will vary, but every successful cross agency delivery initiative will require buy-in and contribution across all levels.
+
+[![Foundations for accelerating joined-up services delivery](/staging-site/assets/img/projects/Joined-up-services-delivery.png)](/staging-site/assets/img/projects/Joined-up-services-delivery.png)
 
 #### 1. Authorising environment
 
