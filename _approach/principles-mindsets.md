@@ -2,7 +2,7 @@
 title: Principles and mindsets
 subtitle: These areas were crucial for guiding the lab's work
 permalink: /approach/principles-mindsets/
-excerpt:
+excerpt: Tools and process are helpful but the foundations of the lab's apporach have been the principles and mindsets that underpin its work.
 image: /assets/img/approach/approach-mindset-bg.png
 image_accessibility: brain icon for mindsets
 approach_weight: 1
