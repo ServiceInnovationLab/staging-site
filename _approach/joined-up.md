@@ -1,10 +1,10 @@
 ---
-Title: Fostering successful joined-up services
-subtitle: Foundations for accelerating joined-up services delivery
+Title: Creating the conditions for joined-up working
+subtitle: Accelerating joined-up services delivery
 permalink: /approach/joined-up/
 excerpt: A focus on the authorising environment, a culture of collaboration and delivery, having guided the lab's approach. 
-image: /assets/img/approach/Joined-up-services-delivery.png
-image_accessibility: brain icon for mindsets
+image: /assets/img/approach/approach-joinedup-bg.png
+image_accessibility: network icon
 approach_weight: 3
 media:
 resources:
