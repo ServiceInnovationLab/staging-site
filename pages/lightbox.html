@@ -1,0 +1,22 @@
+---
+title: Lighbox
+layout: default
+permalink: /lightbox/
+---
+
+<img src="{{ site.baseurl }}/assets/img/approach/appproach-elements-bg.png" onclick="openModal()" class="hover-shadow" alt="Nature">
+
+<!-- The Modal/Lightbox -->
+<div id="myModal" class="modal">
+  <span class="close cursor" onclick="closeModal()">&times;</span>
+  <div class="modal-content">
+    <div class="mySlides">
+      <img src="{{ site.baseurl }}/assets/img/approach/appproach-elements-bg.png" style="width:100%" alt="Nature">
+    </div>
+
+    <!-- Caption text -->
+    <div class="caption-container">
+      <p id="caption"></p>
+    </div>
+  </div>
+</div>
