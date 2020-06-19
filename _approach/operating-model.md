@@ -1,4 +1,5 @@
-Title: How we worked - operating model
+---
+title: How we worked - operating model
 subtitle: Providing advice, hosting and wrap-around support to teams was a key feature of the lab’s operating model. It enabled the team to provide a flexible and tailored service.
 permalink: /approach/operating-model/
 excerpt: Providing advice, hosting and wrap-around support to teams was a key feature of the lab’s operating model. It enabled the team to provide a flexible and tailored service.
@@ -17,11 +18,11 @@ other_process_phases:
 
 ### How the lab team worked
 
-Text 
+Text
 
 ### Who we worked with
 
-Text 
+Text
 
 ### Governance and partnerships
 
