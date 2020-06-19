@@ -1,8 +1,8 @@
 ---
-title: Lab elements
+title: How we worked
 subtitle:
 permalink: /approach/elements/
-excerpt: A helpful way to understand the lab is looking at the elements that shape it.
+excerpt: A helpful way to understand the lab is looking at the elements that shape it and guided the work.
 image: /assets/img/approach/appproach-elements-bg.png
 image_accessibility: icon for discovery process
 approach_weight: 2
