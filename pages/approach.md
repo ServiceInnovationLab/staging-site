@@ -31,6 +31,7 @@ gridless: true
             link=approach.permalink
             %}
           {% endfor %}
+          <button id="scrollToTopBtn" title="Go to top">Back to Top</button>
         </div>
       </div>
     </section>
