@@ -4403,7 +4403,7 @@ time {
 /* Style the buttons that are used to open and close the accordion panel */
 .accordion {
   background-color: #eee;
-  color: #444;
+  color: blue;
   cursor: pointer;
   padding: 18px;
   width: 100%;
@@ -4414,7 +4414,8 @@ time {
 
 /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
 .active, .accordion:hover {
-  background-color: #ccc; }
+  background-color: blue;
+  color: white; }
 
 .panel {
   padding: 0 18px;
@@ -4422,6 +4423,16 @@ time {
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-out; }
+
+/* The actual content */
+.accordion-content {
+  background-color: white;
+  position: relative;
+  border-radius: 6px; }
+  .accordion-content h2, .accordion-content .h2, .accordion-content h3, .accordion-content .h3, .accordion-content h4, .accordion-content .h4, .accordion-content p {
+    padding: 1rem 0;
+    margin: 0;
+    text-align: center; }
 
 .newsletter label {
   margin-top: 0; }
