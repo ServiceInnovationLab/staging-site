@@ -29,6 +29,7 @@ The Service Innovation Team comprised service designers, software developers and
 Work took place in a neutral space no single agency owned, known simply as ‘the Lab’. Here, people from other agencies could step away from business-as-usual mindsets and were encouraged to work and think differently. The hope was they would share what they’d learnt, to build capability within their own agencies.
 
 [![Foundations for accelerating joined-up services delivery](/staging-site/assets/img/about/AoG showcase2.png)](/staging-site/assets/img/about/AoG showcase2.png)
+Lab team at the 2018 All of Government Showcase event, Wellington
 
 They were provided support and skills to build tools such as financial calculators, develop award-winning open-source code and re-usable componentry, run hui that invited ‘different voices to the table’, collaborated on a VR tool for policy-makers and a consent-based information-sharing prototype. They tested and refined ways to make it easier for people to get financial benefits they’re entitled to, such as a Rates Rebate and Community Services Card.
 
@@ -51,6 +52,8 @@ Kei a koe te urunga ake o te rā
 Let mine be the setting sun;
 Yours is the dawning of a new day*
 
+-----
+
 ### Purpose
 
 __We were  setup to:__
@@ -61,6 +64,8 @@ __We were  setup to:__
 - Change perceptions of government being slow and behind with technology
 - Enable a culture of experimentation and adaptiveness
 - Provide a neutral place not linked to a specific agency, product or service in order to provide an outside-in ‘joined up’ view of government services.
+
+-----
 
 ### Work Programme
 
@@ -81,6 +86,7 @@ In 2013 the Digital Service Council (DSC), comprising eight agencies, was establ
 November 2015 a Service Innovation Reference Group (SIRG) was established to provide support to SIWG by detailing of the work programme and initiatives.
 
 [![Workshop hosted by the lab team](/staging-site/assets/img/about/lab workshop.png)](/staging-site/assets/img/about/lab workshop.png)
+Hosting a cross-agency workshop at the lab's offices
 
 February 2017, the Service Innovation Lab (the Lab) was founded with support from the Service Innovation Work Programme Team from Internal Affairs, Assurity Consulting Ltd and direction from the SIRG. Secretariat and management overview is provided by Internal Affairs, which is the Government’s functional lead agency for digital development.
 
@@ -89,8 +95,6 @@ February 2017, the Service Innovation Lab (the Lab) was founded with support fro
 -----
 
 ## Lab Journey - snapshot
-
-[![A story of the lab's approach](/staging-site/assets/img/about/mbie_showcase.png)](/staging-site/assets/img/about/mbie_showcase.png)
 
 While the lab's principles stayed consistent how it operated and where it focused evolved. Some of this was guided by the team adapting and iterating based on hands on experience and learning. Other times it was shaped by the wider environment including changes to the authorising environoment, funding, a change of government and practical challenges like needing to move offices three times.
 
