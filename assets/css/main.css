@@ -3417,6 +3417,9 @@ figcaption {
   background-color: #f1f1f1; }
   .background-gray h2, .background-gray .h2 {
     color: #223cc6; }
+    @media only screen and (max-width: 600px) {
+      .background-gray h2, .background-gray .h2 {
+        padding-top: 2rem; } }
 
 .background-medium {
   background-color: #223cc6; }
