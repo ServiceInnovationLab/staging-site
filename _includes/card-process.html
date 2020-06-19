@@ -1,11 +1,11 @@
 {% assign card_link = include.link | relative_url %}
 
-{% assign columns = include.columns %}
+{% assign columns = include.columns | default: 4 %}
 
 {% if columns == 2 %}
   {% assign wds_grid_class = 'nz-width-one-half' %}
 {% else %}
-  {% assign wds_grid_class = 'nz-width-one-third' %}
+  {% assign wds_grid_class = 'nz-width-one-fourth' %}
 {% endif %}
 
 <article class="card {{ wds_grid_class }} nz-width-tablet">
