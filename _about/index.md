@@ -1,19 +1,19 @@
 ---
-title: About
+title: About the Service Innovation Lab
 permalink: /about/
-subtitle: About Page
-excerpt: About Page
-image:
-image_accessibility:
+subtitle: Sharing our journey
+excerpt: Learn more about the lab's story and evolution.
+image: /assets/img/about/about-story-bg.png
+image_accessibility: icon for a book
 github_repo:
 report:
-media: 
 - "[Designing for Digital - reflections from the first year of the Lab](https://www.digital.govt.nz/blog/designing-for-digital-reflections-from-the-first-year-of-the-lab/)"
 - "[Service Innovation Lab – 18 months of amazing work](https://www.digital.govt.nz/blog/service-innovation-lab-18-months-of-amazing-work/)"
 - "[2017-18 Progress Report for the Service Innovation Lab](https://www.digital.govt.nz/blog/2017-18-progress-report-for-the-service-innovation-lab/)"
 - "[2017-18 Progress Report for the Service Innovation Lab](https://serviceinnovationlab.github.io/2018/07/01/Lab-Report.html)"
 - "[Embracing Innovation in Government - Global Trends 2019](https://trends.oecd-opsi.org/)"
 - "[Open Source Award wins for Service Innovation Lab](https://www.digital.govt.nz/blog/open-source-award-wins-for-service-innovation-lab/)"
+media:
 ---
 
 ## Our story
@@ -27,6 +27,8 @@ From 2016 to mid-2020, a unique all-of-government team explored how it could enc
 The Service Innovation Team comprised service designers, software developers and skilled support staff, whose diverse work was overseen by senior officials from across government. The Team collaborated with other agencies, private partners and community groups. They made a point of listening to citizens to understand their ‘pain points’ when using, or trying to use, government’s often overly-complex services.
 
 Work took place in a neutral space no single agency owned, known simply as ‘the Lab’. Here, people from other agencies could step away from business-as-usual mindsets and were encouraged to work and think differently. The hope was they would share what they’d learnt, to build capability within their own agencies.
+
+[![Foundations for accelerating joined-up services delivery](/staging-site/assets/img/about/AoG showcase2.png)](/staging-site/assets/img/about/AoG showcase2.png)
 
 They were provided support and skills to build tools such as financial calculators, develop award-winning open-source code and re-usable componentry, run hui that invited ‘different voices to the table’, collaborated on a VR tool for policy-makers and a consent-based information-sharing prototype. They tested and refined ways to make it easier for people to get financial benefits they’re entitled to, such as a Rates Rebate and Community Services Card.
 
@@ -78,6 +80,8 @@ In 2013 the Digital Service Council (DSC), comprising eight agencies, was establ
 
 November 2015 a Service Innovation Reference Group (SIRG) was established to provide support to SIWG by detailing of the work programme and initiatives.
 
+[![Workshop hosted by the lab team](/staging-site/assets/img/about/lab workshop.png)](/staging-site/assets/img/about/lab workshop.png)
+
 February 2017, the Service Innovation Lab (the Lab) was founded with support from the Service Innovation Work Programme Team from Internal Affairs, Assurity Consulting Ltd and direction from the SIRG. Secretariat and management overview is provided by Internal Affairs, which is the Government’s functional lead agency for digital development.
 
 ...and this is where the Service Innovation Lab’s story starts and is detailed across this site.
@@ -85,6 +89,14 @@ February 2017, the Service Innovation Lab (the Lab) was founded with support fro
 -----
 
 ## Lab Journey - snapshot
+
+[![A story of the lab's approach](/staging-site/assets/img/about/mbie_showcase.png)](/staging-site/assets/img/about/mbie_showcase.png)
+
+While the lab's principles stayed consistent how it operated and where it focused evolved. Some of this was guided by the team adapting and iterating based on hands on experience and learning. Other times it was shaped by the wider environment including changes to the authorising environoment, funding, a change of government and practical challenges like needing to move offices three times.
+
+A important reflection is the importance of the ability change, adapt and anticipate is key to the sustainablity of labs.
+
+We have loosly framed this around four key phases below. This includes the final period of transistion and cloure of the lab.
 
 ### Phase 1 - Lab as a space (Feb - Jun 2017)
 
