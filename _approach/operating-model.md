@@ -10,7 +10,6 @@ external_link_title: External link name
 process_weight: 1
 media:
 resources:
-  - "[]()"
 other_process_phases:
 ---
 
