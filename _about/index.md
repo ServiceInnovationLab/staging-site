@@ -96,7 +96,7 @@ While the lab's principles stayed consistent how it operated and where it focuse
 
 A important reflection is the importance of the ability change, adapt and anticipate is key to the sustainablity of labs.
 
-We have loosly framed this around four key phases below. This includes the final period of transistion and cloure of the lab. 
+We have loosly framed this around four key phases below. This includes the final period of transistion and cloure of the lab.
 
 ### Phase 1 - Lab as a space (Feb - Jun 2017)
 
