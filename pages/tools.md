@@ -68,6 +68,7 @@ h2 {
             external_link_title=project.external_link_title
             %}
           {% endfor %}
+          <button id="scrollToTopBtn" title="Go to top">Back to Top</button>
         </div>
       </div>
     </section>
