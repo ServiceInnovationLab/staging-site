@@ -1,8 +1,8 @@
 ---
-title: Engagement phase
-subtitle:
+title: 1. Engagement phase
+subtitle: Focuses on building relationships and the conditions for joined-up working
 permalink: /process/process-engagement/
-excerpt:
+excerpt: Establishing the conditions for joined-up working
 image: /assets/img/process/process-engagement-bg.png
 image_accessibility: Visual illustration of the lab’s process
 external_url: "[Project repo](url)"
