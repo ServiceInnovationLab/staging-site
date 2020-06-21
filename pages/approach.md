@@ -11,6 +11,7 @@ gridless: true
   <div class="nz-grid">
     <h2 tabindex="0">Our approach</h2>
       <p>The Service Innovation Lab was an interdisciplinary team with backgrounds in agile, design, policy and technology. It used evidence-based decision making and design thinking to help improve government service experiences.</p>
+      <img src="{{ site.baseurl }}/assets/img/mbie-showcase.png" alt="Visualisation of the lab's approach">
       <p>Set out below are key elements of the lab's approach. It includes principles and mindsets, an approach to joined-up working across government plus practical refelctions on running an innovation lab.</p>
       <p>What's shared reflects the team's experience and there is plenty more to read elsewhere about developing innovation labs.</p>
   </div>
