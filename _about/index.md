@@ -28,8 +28,8 @@ The Service Innovation Team comprised service designers, software developers and
 
 Work took place in a neutral space no single agency owned, known simply as ‘the Lab’. Here, people from other agencies could step away from business-as-usual mindsets and were encouraged to work and think differently. The hope was they would share what they’d learnt, to build capability within their own agencies.
 
-[![Foundations for accelerating joined-up services delivery](/staging-site/assets/img/about/AoG showcase2.png)](/staging-site/assets/img/about/AoG showcase2.png)
-Lab team at the 2018 All of Government Showcase event, Wellington
+[![All of Government Showcase event](/staging-site/assets/img/about/AoG showcase2.png)](/staging-site/assets/img/about/AoG showcase2.png)
+*Lab team at the 2018 All of Government Showcase event, Wellington*
 
 They were provided support and skills to build tools such as financial calculators, develop award-winning open-source code and re-usable componentry, run hui that invited ‘different voices to the table’, collaborated on a VR tool for policy-makers and a consent-based information-sharing prototype. They tested and refined ways to make it easier for people to get financial benefits they’re entitled to, such as a Rates Rebate and Community Services Card.
 
