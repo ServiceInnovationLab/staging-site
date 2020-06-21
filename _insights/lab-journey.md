@@ -114,4 +114,3 @@ The transition period coincided with the arrival of Covid-19 in early 2020. The 
 - Managing transition of lab work programme to new host teams
 - Early stages of COVID-19 and preparation for Level 3 and 4
 - Shift to remote working with focus on online collaborative working
-
