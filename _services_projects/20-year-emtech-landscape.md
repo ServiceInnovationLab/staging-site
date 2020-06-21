@@ -1,14 +1,15 @@
 ---
 agency: Service Innovation Lab
 title: 20 Year Emerging Technology Landscape
-subtitle:
+subtitle: The next 20 years of emerging tech is vast, this landscape provides you with a visualisation of what to expect in the future.
 permalink: /projects/20-year-emtech-landscape/
-excerpt: The next 20 years of emerging tech is vast, this landscape provides you with a visualisation of what to expect in the future.
+excerpt: Creating a 20 Year Emerging Technology Landscape to share across agencies indicating new technologies the public sector is likely to experience or need to embrace over the next 20 years.
 image: /assets/img/projects/20yr-emtech-landscape-image.png
 image_accessibility: Image showing the 20 year landscape. Click on this to view the blogpost and a detailed view of the landscape.
 media: "[20 Year EmTech Landscape](/staging-site/assets/media/20-Year-Emtech-Landscape/Emerging-Technology-20Year-Landscape.pdf)"
 resources:
 ---
+
 <br/>
 <span class="subtitle">Led by Hazel Bradshaw, Emerging Tech Lead - Service Innovation Lab</span>
 
@@ -24,8 +25,7 @@ It is worth noting that this landscape projects details up to the use and releas
 
 ### How the Landscape was constructed
 
-The selected technologies and their positioning on the landscape has been informed by research and shaped by consultation with other emerging tech leaders engaged through participation in forums.  The landscape was constructed by applying a governmental lens which enables a better digital public service.
-These sources include:
+The selected technologies and their positioning on the landscape has been informed by research and shaped by consultation with other emerging tech leaders engaged through participation in forums. The landscape was constructed by applying a governmental lens which enables a better digital public service. These sources include:
 
 - [OECD](https://www.oecd.org/sti/emerging-tech/)
 - [World Economic Forum](https://www.weforum.org/agenda/2019/07/these-are-the-top-10-emerging-technologies-of-2019/)
@@ -48,8 +48,7 @@ With such a vast array of technology in the landscape the lab has seven key area
 
 ## Opportunities for Further Work
 
-This is a piece of work that has the potential to expand and develop.
-Possible future work could be:
+This is a piece of work that has the potential to expand and develop. Possible future work could be:
 
 **Application of different lenses**<br/>
 Applying different lenses onto this landscape will most likely see the landscape change. An example of another lens would be that of digital inclusion, which would identify technology that could ensure a more equitable digital environment for all.
@@ -58,8 +57,7 @@ Applying different lenses onto this landscape will most likely see the landscape
 To help broaden the technologies represented in the landscape engaging with both other government agencies and various private sector organisations would she light into what developing trends there are within New Zealand.
 
 **Landscape visualisation development**<br/>
-The landscape can be developed to be more interactive and more interconnected. Development of interactive cards of the landscape which display definitions of the technology could be developed.
-Furthermore development of visualisation connections to show dependencies of technology to other technology could be introduced.
+The landscape can be developed to be more interactive and more interconnected. Development of interactive cards of the landscape which display definitions of the technology could be developed. Furthermore development of visualisation connections to show dependencies of technology to other technology could be introduced.
 
 **Primer per category**<br/>
 A primer template has been created and an example AI Primer can be found in the resources. A primer can be utilised to further explain the categories at the top of the landscape in relation to what it is, examples of it and other details listed in the template.
@@ -68,22 +66,19 @@ A primer template has been created and an example AI Primer can be found in the 
 Work into understanding how disruptive the technology listed in the landscape is to the current environment should be investigated. This should be visualised on the landscape itself, and integrating disruption into the Primer.
 
 ---
-<a name="Go-to-DetailedDescription"></a>
 
 ### Detailed description of the 20 Year Emerging Technology Landscape
 
 #### Overview
 
-The main table displays the 20-year emerging technology landscape.
-There are 4 rows representing periods of time, from top to bottom:
+The main table displays the 20-year emerging technology landscape. There are 4 rows representing periods of time, from top to bottom:
 
 - Current
 - 0 to 5 years from now
 - 5 to 10 years from now
 - 10 to 20 years from now
 
-Each row illustrates how far in the future the technology is expected to become commonly used.
-There are 13 columns labelled with categories of emergent technology, from left to right:
+Each row illustrates how far in the future the technology is expected to become commonly used. There are 13 columns labelled with categories of emergent technology, from left to right:
 
 - Cloud Computing
 - Big Data/Analytics
@@ -98,9 +93,7 @@ There are 13 columns labelled with categories of emergent technology, from left 
 - Bio-Tech
 - Quantum Computing
 
-Columns for technology categories which are in common use now are on the left.
-As you read each column from left to right, the technology categories are increasingly experimental, still in research and development, or limited to academic of private institutions.
-53 technologies are represented in the diagram, each one placed in its respective column (for its category) and row (for when it will be in use, for example in 10 to 20 years).
+Columns for technology categories which are in common use now are on the left. As you read each column from left to right, the technology categories are increasingly experimental, still in research and development, or limited to academic of private institutions. 53 technologies are represented in the diagram, each one placed in its respective column (for its category) and row (for when it will be in use, for example in 10 to 20 years).
 
 #### Values
 
