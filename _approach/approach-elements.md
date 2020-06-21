@@ -18,6 +18,10 @@ These elements help to frame how the lab is both similar and different to other 
 
 [![Elements of the lab's approach](/staging-site/assets/img/approach/appproach-elements-bg.png)](/staging-site/assets/img/approach/appproach-elements-bg.png)
 
+<video width="320" height="240" controls>
+  <source src="{{ site.baseurl }}/assets/vids/Grant 1 - Approach How We Worked (Collaboration).mp4" type="video/mp4">
+</video>
+
 * **Located inside government** - Located close to decision-makers, policy and operational teams. Supporting cross-agency working backed by shared funding and governance arrangements.
 
 * **Cross agency collaboration** - Bring teams together to find better ways to deliver the joined-up services. Creating new resources, knowledge and networks.

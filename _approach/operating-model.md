@@ -15,6 +15,10 @@ other_process_phases:
 
 ### TEXT TO BE UPDATED
 
+<video width="320" height="240" controls>
+  <source src="{{ site.baseurl }}/assets/vids/Tim K 1 - How We Worked Operating Model (Cross Agency Working).mp4" type="video/mp4">
+</video>
+
 ### How the lab team worked
 
 Text

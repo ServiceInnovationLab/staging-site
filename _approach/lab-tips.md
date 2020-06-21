@@ -23,6 +23,10 @@ Over past three and half years the team has gained hands on experience starting,
 
 Below are eight practical areas and questions to explore that the team has identified. They are not intended to cover every aspect of running a lab and we have highlighted other useful lab resources too.
 
+<video width="320" height="240" controls>
+  <source src="{{ site.baseurl }}/assets/vids/Tim K 2 - Lab Tips (Reflections from the Lab).mp4" type="video/mp4">
+</video>
+
 ### 1. Establishing team culture and mindsets
 
 #### Lab team reflections
