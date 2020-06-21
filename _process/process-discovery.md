@@ -1,10 +1,10 @@
 ---
-title: Discovery phase
-subtitle: This phases focuses on divergent and convergent research and design work.
+title: 3. Discovery phase
+subtitle: Indepth work focused on research and designing responses
 permalink: /process/process-discovery/
-excerpt:
+excerpt: Indepth work focused on research and designing prototypes
 image: /assets/img/process/process-discover-bg.png
-image_accessibility: Visual illustration of the lab’s process
+image_accessibility: icon for the discovery phase
 external_url: "[Project repo](url)"
 external_link_title: External link name
 process_weight: 2
