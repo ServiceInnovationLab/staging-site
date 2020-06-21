@@ -1,8 +1,8 @@
 ---
-title: Alpha and Beta testing
-subtitle:
+title: 4. Alpha and Beta testing
+subtitle: Understanding if the prototype works and preparing for implementation
 permalink: /process/process-testing/
-excerpt:
+excerpt: Understanding if the prototype works and preparing for implementation
 image: /assets/img/process/process-testing-bg.png
 image_accessibility: Icon for testing process
 external_url: "[Project repo](url)"
