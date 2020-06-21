@@ -1,8 +1,8 @@
 ---
-Title:  Reflections on running a lab
-subtitle: Pracital tips based on the lab team's experience
-permalink: /approach/lab-tips/
-excerpt: Hands on reflections about starting, developing and running a lab
+Title:  Practical tips on running a lab
+subtitle: Relfections from the lab team about area to focus on
+permalink: /insights/lab-tips/
+excerpt: Relfections from the lab team about area to focus on
 image: /assets/img/approach/lab-tips.png
 image_accessibility: image of an online post-it note workshop
 external_url: "[Project repo](url)"
@@ -22,10 +22,6 @@ other_process_phases:
 Over past three and half years the team has gained hands on experience starting, developing, running and closing a lab.
 
 Below are eight practical areas and questions to explore that the team has identified. They are not intended to cover every aspect of running a lab and we have highlighted other useful lab resources too.
-
-<video width="320" height="240" controls>
-  <source src="{{ site.baseurl }}/assets/vids/Tim K 2 - Lab Tips (Reflections from the Lab).mp4" type="video/mp4">
-</video>
 
 ### 1. Establishing team culture and mindsets
 
