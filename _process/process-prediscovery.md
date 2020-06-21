@@ -1,8 +1,8 @@
 ---
-title: Pre-discovery phase
-subtitle:
+title: 2. Pre-discovery phase
+subtitle: Taking time to create a shared understanding of the opportunity
 permalink: /process/process-prediscovery/
-excerpt:
+excerpt: Taking time to understand and frame the opportunity together
 image: /assets/img/process/process-prediscovery-bg.png
 image_accessibility: icon for discovery process
 external_url: "[Project repo](url)"
@@ -30,9 +30,9 @@ This phase seeks to gather just enough information to describe in a concise way 
 
 This time and focus helped make an informed decision about the nature of the opportunity, the readiness of the agencies and to better understand the resources requirements that may be required. Our experience highlighted all this information is key when seeking support from commissioners and sponsors.
 
-Mini-design sprint - getting close to the work
-gathering just enough information to frame in a concise way a potential initiative,
-Will inform funding, sponsorship, resources).
+* Mini-design sprint - getting close to the work
+* Gathering just enough information to frame in a concise way a potential initiative,
+* Will inform funding, sponsorship and resource requirements.
 
 AS part of the lab’s operating model, this pre-discovery work was often resourced by the lab prior to seeking project funding from comissionsers.
 
