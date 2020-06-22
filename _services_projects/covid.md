@@ -13,6 +13,7 @@ media: "[COVID-19 financial support tool](https://uniteforrecovery.govt.nz/busin
 ---
 
 ### Why is the Lab closing?
+
 COVID-19’s arrival in New Zealand in March 2020 coincided with preparations for the Lab’s  June closure. The decision to close followed the formation of the Digital Public Service branch within the Department of Internal Affairs, which had provided secretariat services and oversight of what was otherwise an all-of-Government facility.
 
 Formation of the DPS branch was to ensure DIA had an operational structure to enable it to deliver on the Government’s new Strategy for a Digital Public Service.
@@ -40,6 +41,7 @@ Staff who had previously collaborated with DIA’s Service Delivery and Operatio
 Within five days they had a calculator that employers, employees and the self-employed could easily use to work out their new financial entitlements.It took nearly four weeks to go through a bottle-necked Government COVID response review process before release, but quickly proved its worth: within five days it was receiving an average 2,122 page views per day.
 
 ### Responding with technology for a ‘touchless’ future - Korerorero
+
 As with the calculator, other work that began in anticipation of future need was the quick-build of the Korerorero framework. This runs a chatbot called Quinn, using what was learnt from [Police](/staging-site/projects/virtual_reality/) with their hand-drawn animation in place of a live and costly 3D prototype.
 
 Korerorero offers flexible integrations with existing services and enables a contactless user interface  - no touchscreen or keyboard is required, so it has the potential to replace touch screen kiosks for check-ins and information searches. Because it’s backed by IBM Watson there are options to integrate with knowledge bases. It could be run as a text-only interface in chat providers such as Whatsapp or as a voice online in a call centre.
