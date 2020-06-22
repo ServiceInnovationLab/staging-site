@@ -3581,7 +3581,10 @@ figcaption {
   padding-top: 0.9375rem; }
 
 .background-image-homepage {
-  background-color: blue; }
+  background-image: url("../../assets/img/homepagebg_blue.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center; }
 
 .govt-logo {
   height: 55px;
@@ -4771,7 +4774,7 @@ time {
     filter: blur(2px); } }
 @media only screen and (max-width: 600px) {
   .location-title {
-    font-size: 0.5em; }
+    font-size: 1em; }
 
   .location-subtitle {
     font-size: .3em; } }
