@@ -9,6 +9,7 @@ approach_weight: 3
 media:
 - "[OCC - Complexity to collaboration](https://www.occ.org.nz/assets/Uploads/Complexity-to-collaboration-revised-final.pdf)"
 resources:
+- "[Foundations for accelerating joined-up services delivery- PDF](/staging-site/approach/Joined-up-services-delivery.pdf)"
 other_process_phases:
 ---
 
