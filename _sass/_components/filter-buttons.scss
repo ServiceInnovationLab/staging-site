@@ -1,11 +1,18 @@
 .filter-button {
-  border: 1px solid #223cc6;
-  background-color: white;
-  color: #223cc6;;
+  background-color: $color-inverse;
+  color: $color-bright;
+  border: 2px solid $color-bright;
+  border-radius: 10px;
 
   &.active-filter {
-    border: 1px solid #ffffff;
-    background-color: #223cc6;;
-    color: #ffffff;
+    background-color: $color-bright;
+    color: $color-inverse;
+    border-radius: 10px;
+  }
+
+  &:hover {
+    background-color: $color-bright;
+    color: $color-inverse;
+    border-radius: 10px;
   }
 }
