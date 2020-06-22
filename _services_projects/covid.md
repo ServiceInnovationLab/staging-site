@@ -6,7 +6,7 @@ permalink: /projects/covid/
 redirect_from: /projects/covid/
 excerpt: COVID-19’s arrival in New Zealand in March 2020 coincided with preparations for the Lab’s June 2020 closure.
 image: /assets/img/projects/lab-team.png
-Image_accessibility: People talking about the lab’s work
+image_accessibility: People talking about the lab’s work
 github_repo:
 report:
 media: "[COVID-19 financial support tool](https://uniteforrecovery.govt.nz/business/covid-19-financial-support-tool/)"
