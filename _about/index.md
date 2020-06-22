@@ -1,8 +1,8 @@
 ---
 title: About the Service Innovation Lab
 permalink: /about/
-subtitle: Sharing our journey
-excerpt: Learn more about the lab's story and evolution.
+subtitle: Our story and purpose
+excerpt: 
 image: /assets/img/about/about-story-bg.png
 image_accessibility: icon for a book
 github_repo:
