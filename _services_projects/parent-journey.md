@@ -42,7 +42,6 @@ Another benefit from this approach is that it would enable and lift public secto
 ### Testimonial
 
 *“The Lab’s a great place to talk about your work with others in other agencies. People here are like coaches and they think bigger – and across the whole of the government sector, not just one agency. I’ve really enjoyed the cross-pollination that has resulted from that. We’ve been journey mapping an experience for parents along the education system.
-Someone in the Lab used to be a principal and came and talked with us. He had a lightbulb moment and talked to us about the work he was involved in with another group looking at early childhood education. You feel this is a place where you can do that ‘bigger thinking’, that ‘future-focused’ thinking - it’s really conducive to that.”* 
+Someone in the Lab used to be a principal and came and talked with us. He had a lightbulb moment and talked to us about the work he was involved in with another group looking at early childhood education. You feel this is a place where you can do that ‘bigger thinking’, that ‘future-focused’ thinking - it’s really conducive to that.”*
 
 Megan Williams, Service Designer, Parents and Community Information group. Ministry of Education
-
