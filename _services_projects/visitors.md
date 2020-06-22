@@ -1,10 +1,10 @@
 ---
 agency: Service Innovation Lab
 title: Embracing tikanga Māori in work and welcomes
-subtitle: Connecting people through shared experiences and creating a safe and welcoming place to work in.
+subtitle: Tikanga Māori connected people through shared experiences and was part of a collective effort to create a safe and welcoming place to work in.
 permalink: /projects/visitors/
 redirect_from: /projects/visitors/
-excerpt: Embracing tikanga Māori in work and welcomes
+excerpt: Everyone benefited from the cultural richness - the work, the team and relationships formed with ‘visitors’ or manuhiri.
 image: /assets/img/projects/visitors.png
 image_accessibility: Image of the lab team hosting visitors.
 github_repo:

@@ -1,10 +1,10 @@
 ---
 agency: Ministry of Business, Innovation and Employment
 title: Renting a Property
-subtitle: Research into the relationship dynamics of renting a property and ways they impact the renting experience and can make it better.
+subtitle: How deeper exploration of an issue, employing cross-agency teams – along with alternative lenses – resulted in a total turnaround in understanding the key influencer in the property rental experience.
 permalink: /projects/renting-a-property/
 redirect_from: /projects/renting-a-property/
-excerpt: Research into the relationship dynamics of renting a property and ways they impact the renting experience and can make it better.
+excerpt: Using a Māori lens overturns a key assumption on renting a property.
 image: /assets/img/projects/renting-a-property.png
 image_accessibility: A row of houses.
 github_repo:
