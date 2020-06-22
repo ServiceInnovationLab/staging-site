@@ -4223,6 +4223,9 @@ time {
   margin: auto;
   padding: 0;
   width: 70%; }
+  @media only screen and (max-width: 600px) {
+    .card-image-bg-process {
+      width: 50%; } }
 
 .form-checkboxes {
   margin-bottom: 3rem; }
