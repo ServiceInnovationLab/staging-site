@@ -19,11 +19,9 @@ A helpful way to understand the Service Innovation Lab is to think about the ele
 
 These elements help to frame how the lab is both similar and different to other labs and innovation teams.
 
-
 <video width="320" height="240" controls>
   <source src="{{ site.baseurl }}/assets/vids/Grant 1 - Approach How We Worked (Collaboration).mp4" type="video/mp4">
 </video>
-
 
 * **Located inside government** - Located close to decision-makers, policy and operational teams. Supporting cross-agency working backed by shared funding and governance arrangements.
 
