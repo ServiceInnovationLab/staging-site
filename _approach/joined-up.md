@@ -1,12 +1,13 @@
 ---
 Title: Creating the conditions for joined-up working
-subtitle: Accelerating joined-up services delivery
+subtitle: Accelerating joined-up services delivery through collaboration
 permalink: /approach/joined-up/
 excerpt: A focus on the authorising environment, a culture of collaboration and delivery, having guided the lab's approach. 
 image: /assets/img/approach/approach-joinedup-bg.png
 image_accessibility: network icon
 approach_weight: 3
 media:
+- "[OCC - Complexity to collaboration](https://www.occ.org.nz/assets/Uploads/Complexity-to-collaboration-revised-final.pdf)"
 resources:
 other_process_phases:
 ---
