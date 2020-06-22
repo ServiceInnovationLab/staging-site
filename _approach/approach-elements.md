@@ -13,7 +13,7 @@ other_process_phases:
 
 ### Lab elements
 
-[![Elements of the lab's approach](/staging-site/assets/img/approach/appproach-elements-icons.png)](/staging-site/assets/img/approach/appproach-elements-icons.png)
+[![Elements of the lab's approach](/staging-site/assets/img/approach/approach-elements-icons.png)](/staging-site/assets/img/approach/approach-elements-icons.png)
 
 A helpful way to understand the Service Innovation Lab is to think about the elements that made up its purpose, how it works and what it focused on.
 
