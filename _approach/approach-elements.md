@@ -13,10 +13,11 @@ other_process_phases:
 
 ### Lab elements
 
-A helpful way to understand the Service Innovation Lab is to think about the elements that made up its purpose, how it works and what it focused on.
-These elements help to frame how the lab is both similar and different to other labs and innovation teams.
+[![Elements of the lab's approach](/staging-site/assets/img/approach/appproach-elements-icons.png)](/staging-site/assets/img/approach/appproach-elements-icons.png)
 
-[![Elements of the lab's approach](/staging-site/assets/img/approach/appproach-elements-bg.png)](/staging-site/assets/img/approach/appproach-elements-bg.png)
+A helpful way to understand the Service Innovation Lab is to think about the elements that made up its purpose, how it works and what it focused on.
+
+These elements help to frame how the lab is both similar and different to other labs and innovation teams.
 
 <video width="320" height="240" controls>
   <source src="{{ site.baseurl }}/assets/vids/Grant 1 - Approach How We Worked (Collaboration).mp4" type="video/mp4">
