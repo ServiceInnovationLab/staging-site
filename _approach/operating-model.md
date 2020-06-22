@@ -26,10 +26,10 @@ By partnering with other agencies, not for profits, private organisations and ot
 
 There were two ways teams worked with the lab:
 
-* Wrap-around support - partnering with the lab team to help deliver live projects
-* Accessing the lab space - Using the workshop spaces and access to a collaborative environment and the lab’s networks
+- Wrap-around support - partnering with the lab team to help deliver live projects
+- Accessing the lab space - Using the workshop spaces and access to a collaborative environment and the lab’s networks
 
-In addition people and teams connected with the lab through its governance structures and wider national and international networks. 
+In addition people and teams connected with the lab through its governance structures and wider national and international networks.
 
 [![How the lab worked with different teams](/staging-site/assets/img/approach/approach-model.png)](/staging-site/assets/img/approach/approach-model.png)
 
@@ -43,14 +43,13 @@ This would primarily happen for activity or projects aligned to the lab’s work
 - "[Entering Tertiary Education Life Event](/staging-site/projects/entering-tertiary-life-event/)"
 - "[Rates rebate project](staging-site/projects/rate_rebate/)"
 
-
 #### Access to Lab space
 
 Another way the Lab supported agencies was sharing their space and letting teams host workshop, meetings and even project teams. The Lab team hosted rather than offering wrap-around support and it support shared learning, brought new expertise into the Lab space and enabled guest teams to tap into wider networks across government. 
 
 It was a popular option reflected in the demand for access for the space but highlighted the absence of similar spaces across government agencies.
 
-##### Project examples ######
+##### Project examples
 
 - "[Mapping the parent journey - Ministry of Education](staging-site/projects/rate_rebate/)"
 
@@ -58,8 +57,8 @@ It was a popular option reflected in the demand for access for the space but hig
 
 The Lab had both a cross-agency governance and reference group.
 
-* The cross-agency governance group consisted of senior decision-makers from a range of agencies. The Lab was part of a wider remit focused on service innovation and the group made decisions about resource allocation and work programming. 
-* A cross-agency reference group enabled the Lab team to access a cross-section of managers and advisors to help oversee and facilitate the delivery of the work programme.
+- The cross-agency governance group consisted of senior decision-makers from a range of agencies. The Lab was part of a wider remit focused on service innovation and the group made decisions about resource allocation and work programming. 
+- A cross-agency reference group enabled the Lab team to access a cross-section of managers and advisors to help oversee and facilitate the delivery of the work programme.
 
 For both these groups the lab team, its space and work programme offered a live experiment that was generating learning about working in different ways and across agencies even if their agencies wasn’t directly involved. 
 
