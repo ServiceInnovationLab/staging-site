@@ -36,6 +36,7 @@ h2 {
            tagline=project.title
            description=project.excerpt
            link=project.permalink
+           categories=project.categories
           %}
         {% endfor %}
         <button id="scrollToTopBtn" title="Go to top">Back to Top</button>

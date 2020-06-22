@@ -12,6 +12,7 @@ github_repo:
 project_url: "[Feijoa staging](https://feijoa-staging.herokuapp.com/)"
 media:
 report:
+categories: DIA
 ---
 
 ## Why building a tool to explain a concept is better than just talking or writing about it
