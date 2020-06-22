@@ -23,6 +23,13 @@ h2 {
 </div>
 
 <div class="nz-grid">
+  <button class="categories-button-clear filter-button active-filter">All</button>
+  <button class="categories-button filter-button" data-category="sil">SIL</button>
+  <button class="categories-button filter-button" data-category="emerging-tech">Emerging Tech</button>
+  <button class="categories-button filter-button" data-category="life-events">Life Events</button>
+</div>
+
+<div class="nz-grid">
   <section class="nz-section">
     <div class="nz-section-bottom">
       <div class="nz-flex nz-flex-wrap">

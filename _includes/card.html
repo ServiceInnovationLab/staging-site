@@ -8,13 +8,7 @@
   {% assign wds_grid_class = 'nz-width-one-third' %}
 {% endif %}
 
-{% assign categories = include.categories %}
-
-{% if include.categories.length >= 1 %}
-
-{% endif %}
-
-<article class="card {{ wds_grid_class }} {{ categories | join:' ' | downcase }} nz-width-tablet">
+<article class="card {{ wds_grid_class }} {{ include.categories | join:' ' | downcase }} nz-width-tablet js-projects-card">
   <div class="card-link" data-href="{{ card_link }}">
     <div role="img"
         tabindex="0"

@@ -1,0 +1,11 @@
+.filter-button {
+  border: 2px solid blue;
+  background-color: white;
+  color: blue;
+
+  &.active-filter {
+    border: 2px solid white;
+    background-color: blue;
+    color: white;
+  }
+}

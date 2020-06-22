@@ -13,5 +13,5 @@ report:
   - "[Service Innovation Lab - Using Kumu to share our research](/staging-site/2019/07/10/Using-Kumu-To-Share-Our-Research/)"
 categories:
   - DIA
-  - Life Events
+  - Life-Events
 ---
