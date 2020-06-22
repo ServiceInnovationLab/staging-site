@@ -90,11 +90,11 @@ Hosting a cross-agency workshop at the lab's offices
 
 February 2017, the Service Innovation Lab (the Lab) was founded with support from the Service Innovation Work Programme Team from Internal Affairs, Assurity Consulting Ltd and direction from the SIRG. Secretariat and management overview is provided by Internal Affairs, which is the Government’s functional lead agency for digital development.
 
-The Lab operated for the next three and half years and this site tells the story of the work through an overview of key projects, resources and code developed by team. 
+The Lab operated for the next three and half years and this site tells the story of the work through an overview of key projects, resources and code developed by team.
 
 ### Why the lab closed
 
-The decision to close followed the formation of the Digital Public Service branch within the Department of Internal Affairs, which had provided secretariat services and oversight of what was otherwise an all-of-Government facility. 
+The decision to close followed the formation of the Digital Public Service branch within the Department of Internal Affairs, which had provided secretariat services and oversight of what was otherwise an all-of-Government facility.
 Formation of the DPS branch was to ensure DIA had an operational structure to enable it to deliver on the Government’s new Strategy for a Digital Public Service.
 
 One of the lessons learned in the Lab while working with agencies to deliver integrated services, was that a way to accelerate delivery of integrated services without the significant barriers of single-agency governance and funding structures was required. The DPS branch is now talking with other agencies about how to address these challenges at a system-wide level.
