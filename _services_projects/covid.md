@@ -1,9 +1,8 @@
 ---
 agency: Service Innovation Lab
-title: 2020: the Lab closes as COVID-19 arrives
+title: 2020 - the Lab closes as COVID-19 arrives
 subtitle: COVID-19’s arrival in New Zealand in March 2020 coincided with preparations for the Lab’s June 2020 closure.
 permalink: /projects/covid/
-redirect_from: /projects/covid/
 excerpt: COVID-19’s arrival in New Zealand in March 2020 coincided with preparations for the Lab’s June 2020 closure.
 image: /assets/img/projects/lab-team.png
 image_accessibility: People talking about the lab’s work
