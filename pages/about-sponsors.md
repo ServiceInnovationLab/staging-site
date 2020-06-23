@@ -2,7 +2,7 @@
 layout: about-page
 content_focus: false
 title: About the Service Innovation Lab
-permalink: /about/foreword/
+permalink: /about/sponsors/
 subtitle:
 excerpt: 
 image: /assets/img/about/about-story-bg.png
@@ -18,4 +18,4 @@ report:
 media:
 ---
 
-This is the foreword page.
+This is the sponsors page.
