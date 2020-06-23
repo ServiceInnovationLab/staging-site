@@ -17,10 +17,8 @@ h2 {
 <section class="nz-section background-gray">
   <div class="nz-grid">
     <h2 tabindex="0">Process</h2>
-    <p>As a design and development lab working across government agencies, the lab developed a process for its work to follow. Similar to other innovation processes,  it creates space and time to better understand the issues before moving to ideation, development and testing.
-</p>
-    <p>For each phase we have summarised its key features, reflections and tips from the lab team - and links to ourtools and templates.
-</p>
+    <p>As a design and development lab working across government agencies, the lab developed a process for its work to follow. Similar to other innovation processes, it creates space and time to better understand the issues before moving to ideation, development and testing.</p>
+    <p>For each phase we have summarised its key features, reflections and tips from the lab team - and links to ourtools and templates.</p>
   </div>
 
   <div class="nz-grid">
