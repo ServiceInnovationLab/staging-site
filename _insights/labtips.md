@@ -1,8 +1,8 @@
 ---
 Title:  Practical tips on running a lab
-subtitle: Relfections from the lab team about key area to think about when developing and running a lab
+subtitle: Reflections from the lab team about key areas to think about when developing and running a lab
 permalink: /insights/lab-tips/
-excerpt: Relfections from the lab team about key area to think about when developing and running a lab
+excerpt: Reflections from the lab team about key areas to think about when developing and running a lab
 image: /assets/img/insight/insights-tips.png
 image_accessibility: incon for offering advice
 external_url: "[Project repo](url)"
