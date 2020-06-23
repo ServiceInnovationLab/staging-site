@@ -18,7 +18,7 @@ report:
 media:
 ---
 
-## Our story
+## Our Story
 
 Government agencies working together and really listening to people – from the vulnerable to the tech-savvy – to redesign their services to better meet the needs of all New Zealanders.
 
