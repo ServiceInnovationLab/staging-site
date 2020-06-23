@@ -12,6 +12,11 @@ github_repo:
     - "[SmartStart-backend](https://github.com/ServiceInnovationLab/smartstart-backend)"
 project_url: "[SmartStart](https://smartstart.services.govt.nz/)"
 media:
+categories:
+  - Integrated-Services
+  - Tech
+  - Ways-of-working
+  - Partnerships
 ---
 
 The Lab helped the [SmartStart](https://smartstart.services.govt.nz/) team with the incorporation of new features such as 'Services Near Me' and 'Financial Help'

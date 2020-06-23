@@ -15,6 +15,10 @@ report:
 media:
     - "[Smart Policy Analysis Tools](https://serviceinnovationlab.github.io/bagel-box/)"
     - "[The Hive](https://www.the-hive.nz/)"
+categories:
+  - Integrated-Services
+  - Tech
+  - Partnerships
 ---
 
 Exploring how machine learning can help assist policy analysts in their decision making.

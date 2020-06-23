@@ -24,9 +24,10 @@ h2 {
 
 <div class="nz-grid">
   <button class="categories-button-clear filter-button active-filter">All</button>
-  <button class="categories-button filter-button" data-category="sil">SIL</button>
-  <button class="categories-button filter-button" data-category="emerging-tech">Emerging Tech</button>
-  <button class="categories-button filter-button" data-category="life-events">Life Events</button>
+  <button class="categories-button filter-button" data-category="integrated-services">Integrated Services</button>
+  <button class="categories-button filter-button" data-category="tech">Tech</button>
+  <button class="categories-button filter-button" data-category="ways-of-working">Ways of working</button>
+  <button class="categories-button filter-button" data-category="partnerships">Partnerships</button>
 </div>
 
 <div class="nz-grid">

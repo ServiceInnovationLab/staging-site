@@ -10,4 +10,5 @@ image_accessibility: Image of a house and a handshake signifying an agreement.
 github_repo:
 media:
 report: "[Notice of Sale](/staging-site/2018/10/12/Exploring-the-Notice-of-Sale-process/)"
+categories: Ways-of-working
 ---

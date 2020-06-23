@@ -11,7 +11,5 @@ resources:
 report:
   - "[Service Innovation Lab - Shaping government services around entry to adulthood](/staging-site/2019/06/12/Becoming-An-Adult/)"
   - "[Service Innovation Lab - Using Kumu to share our research](/staging-site/2019/07/10/Using-Kumu-To-Share-Our-Research/)"
-categories:
-  - DIA
-  - Life-Events
+categories: Integrated-Services
 ---

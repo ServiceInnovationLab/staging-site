@@ -18,6 +18,9 @@ media:
   - "[Te Hokinga ā Wairua](https://endoflife.services.govt.nz/welcome/)"
   - "[Whetūrangitia](https://wheturangitia.services.govt.nz/)"
 resources: "[Project's Resources/Templates](/templates/new-project)"
+categories:
+  - Ways-of-working
+  - Partnerships
 ---
 
 ### What happened  

@@ -2,7 +2,7 @@
 agency: Service Innovation Lab
 title: Could VR be used to inform policy development
 subtitle:  Enabling policy-makers to get a greater sense of empathy for the people and situation their policies are addressing.
-permalink: /projects/virtual_reality/
+permalink: /projects/virtual-reality/
 excerpt: Enabling policy-makers to get a greater sense of empathy for the people and situation their policies are addressing.
 image: /assets/img/projects/virtual-reality.png
 image_accessibility: Alt text for image.
@@ -13,8 +13,9 @@ media:
 resources:
   - "[leading digital governments](https://leadingdigitalgovs.org/)"
   - "[VR Tools - Exploring Online Social Norms](https://serviceinnovationlab.github.io/projects/vr-experience/)"
-Github_repo:
+github_repo:
  - "[VR-Digital-social-norms-wiki](https://github.com/ServiceInnovationLab/VR-Digital-social-norms/wiki)"
+categories: Tech
 ---
 
 Following New Zealand’s 2019 terror attacks, a team of 20 to 25 police was relocated for six months to the Lab when Police HQ became the focus of the terror response. The police team was developing AI "[(digital twin Bella)](https://bellahelps.com/)" to manage high volume, low level interactions with the public, such as reporting lost property so staff could be freed to address more serious crime.

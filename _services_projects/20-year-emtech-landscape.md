@@ -9,8 +9,7 @@ image_accessibility: Image showing the 20 year landscape. Click on this to view 
 media: "[20 Year EmTech Landscape](/staging-site/assets/media/20-Year-Emtech-Landscape/Emerging-Technology-20Year-Landscape.pdf)"
 resources:
 categories:
-  - SIL
-  - Emerging-Tech
+  - Tech
 ---
 
 <br/>
