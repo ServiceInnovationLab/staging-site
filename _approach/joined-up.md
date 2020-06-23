@@ -27,7 +27,7 @@ Three pillars guided the teams focus in response. Weighting of the three element
 
 #### 1. Authorising environment
 
-Spans people and groups who can provide the authority, resources and mandate for the work to happen. Involvement is typically at a governance level. People here are often  several steps away from the work. Bridging that gap is a key consideration. People in the authorising environment have a crucial role creating the conditions for cross-agency working, keeping the focus on delivery and demonstrating leadership by ensuring effective new ideas are implemented and sustained.  
+This spans people and groups who can provide the authority, resources and mandate for the work to happen. Involvement is typically at a governance level. People here are often  several steps away from the work. Bridging that gap is a key consideration. People in the authorising environment have a crucial role creating the conditions for cross-agency working, keeping the focus on delivery and demonstrating leadership by ensuring effective new ideas are implemented and sustained.  
 
 #### 2. Creating a culture of collaboration
 
