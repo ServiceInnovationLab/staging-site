@@ -12,8 +12,6 @@ navbar:
       - /projects/:path/
   - text: Process and Tools
     permalink: /tools/
-  - text: Reports
-    permalink: /blog/
   - text: Contact
     permalink: /contact/
 
@@ -30,7 +28,5 @@ drawer:
       - /projects/:path/
   - text: Process and Tools
     permalink: /tools/
-  - text: Reports
-    permalink: /blog/
   - text: Contact
     permalink: /contact/
