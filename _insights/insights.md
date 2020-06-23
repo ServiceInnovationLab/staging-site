@@ -48,7 +48,7 @@ But this catalytic role is crucial to fostering cross-agency working but often d
 
 As a team, we valued our lab space, we often say the ‘work is not about the space’ - principles and practice are more important. Despite this, the Lab’s workspace was materially different from most other facilities.
 
-For people who worked with the Lab the concept of a dedicated (neutral) space was regularly cited as important - offering a physical space in which to collaborate, engage and work in an agile and adaptive way. 
+For people who worked with the Lab the concept of a dedicated (neutral) space was regularly cited as important - offering a physical space in which to collaborate, engage and work in an agile and adaptive way.
 
 But this often leads to discussions about the design of innovation labs, when the pertinent question might be why are similar spaces, not the norm and so scarce? Teams are increasingly being asked to work more collaboratively and creatively, but current workspaces don’t mirror the qualities people tell us they like about the Lab’s workspace.
 
@@ -76,7 +76,7 @@ But short term funding cycles often leads to time and effort being diverted towa
 
 #### How might we…
 
-- Develop approaches to funding and resourcing labs and innovation teams that incentivise long term thinking and outcomes? 
+- Develop approaches to funding and resourcing labs and innovation teams that incentivise long term thinking and outcomes?
 - Better demonstrate value and impact in the short term that supports a long term approach?
 
 (NOTE - here's a couple more to added here too)
