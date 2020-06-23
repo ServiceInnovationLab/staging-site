@@ -1,10 +1,10 @@
 ---
 Title:  Practical tips on running a lab
-subtitle: Relfections from the lab team about area to focus on
+subtitle: Relfections from the lab team about key area to think about when developing and running a lab
 permalink: /insights/lab-tips/
-excerpt: Relfections from the lab team about area to focus on
-image: /assets/img/approach/lab-tips.png
-image_accessibility: image of an online post-it note workshop
+excerpt: Relfections from the lab team about key area to think about when developing and running a lab
+image: /assets/img/insight/insights-tips.png
+image_accessibility: incon for offering advice
 external_url: "[Project repo](url)"
 external_link_title: External link name
 process_weight: 4
@@ -23,6 +23,8 @@ Over past three and half years the team has gained hands on experience starting,
 
 Below are eight practical areas and questions to explore that the team has identified. They are not intended to cover every aspect of running a lab and we have highlighted other useful lab resources too.
 
+[![Virtual post-it notes from a team workshop](/staging-site/assets/img/insights/lab-tips.png)](/staging-site/assets/img/insights/lab-tips.png)
+
 ### 1. Establishing team culture and mindsets
 
 #### Lab team reflections
@@ -35,7 +37,7 @@ Below are eight practical areas and questions to explore that the team has ident
 #### Questions to explore
 
 1. Would your team culture feel welcoming and inclusive to people outside the team?
-2. In practice, how well does team culture reflection team principles? If there's a disconnect - why?
+2. In practice, how well does your team culture reflection team principles? If there's a disconnect - why?
 3. How does your team's culture compare to the rest of the organisation? What issues or opportunities does this create?
 
 ### 2. Practices, routines and rhythms that support creativity
@@ -60,7 +62,7 @@ Below are eight practical areas and questions to explore that the team has ident
 * An open-door policy for visitors and working is a default and supports engagement and knowledge sharing
 * A neutral space can support cross-agency work and encourage collaboration by tacitly removing perceptions of ownership
 * Hosting visitors is an opportunity to model how you work - showing not telling
-* A dedicated space is helpful but not essential, or justification for a lab on its own
+* A dedicated space is helpful but not essential, and it's difficult for it to be the primary offer of a lab team.
 
 #### Questions to explore
 
@@ -68,7 +70,7 @@ Below are eight practical areas and questions to explore that the team has ident
 2. How effectively are you using the lab space to tell the story of your work?
 3. What would a virtual lab offer? How would you make it work?
 
-### 4. Relationships & engagements are a role not an add on
+### 4. Relationship & engagement require dedicated focus - they are not an add on
 
 #### Lab team reflections
 
