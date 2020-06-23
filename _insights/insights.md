@@ -15,7 +15,7 @@ other_process_phases:
 
 ### TEXT TO BE UPDATED
 
-<video width="320" height="240" controls>
+<video width="320" height="240" controls class="embeded-video">
   <source src="{{ site.baseurl }}/assets/vids/Grant 2 - Insights (Reflections from the Lab).mp4" type="video/mp4">
 </video>
 
