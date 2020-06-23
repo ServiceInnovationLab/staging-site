@@ -5143,7 +5143,7 @@ section.posts_feature h2 a, section.posts_feature .h2 a {
   .styleguide-content table td:first-of-type {
     min-width: 180px; } }
 .project .lead {
-  padding-top: 5rem; }
+  padding-top: 1rem; }
 .project .page-title {
   margin: 0; }
 .project .banner {
