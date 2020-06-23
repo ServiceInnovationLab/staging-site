@@ -81,7 +81,7 @@ Outcome: On conclusion of a Design Discovery a clear design approach has been fo
 * Co-led by lab team with partners
 * Opportunity for capability uplift for agency teams in design research methods
 * Specialist external expertise may be needed
-* Recognition that some research will be evidence based 
+* Recognition that some research will be evidence based
 * Refined design scope and problem definition to help guide ideation work
 
 #### Activities / outputs
