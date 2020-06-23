@@ -4521,8 +4521,9 @@ time {
     text-align: center;
     display: flex;
     flex-flow: row wrap;
-    margin: 0 1rem;
     justify-content: center; }
+    .glossary-nav .glossary-buttons a:not(:last-child) {
+      margin-right: .25rem; }
 
 .glossary-table {
   overflow-x: auto;
