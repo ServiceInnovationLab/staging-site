@@ -2,7 +2,7 @@
 layout: about-page
 content_focus: false
 title: About the Service Innovation Lab
-permalink: /about/lab-journey/
+permalink: /about/our-story/
 subtitle:
 excerpt: 
 image: /assets/img/about/about-story-bg.png
