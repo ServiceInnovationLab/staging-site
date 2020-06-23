@@ -34,7 +34,7 @@ This time and focus helped make an informed decision about the nature of the opp
 * Gathering just enough information to frame in a concise way a potential initiative,
 * Will inform funding, sponsorship and resource requirements.
 
-AS part of the lab’s operating model, this pre-discovery work was often resourced by the lab prior to seeking project funding from comissionsers.
+As part of the lab’s operating model, this pre-discovery work was often resourced by the lab prior to seeking project funding from comissionsers.
 
 #### Features
 
@@ -48,7 +48,7 @@ AS part of the lab’s operating model, this pre-discovery work was often resour
 #### Activities / outputs
 
 * Mini-design sprint or workshops
-* Rapid user ressearch
+* Rapid user research
 * Short design brief / proposal for prospective sponsors
 * Early horizon scanning
 * Inception deck document
@@ -68,6 +68,6 @@ AS part of the lab’s operating model, this pre-discovery work was often resour
 
 ##### Ensure clarity around the authorising environment
 
-* Seek to understand the authorising environment, don't assume it exists
+* Seek to understand and map your authorising environment, don't assume it exists
 * Take time to engage and frame the work with sponsors - not matter how good the idea their support will be crucial
 * A lack of ownership at this stage creates a significant risk to implementation later
