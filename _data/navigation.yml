@@ -11,7 +11,7 @@ navbar:
     multiple_permalinks:
       - /projects/:path/
   - text: Process and Tools
-    permalink: /tools/
+    permalink: /process/
   - text: Contact
     permalink: /contact/
 
@@ -27,6 +27,6 @@ drawer:
     multiple_permalinks:
       - /projects/:path/
   - text: Process and Tools
-    permalink: /tools/
+    permalink: /process/
   - text: Contact
     permalink: /contact/
