@@ -4785,6 +4785,20 @@ time {
 
   .location-subtitle {
     font-size: .75em; } }
+.filter-button {
+  background-color: #ffffff;
+  color: #223cc6;
+  border: 2px solid #223cc6;
+  border-radius: 10px; }
+  .filter-button.active-filter {
+    background-color: #223cc6;
+    color: #ffffff;
+    border-radius: 10px; }
+  .filter-button:hover {
+    background-color: #223cc6;
+    color: #ffffff;
+    border-radius: 10px; }
+
 .section-projects a {
   display: inline-block;
   margin-top: 5rem;
