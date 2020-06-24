@@ -12,13 +12,12 @@ github_repo:
 project_url: "[Feijoa staging](https://feijoa-staging.herokuapp.com/)"
 media:
 report:
-categories:
-  - Integrated-Services
+categories: Integrated-Services
 ---
 
 ## Why building a tool to explain a concept is better than just talking or writing about it
 
-The Lab’s Stakeholder Relationship Manager Grant Carpenter describes the Feijoa Project* and how an MVP tool helped the team explain the concept.
+*The Lab’s Stakeholder Relationship Manager Grant Carpenter describes the Feijoa Project and how an MVP tool helped the team explain the concept.*
 
 Often when developing integrated services and supporting agencies that are working together, there’s a problem or issue that has been looked at many times but not progressed to any action.
 
@@ -39,6 +38,7 @@ However, this can mean people must repeatedly provide the same information to di
 It can also mean sometimes people who are entitled to a benefit or a service from government are not aware they qualify, even though sufficient information exists inside government to automatically enrol them. Resolving this type of issue is one of the key deliverables to enable Integrated Services related to Life Events.
 
 One potential approach to resolving this is to allow people to manage the information related to them and be able to control when and with whom it is shared. The Lab has been exploring such consent-based information sharing in a project it has called ‘Feijoa’.
+
 Feijoa provides a working example of how a consent based information sharing tool could work. It would allow a person to have control over the release of the information that government requires and be able to provide it in a verified accessible form.
 
 Feijoa, at this stage is only a Minimum Likeable Product, possibly a Minimum Viable Product (MVP) is built to support the Use Case of a parent enrolling their child in an Early Learning Service (ELS).
@@ -51,11 +51,11 @@ All the elements that would be consistent with people dealing with the complexit
 
 ## By placing an example of a potential service into the discussion it was possible to:
 
-1. Speed up the process of discovery – pre-discovery identified there were a lot of papers written on the subject of consent based information sharing. Existing research by government and others focused on ways to support people to control and manage their digital information. However, many of these had created ambiguity and some confusion in people’s thinking.
+1. Speed up the process of discovery –pre-discovery identified there were a lot of papers written on the subject of consent based information sharing. Existing research by government and others focused on ways to support people to control and manage their digital information. However, many of these had created ambiguity and some confusion in people’s thinking.
 
 **As we listened to people talk and read what was produced, we realised they often used the same term for different things, or different terms for the same thing. We thought presenting people with a specific, tangible tool could clarify the conversation.**
 
-2. Clarify the practical implications of the privacy rules and look ways of enshrining their intent in the service approach. The New Zealand privacy rules do not allow government to collectively hold and share some information, and in some cases people need to look after and provide this information themselves. A classic example: the number of times people are asked to produce a birth certificate to complete different transactions. The privacy rules allow for some sharing, under tight scrutiny, and government is working on how to best enable this and remain aligned to the intent and rules related to privacy.
+2. Clarify the practical implications of the privacy rules and look at ways of enshrining their intent in the service approach. The New Zealand privacy rules do not allow government to collectively hold and share some information, and in some cases people need to look after and provide this information themselves. A classic example: the number of times people are asked to produce a birth certificate to complete different transactions. The privacy rules allow for some sharing, under tight scrutiny, and government is working on how to best enable this and remain aligned to the intent and rules related to privacy.
 
 3. Move past a locked discussion around what to do next, largely created by trying to solve the whole problem in one step instead of utilising the power of micro services. Micros services provide the potential to build an interconnected bed of solutions each of which is solving part of the sharing, and later the delegation issue. These can then be combined in the right way around any single service, making the components completely reusable.
 
@@ -63,7 +63,7 @@ As we move forward with this discovery we will keep you posted. Early discussion
 
 Who could own and manage such a service, can a government entity under the control of a single agency do it?
 
-- What are the impacts on current practise and the legislation guiding this?
+- What are the impacts on current practice and the legislation guiding this?
 - How will those using such a service view it. Is it really valuable to them?
 - The next stage is to fully socialise the concept; having a working model has certainly helped that.
 
