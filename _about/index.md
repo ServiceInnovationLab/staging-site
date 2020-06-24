@@ -16,7 +16,7 @@ report:
 media:
 ---
 
-## Foreword
+## Our Story
 
 ### People at the heart of innovation
 
@@ -30,6 +30,9 @@ Digital change was presenting more efficient ways of working - both challenging 
 The Team comprised service designers, software developers and skilled support staff, whose diverse work was overseen by senior officials across Government. It collaborated with other agencies, private partners and community groups. Together they made a point of listening to citizens to understand their ‘pain points’ when using, or trying to use, government’s often overly-complex services.
 
 Work took place in a neutral space no single agency owned, known simply as ‘the Lab’. Here, agencies could step away from business-as-usual mindsets and were encouraged to work and think differently. The hope was they would share what they’d learnt and build capability within their own agencies.
+
+[![Lab team at the 2018 All of Government Showcase event, Wellington](/staging-site/assets/img/about/AoG showcase2.png)](/staging-site/assets/img/about/AoG showcase2.png)
+*Lab team at the 2018 All of Government Showcase event, Wellington*
 
 Guests were provided specialist skills and support to build tools such as financial calculators, develop award-winning open-source code and reusable componentry, a VR tool for policy-makers, and to streamline and digitise services so they were easier to access and deliver.
 
@@ -57,7 +60,8 @@ To the many who shared their *mahi* and wisdom - past team members, passionate i
 
 Everything in the Service Innovation Toolkit is available under a Creative Commons licence. Feel free to read and run with the ideas, adapt the tools, learn from the successes, lessons and mistakes. If you are interested in starting similar work, here is a head-start.
 
-*Māku te ra e tō ana;
-Kei a koe te urunga ake o te rā
-Let mine be the setting sun;
-Yours is the dawning of a new day*
+*Māku te ra e tō ana;*
+*Kei a koe te urunga ake o te rā*
+
+*Let mine be the setting sun;*
+*yours is the dawning of a new day*
