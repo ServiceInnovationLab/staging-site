@@ -1,13 +1,15 @@
 ---
 Title: Creating the conditions for joined-up working
-subtitle: Accelerating joined-up services delivery
+subtitle: Accelerating joined-up services delivery through collaboration
 permalink: /approach/joined-up/
 excerpt: A focus on the authorising environment, a culture of collaboration and delivery, having guided the lab's approach. 
 image: /assets/img/approach/approach-joinedup-bg.png
 image_accessibility: network icon
 approach_weight: 3
 media:
+- "[OCC - Complexity to collaboration](https://www.occ.org.nz/assets/Uploads/Complexity-to-collaboration-revised-final.pdf)"
 resources:
+- "[Foundations for accelerating joined-up services delivery- PDF](/staging-site/approach/Joined-up-services-delivery.pdf)"
 other_process_phases:
 ---
 
@@ -25,7 +27,7 @@ Three pillars guided the teams focus in response. Weighting of the three element
 
 #### 1. Authorising environment
 
-Spans people and groups who can provide the authority, resources and mandate for the work to happen. Involvement is typically at a governance level. People here are often  several steps away from the work. Bridging that gap is a key consideration. People in the authorising environment have a crucial role creating the conditions for cross-agency working, keeping the focus on delivery and demonstrating leadership by ensuring effective new ideas are implemented and sustained.  
+This spans people and groups who can provide the authority, resources and mandate for the work to happen. Involvement is typically at a governance level. People here are often  several steps away from the work. Bridging that gap is a key consideration. People in the authorising environment have a crucial role creating the conditions for cross-agency working, keeping the focus on delivery and demonstrating leadership by ensuring effective new ideas are implemented and sustained.  
 
 #### 2. Creating a culture of collaboration
 

@@ -27,7 +27,7 @@
     </div>
     <div class="card-banner">
       {% if include.agency %}
-        <p class="card-tag">{{ include.agency }}</p>
+        <p class="card-tag">{{ include.agency | join: ' & ' }}</p>
       {% endif %}
       {% if card_link and include.tagline %}
         <a href="{{ card_link }}" tabindex="-1" class="card-link-tagline"><h3 class="h4">{{ include.tagline }}</h3></a>

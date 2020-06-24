@@ -49,7 +49,8 @@ A research discovery is a substantial piece of research investigation and eviden
 
 ### Design discovery
 
-A design discovery focuses developing and testing possible solutions. It addresses the feasibility, capability and usability of a testable product or service. It can be a standalone product / service or a product / service that has emerged from work undertaken in the Research Discovery phase.
+A Design Discovery focuses developing and testing possible solutions. It addresses the feasibility, capability and usability of a testable product or service. It can be a standalone product / service or a product / service that has emerged from work undertaken in the Research Discovery phase.
+
 A Design Discovery has four distinct stages:
 
 1 - Design scope
@@ -72,7 +73,7 @@ Deliverables:
 3. Problem Validation - Evidencing of the design approach to meet the problem space (UX research)
 4. Solution Validation - Lo-fi testing and validation of the solutions proposed (UX)
 
-Outcome: On conclusion of a design Discovery a clear design approach has been formulated and a prototype can be green lite to proceed.
+Outcome: On conclusion of a Design Discovery a clear design approach has been formulated and a prototype can be green lite to proceed.
 
 #### Features
 
@@ -80,7 +81,7 @@ Outcome: On conclusion of a design Discovery a clear design approach has been fo
 * Co-led by lab team with partners
 * Opportunity for capability uplift for agency teams in design research methods
 * Specialist external expertise may be needed
-* Recognition that some research will be evidence ba
+* Recognition that some research will be evidence based
 * Refined design scope and problem definition to help guide ideation work
 
 #### Activities / outputs
@@ -100,7 +101,7 @@ Outcome: On conclusion of a design Discovery a clear design approach has been fo
 
 * Explore and build on existing research and evidence
 * People may have told their story already - don't assume fresh user research is the best starting point
-* How well does your research team relfection the population groups you're working with?
+* How well does your research team relfect the population groups you're working with?
 * Practice based evidence can be just as valuable as evidence based practice
 * Lean against the problem - avoid the trap of rushing to solutionize too soon
 * Take time to understand the problem and the system that holds it
@@ -108,7 +109,7 @@ Outcome: On conclusion of a design Discovery a clear design approach has been fo
 ##### Design discovery work can include new and existing ideas
 
 * How will users be involved in the design discovery work? If not, why not?
-* Don't discount adopting and adapting ideas from elsewhere - creative reponses don't always need to be new
+* Don't discount adopting and adapting ideas from elsewhere - creative responses don't always need to be new
 * How might ideas from the discovery phase leverage existing work
 * If the work is likely to involved developers try to involved them during the design phase
 * Design discovery (building to learn with users) can deliver as much useful insight as the research phase

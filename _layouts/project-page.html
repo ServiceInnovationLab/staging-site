@@ -17,7 +17,7 @@ header_border: true
       <div class="nz-grid {% if page.image %}nz-width-one-half{% else %}nz-width-one-whole{% endif %} hero-callout-full hero-callout-no_button">
         {% if page.agency %}
           <h1 class="h3 lead">
-            <span>{{ page.agency }}</span>
+            <span>{{ page.agency | join: ' & ' }}</span>
           </h1>
         {% endif %}
         <h1 class="page-title">
@@ -57,8 +57,12 @@ header_border: true
 
         {% if page.agency %}
         <li class="section-info-list-item">
-          <div class="section-info-header">Agency partner</div>
-          <div>{{ page.agency }}</div>
+          <div class="section-info-header">Agency partner(s)</div>
+          <ul class="{% unless page.agency.size > 1 %}nz-unstyled-list{% endunless %}">
+            {% for agency in page.agency %}
+              <li>{{ agency | markdownify }}</li>
+            {% endfor %}
+          </ul>
         </li>
         {% endif %}
 
