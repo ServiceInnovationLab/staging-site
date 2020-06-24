@@ -18,9 +18,7 @@ resources:
 other_process_phases:
 ---
 
-[![System barriers poster](/staging-site/assets/img/insights/lab-barriers.png)](/staging-site/assets/img/insights/lab-barriers.png)
-
-The following inisghts and relfections are a summary of reflections from the lab team based on workshops and previous reports. Project specific inisghts are contain in many of the  [case studies shared here](staging-site/projects/).
+The following insights are a summary of reflections from the lab team based on workshops and previous reports. Project-specific insights are also available in the project summaries shared in the [projects section](staging-site/projects/).
 
 ### 1. The importance of innovation leadership and governance to sustaining delivering and implementation
 
@@ -45,6 +43,8 @@ But this catalytic role is crucial to fostering cross-agency working but often d
 
 - Recognise the value and invest in capacity and capability to work between teams and agencies to catalyse collaborative relationships and trust?
 - Best measure and articulate the value of this function?
+
+[![System barriers poster](/staging-site/assets/img/insights/lab-barriers.png)](/staging-site/assets/img/insights/lab-barriers.png)
 
 ### 3. It’s not about the lab space, but everyone seems to value the space
 
