@@ -47,6 +47,8 @@ When the physical facility closed, some work ended and others transitioned to le
 
 This approach drew international interest, attracting visitors from Asia, Canada, the UK, USA, Australia, Saudi Arabia and the United Arab Emirates.
 
+Often valuable research undertaken by government (and beyond) is archived or not easily discoverable and therefore investment in such work is not available to build on or inform others who could benefit. Valuable work has been undertaken in the Lab. Some of this has been large and impactful; some small, yet incremental in contributing to a bigger change that benefits New Zealanders. As such, the Toolkit represents a repository of immense value.
+
 In the end, the team says its biggest lesson from everything that went well, was that this happened when effort was focused right at the start on establishing enduring relationships and then building trust – something Māori would capture in the saying *he tangata he tangata he tangata*; it is about the people, the people, the people.
 
 **Thank You, Haere rā**
