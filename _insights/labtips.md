@@ -1,9 +1,9 @@
 ---
-Title:  Practical tips on running a lab
+Title: Practical tips on running a lab
 subtitle: Reflections from the lab team about key areas to think about when developing and running a lab
 permalink: /insights/lab-tips/
 excerpt: Reflections from the lab team about key areas to think about when developing and running a lab
-image: /assets/img/insight/insights-tips.png
+image: /assets/img/insight/insight-bg.png
 image_accessibility: incon for offering advice
 external_url: "[Project repo](url)"
 external_link_title: External link name
@@ -23,7 +23,7 @@ Over past three and half years the team has gained hands on experience starting,
 
 Below are eight practical areas and questions to explore that the team has identified. They are not intended to cover every aspect of running a lab and we have highlighted other useful lab resources too.
 
-[![Virtual post-it notes from a team workshop](/staging-site/assets/img/insights/lab-tips.png)](/staging-site/assets/img/insights/lab-tips.png)
+[![Virtual post-it notes from a team workshop](/staging-site/assets/img/insights/lab-tips.jpg)](/staging-site/assets/img/insights/lab-tips.jpg)
 
 ### 1. Establishing team culture and mindsets
 
