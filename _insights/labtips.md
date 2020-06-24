@@ -1,5 +1,5 @@
 ---
-Title: Practical tips on running a lab
+title: Practical tips on running a lab
 subtitle: Reflections from the lab team about key areas to think about when developing and running a lab
 permalink: /insights/lab-tips/
 excerpt: Reflections from the lab team about key areas to think about when developing and running a lab
