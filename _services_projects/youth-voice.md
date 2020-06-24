@@ -42,7 +42,7 @@ The formal outputs of the project were:
 
 #### 1. Sentiment analysis is great for finding a heartbeat in a deluge of data, but not reliably accurate enough for lasting analysis
 
-We tested feedback from New Zealanders on the Zero Carbon Bill on sentiment analysis tools like VaDER as well as cloud tools from Amazon, Google and Microsoft. The results (available on GitHub ) were just not accurate enough to inform policy.
+We tested feedback from New Zealanders on the Zero Carbon Bill on sentiment analysis tools like VaDER as well as cloud tools from Amazon, Google and Microsoft. The results [(available on GitHub)](https://github.com/ServiceInnovationLab/bagel-jam) were just not accurate enough to inform policy.
 
 #### 2. If an agency wants to know how people feel about an issue, they can ask that directly
 
