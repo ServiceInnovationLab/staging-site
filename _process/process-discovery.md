@@ -34,6 +34,9 @@ resources_design:
 
 ### Discovery phase
 
+[![Discovery phase illustration](/staging-site/assets/img/process/Discovery.png)](/staging-site/assets/img/process/Discovery.png)
+
+
 #### In brief
 
 * Research discovery - focuses on in-depth research into the subject matter. It is particularly important to help better understand complex issues such as a ‘Life Event’.
