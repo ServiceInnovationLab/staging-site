@@ -18,6 +18,8 @@ github_repo:
 categories: Tech
 ---
 
+[![Better Rules and the joint Better for Business (MBIE) and Service Innovation 2018-19 work programme](/staging-site/assets/img/projects/project-rule2.png)](/staging-site/assets/img/projects/project-rule2.png)
+
 ## What are Better Rules and Rules as Code (aka Legislation as Code)?
 
 Imagine if the creation and implementation of government ‘rules’ (i.e. legislation, regulation, policy) was multidisciplinary, more open, participatory and robust. What if these rules were unambiguous, and understandable and usable by both people and digital government services from the day they are enacted?
@@ -30,7 +32,7 @@ This approach can be thought of as Rules as Code. This is usually done after the
 
 What is new is testing the implementation logic and service design impacts alongside the policy development process, utilising approaches from other disciplines such as human centred design and test-driven software development. This opening up of the drafting process to include other ways of thinking and testing the rules has been coined ‘Better Rules’.
 
-[![Visual created to tell Better Rules story at trade fairs etc]()]
+[![Visual created to tell Better Rules story at trade fairs](/staging-site/assets/img/projects/project-rules.png)](/staging-site/assets/img/projects/project-rules.png)
 
 ## The benefits of this approach
 

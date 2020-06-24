@@ -1,7 +1,7 @@
 ---
 agency: Service Innovation Lab
 title: Rates Rebate – moving toward automated delivery of financial entitlements
-subtitle: A subsidy for low-income homeowners
+subtitle: Many low income-earners who own their home are entitled to a refund on their rates each year – but many do not claim. Work on this saw significant barriers removed, however progress stopped and started for over two years due to lack of funding and the appetite of some partners to proceed. A Beta was completed mid-2019. Further progress now awaits a decision from the agency that is the custodian of the Rates Rebates process as to whether to move this into BAU.
 permalink: /projects/rate-rebate/
 excerpt: A Rates Rebate is a subsidy for low-income homeowners on the cost of their residential rates. The subsidy is delivered by local councils and administered by central Government.
 image: /assets/img/projects/rates-rebate.png
@@ -24,10 +24,6 @@ categories:
   - Partnerships
 ---
 
-Many low income-earners who own their home are entitled to a refund on their rates each year – but many do not claim. Work on this saw significant barriers removed, however progress stopped and started for over two years due to lack of funding and the appetite of some partners to proceed. A Beta was completed mid-2019.
-
-Further progress now awaits a decision from the agency that is the custodian of the Rates Rebates process as to whether to move this into BAU.
-
 ### What is the Rates Rebate Scheme
 
 A Rates Rebate is a subsidy of up to $640 a year for low-income homeowners on the cost of their residential rates. The subsidy is delivered by local councils and administered by central Government – Department of Internal Affairs.
@@ -44,7 +40,7 @@ The rebate is calculated by the cost of the rates, applicant’s income and numb
 
 The Service Innovation Working Group (SIWG) approved an initiative to explore design and delivery of a proactive service with the goal of delivering an automated service. That is, automatically giving people an entitlement or benefit without them having to apply for it.
 
-Rates Rebates was identified as a suitable candidate for this approach.
+Rates Rebate was identified as a suitable candidate for this approach.
 
 ### Timeline
 
@@ -99,11 +95,12 @@ The Service Innovation Lab invited three councils (Tauranga City Council, Hutt C
 * Ease: Councils observed people were finding digital an easier process.
 * Applicants didn’t know if entitled to a rebate until form was completed – a calculator was introduced to ascertain this at the start of the process.
 * During the beta, content changes based on Search Engine Optimisation (SEO) research made the content more findable in Google and simplified the user journey.
-* The statutory declaration remains the single biggest barrier preventing large scale adoption of an online application process (as well as a significant barrier to those applying on paper). * Removing the statutory declaration removes the requirement to visit a council to submit an application.This is the last barrier to becoming fully digital. The team sought a legislative change to have this removed and this looks likely to happen in 2020.
+* The statutory declaration remains the single biggest barrier preventing large scale adoption of an online application process (as well as a significant barrier to those applying on paper). *Removing the statutory declaration removes the requirement to visit a council to submit an application. This is the last barrier to becoming fully digital. The team sought a legislative change to have this removed and this looks likely to happen in 2020.
 
 ### Lessons for others
 
 Research generated will be useful for other projects working with older people.
+
 The work provides an example for other government initiatives considering going online with their application forms. It proved that eliminating the need for paper forms and paper-based evidence significantly reduces material and human resource costs.
 
 ### What could have been done better
