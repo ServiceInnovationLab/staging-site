@@ -20,7 +20,7 @@ resources_research:
   - "[Research report template](/staging-site/process-tools/Discovery Report - Template.docx)"
   - "[Personas template](/staging-site/process-tools/DI User Persona - Template.docx)"
   - "[Empathy map template](/staging-site/process-tools/Empathy Map - Template.pdf)"
-  - "[Introdution to user research](/staging-site/process-tools/Intro to User Research.pptx)"
+  - "[Introduction to user research](/staging-site/process-tools/Intro to User Research.pptx)"
   - "[Research consent form](/staging-site/process-tools/Research Consent Form.docx)"
   - "[Interview insights template](/staging-site/process-tools/Interview Insights - Template.pptx)"
   - "[Interview report template](/staging-site/process-tools/Interview Report - Template.docx)"
@@ -34,6 +34,8 @@ resources_design:
 
 ### Discovery phase
 
+[![Discovery phase illustration](/staging-site/assets/img/process/Discovery.png)](/staging-site/assets/img/process/Discovery.png)
+
 #### In brief
 
 * Research discovery - focuses on in-depth research into the subject matter. It is particularly important to help better understand complex issues such as a ‘Life Event’.
@@ -43,7 +45,7 @@ resources_design:
 
 A research discovery is a substantial piece of research investigation and evidencing. It is applicable to complex issues that fall within but are not limited to, a ‘Life Event’.
 
-* Action: in-depth research into the subject matter. Capability uplift of an external team (where applicable), co-design, collaboration and outreach. Embed evidencecial design rigor, apply quantitative and qualitative research and evidencing.
+* Action: in-depth research into the subject matter. Capability uplift of an external team (where applicable), co-design, collaboration and outreach. Embed evidential design rigor, apply quantitative and qualitative research and evidencing.
 * Deliverable: A research discovery document with findings and next steps actions. Reports of all the evidence and findings. Suggestion on areas to develop further through a Design Discovery.
 * Outcome: At the end of this discovery. Time will be taken to drawn up a ‘Project Roadmap’. The roadmap builds on the project scope document and details all the operational requirements to meet the outcomes defined and agreed in from the research discovery.
 
