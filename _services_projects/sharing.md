@@ -34,8 +34,7 @@ The day-long, twice-yearly Showcase is co-hosted by the Ministry for Business, I
 Though it was not involved every year, DIA-organised Techweek events attracted good numbers, with participants wanting more opportunities to share and work together. Events have  included:
 
 * A Better Rules Hack to develop prototypes legislation as a code  
-
-* A Transitioning to an Optimistic Future workshop to explore what an activity, such as starting a business, or arranging the funeral of a loved one, might be like in future
+* A Transitioning to an [Optimistic Future workshop](/2018/08/01/Exploring-Optimistic-Futures-Workshop/) to explore what an activity, such as starting a business, or arranging the funeral of a loved one, might be like in future
 * A workshop on the Digital Service Standard – informed by the Māori worldview
 * A session on Artificial Intelligence and machine learning
 * An Open Lab session demonstrating rapid prototyping for Virtual Reality.
