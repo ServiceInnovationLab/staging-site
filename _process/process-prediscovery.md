@@ -24,7 +24,6 @@ other_process_phases:
 
 ### 2. Pre-discovery phase
 
-
 [![Illustration for pre-discovery phase](/staging-site/assets/img/process/Pre-discovery.png)](/staging-site/assets/img/process/Pre-discovery.png)
 
 #### Purpose
