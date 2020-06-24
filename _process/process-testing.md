@@ -22,6 +22,8 @@ other_process_phases:
 
 ### Alpha and Beta testing
 
+[![Illustration for alpha testing](/staging-site/assets/img/process/Alpha-testing.png)](/staging-site/assets/img/process/Alpha-testing.png)
+
 #### Alpha testing
 
 #### Purpose
