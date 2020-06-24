@@ -30,13 +30,15 @@ h2 {
   <button class="categories-button filter-button" data-category="partnerships">Partnerships</button>
 </div>
 
-<div class="nz-grid">
+<div class="child-page-listing nz-grid-full">
+<!-- <div class="nz-grid"> -->
   <section class="nz-section">
     <div class="nz-section-bottom">
-      <div class="nz-flex nz-flex-wrap">
+      <div class="projects-grid">
+      <!-- <div class="nz-flex nz-flex-wrap"> -->
         {% assign projects_list = site | find_collection: 'services_projects' | weighted_sort: 'project_weight', 'title' %}
         {% for project in projects_list %}
-          {% include card.html
+          {% include card-project.html
            image_src=project.image
            image_alt=project.image_accessibility
            image_icon=project.image_icon
