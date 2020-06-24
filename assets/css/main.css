@@ -4739,6 +4739,7 @@ time {
   transition: opacity .5s;
   background: rgba(90, 0, 10, 0.4);
   color: white;
+  text-align: center;
   /* position the text in t’ middle*/
   display: flex;
   align-items: center;
