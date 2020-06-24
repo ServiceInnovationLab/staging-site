@@ -19,6 +19,8 @@ other_process_phases:
   - "[Alpha and Beta testing](/staging-site/process-tools/Workflow model v2.pdf)"
 ---
 
+[![A shared focus on better services](/staging-site/assets/img/process/Building-better-services.png)](/staging-site/assets/img/process/Building-better-services.png)
+
 ### 1. Engagement phase
 
 #### Purpose
