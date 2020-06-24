@@ -17,11 +17,11 @@ other_process_phases:
 
 ## Lab Journey - snapshot
 
-While the lab's principles stayed consistent how it operated and where it focused evolved. Some of this was guided by the team adapting and iterating based on hands on experience and learning. Other times it was shaped by the wider environment including changes to the authorising environoment, funding, a change of government and practical challenges like needing to move offices three times.
+While the lab's principles stayed consistent how it operated and where it focused evolved. Some of this was guided by the team adapting and iterating based on hands on experience and learning. Other times it was shaped by the wider environment including changes to the authorising environoment, funding, a change of government and practical challenges like the need to move offices three times.
 
-A important reflection is the importance of the ability change, adapt and anticipate is key to the sustainablity of labs.
+A important reflection is the importance of the ability change, adapt and anticipate is key to the sustainability of labs.
 
-We have loosly framed this around four key phases below. This includes the final period of transistion and cloure of the lab.
+We have loosely framed this around four key phases below. This includes the final period of transistion and closure of the lab.
 
 ### Phase 1 - Lab as a space (Feb - Jun 2017)
 
@@ -77,8 +77,6 @@ It was also a period of uncertainty. With resources, work programme alignment an
 
 Work on integrated services continued but some of the barriers to collaboration identified in phase 2 persisted.
 
-[insert picture and link to Kim’s poster]
-
 #### Features
 
 - Lab as a dedicated neutral space (based outside of government) increasingly popular
@@ -97,7 +95,7 @@ Work on integrated services continued but some of the barriers to collaboration 
 
 In late 2019, DIA announced it was closing closethe lab and this would happen  by 30 June, 2020. The decision was part of the move to explore system-wide delivery of integrated services, addressing  significant barriers the lab had faced in terms of funding structures and the single-agency approach.. Much of the work programme transitioned to the relevant lead agencies and DIA’sDigital Public Service branch aimed to continue a level of support to agencies that did not have  in-house service designers. It also started exploring, with other agencies, a better approach to delivering integrated services at a system level..
 
-The transition period coincided with the arrival of Covid-19 in early 2020. The wider government response and need to work remotely under level 3 and 4 enabled the lab to help other teams by sharing its experience of agile and digital collaborative practice, while also  continuing to deliver itswork programme.
+The transition period coincided with the arrival of Covid-19 in early 2020. The wider government response and need to work remotely under Alert Level 3 and 4 enabled the lab to help other teams by sharing its experience of agile and digital collaborative practice, while also  continuing to deliver itswork programme.
 
 #### Features
 
