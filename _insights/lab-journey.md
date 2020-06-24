@@ -1,8 +1,8 @@
 ---
 title: Service Innovation Lab journey
-subtitle: How the lab adapted and evolved over three years
+subtitle: How the lab adapted and evolved its approach over three years
 permalink: /insights/lab-journey/
-excerpt: How the lab adapted and evolved over three years
+excerpt: How the lab adapted and evolved its approach over three years
 image: /assets/img/insights/insights-jounrey-bg.png
 image_accessibility:  icon representing a journey
 external_url: "[Project repo](url)"
@@ -13,9 +13,7 @@ resources:
 other_process_phases:
 ---
 
-### Overview
-
-[more content to go here]
+[![Mapping the lab's journey and story](/staging-site/assets/img/insights/lab-miro-timeline.jpg)](/staging-site/assets/img/insights/lab-miro-timeline.jpg)
 
 ## Lab Journey - snapshot
 
