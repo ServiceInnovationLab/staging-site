@@ -13,8 +13,12 @@ github_repo:
   - "[bagel-jam](https://github.com/ServiceInnovationLab/bagel-jam)"
 report:
 media:
-  - "[Smart Policy Analysis Tools](https://serviceinnovationlab.github.io/bagel-box/)"
-  - "[The Hive](https://www.the-hive.nz/)"
+    - "[Smart Policy Analysis Tools](https://serviceinnovationlab.github.io/bagel-box/)"
+    - "[The Hive](https://www.the-hive.nz/)"
+categories:
+  - Integrated-Services
+  - Tech
+  - Partnerships
 ---
 
 Project Bagel was a project a Department of Internal Affairs team undertook in collaboration with the Ministry of Youth Development (MYD) late in 2019. Its aim was to help government listen to what young people wanted.

@@ -8,6 +8,8 @@ image: /assets/img/projects/20yr-emtech-landscape-image.png
 image_accessibility: Image showing the 20 year landscape. Click on this to view the blogpost and a detailed view of the landscape.
 media: "[20 Year EmTech Landscape](/staging-site/assets/media/20-Year-Emtech-Landscape/Emerging-Technology-20Year-Landscape.pdf)"
 resources:
+categories:
+  - Tech
 ---
 
 <br/>

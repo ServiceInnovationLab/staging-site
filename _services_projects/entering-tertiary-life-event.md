@@ -9,6 +9,7 @@ image: /assets/img/projects/entering-tertiary-life-event.png
 image_accessibility: Planning board covered with sticky notes.
 github_repo:
 media:
+categories: Integrated-Services
 ---
 
 ## Enrolling in tertiary study is not straight-forward

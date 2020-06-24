@@ -23,6 +23,14 @@ h2 {
 </div>
 
 <div class="nz-grid">
+  <button class="categories-button-clear filter-button active-filter">All</button>
+  <button class="categories-button filter-button" data-category="integrated-services">Integrated Services</button>
+  <button class="categories-button filter-button" data-category="tech">Tech</button>
+  <button class="categories-button filter-button" data-category="ways-of-working">Ways of working</button>
+  <button class="categories-button filter-button" data-category="partnerships">Partnerships</button>
+</div>
+
+<div class="nz-grid">
   <section class="nz-section">
     <div class="nz-section-bottom">
       <div class="nz-flex nz-flex-wrap">
@@ -36,6 +44,7 @@ h2 {
            tagline=project.title
            description=project.excerpt
            link=project.permalink
+           categories=project.categories
           %}
         {% endfor %}
         <button id="scrollToTopBtn" title="Go to top">Back to Top</button>
