@@ -24,6 +24,8 @@ other_process_phases:
 
 ### 2. Pre-discovery phase
 
+[![Illustration for pre-discovery phase](/staging-site/assets/img/process/Pre-discovery.png)](/staging-site/assets/img/process/Pre-discovery.png)
+
 #### Purpose
 
 This phase seeks to gather just enough information to describe in a concise way a potential initiative, for the purpose of making a decision to commit (ie funding, sponsorship, resources). AS part of the lab’s operating model, this pre-discovery work was often resourced by the lab prior to seeking project funding from comissionsers.
