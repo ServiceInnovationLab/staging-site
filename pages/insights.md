@@ -7,7 +7,17 @@ content_focus: false
 gridless: true
 ---
 
-<section class="nz-section background-gray">
+<section class="background-medium project">
+  <div class="nz-grid-full nz-flex banner">
+    <div class="nz-grid nz-width-one-whole hero-callout-full hero-callout-no_button">
+      <h1 class="page-title" style="padding-top: 3rem">
+        {{ page.title }}
+      </h1>
+    </div>
+  </div>
+</section>
+
+<section class="nz-section">
    <div class="nz-grid">
     <h2 tabindex="0">Overview</h2>
       <p>Since early 2017 the team have gained experience and insight into developing an innonvation lab inside government. In this section we have set out some key points around system level pattern the team observed plus some practical tips on running a lab.</p>

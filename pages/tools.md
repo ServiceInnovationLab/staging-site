@@ -8,7 +8,7 @@ content_focus: false
 gridless: true
 ---
 
-<section class="nz-section background-gray">
+<section class="nz-section">
   {% include tools-process-nav.html %}
 
   <div class="nz-grid">
